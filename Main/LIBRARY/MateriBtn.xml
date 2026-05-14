@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MateriBtn" itemID="6a013dad-0000012d" symbolType="button" lastModified="1778466221">
+  <timeline>
+    <DOMTimeline name="MateriBtn">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#D9D9D9"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0S2|9129 0!9129 0[9229 0 9229 100!9229 100|9229 2089!9229 2089[9229 2477 8854 2489!8854 2489|0 2489!0 2489|0 0"/>
+                    <Edge cubics="!9129 0(;9196,0 9229,33 9229,100q9129 0Q9229 0q9229 100);"/>
+                    <Edge cubics="!9229 2089(;9229,2348 9104,2481 8854,2489q9229 2089Q9229 2477q8854 2489);"/>
+                    <Edge cubics="!0 0(;0,0 9129,0 9129,0q0 0 9129 0);"/>
+                    <Edge cubics="!8854 2489(;8854,2489 0,2489 0,2489q8854 2489 0 2489);"/>
+                    <Edge cubics="!0 2489(;0,2489 0,0 0,0q0 2489 0 0);"/>
+                    <Edge cubics="!9229 100(;9229,100 9229,2089 9229,2089q9229 100 9229 2089);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" width="453.55" height="97.65" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="7.95" ty="8.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Materi</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.737254901960784" leftMargin="0.1" lineHeight="97.65" size="80" face="Calibri-Bold" fillColor="#004176"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

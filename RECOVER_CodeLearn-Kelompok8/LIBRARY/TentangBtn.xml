@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TentangBtn" itemID="6a014611-0000019f" symbolType="button" lastModified="1778468369">
+  <timeline>
+    <DOMTimeline name="TentangBtn">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#D9D9D9"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0S2|9122 0!9122 0[9223 0 9223 75!9223 75|9223 1567!9223 1567[9223 1858 8848 1867!8848 1867|0 1867!0 1867|0 0"/>
+                    <Edge cubics="!0 1867(;0,1867 0,0 0,0q0 1867 0 0);"/>
+                    <Edge cubics="!9122 0(;9190,0 9223,25 9223,75q9122 0Q9223 0q9223 75);"/>
+                    <Edge cubics="!9223 75(;9223,75 9223,1567 9223,1567q9223 75 9223 1567);"/>
+                    <Edge cubics="!9223 1567(;9223,1761 9098,1861 8848,1867q9223 1567Q9223 1858q8848 1867);"/>
+                    <Edge cubics="!0 0(;0,0 9122,0 9122,0q0 0 9122 0);"/>
+                    <Edge cubics="!8848 1867(;8848,1867 0,1867 0,1867q8848 1867 0 1867);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" width="453.55" height="97.65" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="54.55" ty="6.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Tentang</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.729411764705882" leftMargin="0.1" lineHeight="97.65" size="80" face="Calibri-Bold" fillColor="#004176"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

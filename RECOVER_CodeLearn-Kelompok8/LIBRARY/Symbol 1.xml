@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 1" itemID="6a013ea7-00000020" symbolType="button" lastModified="1778466471">
+  <timeline>
+    <DOMTimeline name="Symbol 1">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <matrix>
+                    <Matrix tx="-206.9" ty="-1078.15"/>
+                  </matrix>
+                  <members>
+                    <DOMShape selected="true">
+                      <matrix>
+                        <Matrix tx="-206.9" ty="-1078.15"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#001558"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!4446 21563S2|9394 21563!9394 21563[9554 21563 9554 21728!9554 21728|9554 23213!9554 23213[9554 23377 9394 23377!9394 23377|4446 23377!4446 23377[4286 23377 4286 23213!4286 23213|4286 21728!4286 21728[4286 21563 4446 21563"/>
+                        <Edge cubics="!9394 21563(;9500,21563 9554,21619 9554,21728q9394 21563Q9554 21563q9554 21728);"/>
+                        <Edge cubics="!4286 21728(;4286,21619 4340,21563 4446,21563q4286 21728Q4286 21563q4446 21563);"/>
+                        <Edge cubics="!4446 23377(;4340,23377 4286,23322 4286,23213q4446 23377Q4286 23377q4286 23213);"/>
+                        <Edge cubics="!9554 23213(;9554,23322 9500,23377 9394,23377q9554 23213Q9554 23377q9394 23377);"/>
+                        <Edge cubics="!9554 21728(;9554,21728 9554,23213 9554,23213q9554 21728 9554 23213);"/>
+                        <Edge cubics="!9394 23377(;9394,23377 4446,23377 4446,23377q9394 23377 4446 23377);"/>
+                        <Edge cubics="!4286 23213(;4286,23213 4286,21728 4286,21728q4286 23213 4286 21728);"/>
+                        <Edge cubics="!4446 21563(;4446,21563 9394,21563 9394,21563q4446 21563 9394 21563);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText selected="true" left="368.75" width="159.75" height="57.95" isSelectable="false">
+                      <matrix>
+                        <Matrix a="1.24993896484375" d="1.24993896484375" tx="-458.4" ty="9.2"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Menu</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" leftMargin="0.1" lineHeight="57.95" size="50" bitmapSize="1000" face="GillSansMT" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMBitmapInstance selected="true" libraryItemName="Bitmap 1">
+                      <matrix>
+                        <Matrix a="0.730575561523438" d="0.730575561523438" tx="183.1" ty="8.85"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
