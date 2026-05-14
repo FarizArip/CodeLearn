@@ -1,0 +1,11 @@
+# Adobe Animate temporary and recovery files
+*.flaproject
+*.tmp
+*.RECOVER_*
+# Compiled output files
+*.swf
+*.html
+*.js
+# OS generated files
+.DS_Store
+Thumbs.db
