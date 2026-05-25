@@ -30,7 +30,7 @@
                     <DOMTextRun>
                       <characters>Materi</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.733333333333333" leftMargin="0.1" lineHeight="97.65" size="80" face="Calibri-Bold" fillColor="#004176"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.729411764705882" leftMargin="0.1" lineHeight="97.65" size="80" face="Calibri-Bold" fillColor="#004176"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
