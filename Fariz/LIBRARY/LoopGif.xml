@@ -1,0 +1,87 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LoopGif" itemID="6a0aaf84-000001ad" symbolType="graphic" lastModified="1779085208">
+  <timeline>
+    <DOMTimeline name="LoopGif" currentFrame="1622" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="67" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_0"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" duration="100" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_1"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="167" duration="133" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_2"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="300" duration="133" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_3"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="433" duration="133" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_4"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="566" duration="133" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_5"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="699" duration="133" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_6"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="832" duration="133" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_7"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="965" duration="200" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_8"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1165" duration="67" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_9"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1232" duration="100" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_10"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1332" duration="133" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_11"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1465" duration="133" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_12"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1598" duration="133" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_13"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1731" duration="200" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="while_flow/while_flow_14"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,11 +1,1091 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="720" height="1280" frameRate="30" currentTimeline="1" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 5" majorVersion="24" buildNumber="5" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="4D5C4A2D55346D4CBF86FFAFA9274253">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="720" height="1280" frameRate="30" currentTimeline="1" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 5" majorVersion="24" buildNumber="5" rulerVisible="true" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="4D5C4A2D55346D4CBF86FFAFA9274253">
+     <folders>
+          <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
+          <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
+          <DOMFolderItem name="Component Assets/ScrollBarSkins" itemID="44ea2edf-000000a6"/>
+          <DOMFolderItem name="Component Assets/Shared" itemID="44f892ff-0000001e"/>
+          <DOMFolderItem name="while_flow" itemID="6a0aaf98-000001de"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Font 1" itemID="6a0aea65-00000392" font="Calibri-Bold" size="0" id="1" sourceLastImported="1779100261" embedRanges="9999"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="Bitmap 10" itemID="6a01b51a-000001a3" sourceExternalFilepath="../Main/LIBRARY/Bitmap 10.png" sourceLastImported="1778496794" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 10.png" bitmapDataHRef="M 45 1779085722.dat" frameRight="1600" frameBottom="1600"/>
+          <DOMBitmapItem name="Bitmap 11" itemID="6a01b802-000001a6" sourceExternalFilepath="../Main/LIBRARY/Bitmap 11.png" sourceLastImported="1778497538" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 11.png" bitmapDataHRef="M 47 1779085722.dat" frameRight="5960" frameBottom="1960"/>
+          <DOMBitmapItem name="Bitmap 12" itemID="6a01b81a-000001a9" sourceExternalFilepath="../Main/LIBRARY/Bitmap 12.png" sourceLastImported="1778497562" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 12.png" bitmapDataHRef="M 46 1779085722.dat" frameRight="6000" frameBottom="1960"/>
+          <DOMBitmapItem name="Bitmap 13" itemID="6a01ce1e-000002cd" sourceExternalFilepath="../Main/LIBRARY/Bitmap 13.png" sourceLastImported="1778503198" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 13.png" bitmapDataHRef="M 38 1779085722.dat" frameRight="13680" frameBottom="4760"/>
+          <DOMBitmapItem name="Bitmap 14" itemID="6a01ce59-000002da" sourceExternalFilepath="../Main/LIBRARY/Bitmap 14.png" sourceLastImported="1778503257" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 14.png" bitmapDataHRef="M 40 1779085722.dat" frameRight="13680" frameBottom="4760"/>
+          <DOMBitmapItem name="Bitmap 16" itemID="6a01ce83-000002e4" sourceExternalFilepath="../Main/LIBRARY/Bitmap 16.png" sourceLastImported="1778503299" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 16.png" bitmapDataHRef="M 42 1779085722.dat" frameRight="13680" frameBottom="4760"/>
+          <DOMBitmapItem name="Bitmap 4" itemID="6a014c33-000002a0" sourceExternalFilepath="../Main/LIBRARY/Bitmap 4.png" sourceLastImported="1778469939" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 4.png" bitmapDataHRef="M 36 1779085722.dat" frameRight="2040" frameBottom="1480"/>
+          <DOMBitmapItem name="Bitmap 6" itemID="6a014e4d-000002ab" sourceExternalFilepath="../Main/LIBRARY/Bitmap 6.png" sourceLastImported="1778470477" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 6.png" bitmapDataHRef="M 37 1779085722.dat" frameRight="13680" frameBottom="4760"/>
+          <DOMBitmapItem name="Bitmap 66" itemID="6a0ae837-0000038d" sourceExternalFilepath="../Fariz/LIBRARY/Bitmap 66.png" sourceLastImported="1779099703" externalFileSize="227" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 66.png" bitmapDataHRef="M 66 1779099703.dat" frameRight="960" frameBottom="960"/>
+          <DOMBitmapItem name="Bitmap 7" itemID="6a015032-000002c5" sourceExternalFilepath="../Main/LIBRARY/Bitmap 7.png" sourceLastImported="1778470962" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 7.png" bitmapDataHRef="M 39 1779085722.dat" frameRight="13680" frameBottom="4760"/>
+          <DOMBitmapItem name="Bitmap 8" itemID="6a015071-000002c8" sourceExternalFilepath="../Main/LIBRARY/Bitmap 8.png" sourceLastImported="1778471025" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 8.png" bitmapDataHRef="M 41 1779085722.dat" frameRight="13680" frameBottom="4760"/>
+          <DOMBitmapItem name="Bitmap 9" itemID="6a015290-000002de" sourceExternalFilepath="../Main/LIBRARY/Bitmap 9.png" sourceLastImported="1778471568" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 9.png" bitmapDataHRef="M 43 1779085722.dat" frameRight="13680" frameBottom="21360"/>
+          <DOMCompiledClipItem name="Component Assets/_private/ComponentShim" itemID="50f45de3-000003c1" linkageExportForAS="true" linkageClassName="fl.core.ComponentShim" sourceExternalFilepath="../Main/LIBRARY/Component Assets/_private/ComponentShim" sourceLastImported="1358192099" displayAsComponent="false" customIconID="0" actionscriptClass="fl.core.ComponentShim" swfScmHRef="9904vgmrqe.swf" swfScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP00ECED5F50F45DDD..swf" persistLivePreview11="true" livePreview11ScmHRef="9905agmrqe.swf" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP00ECED5F50F45DDD..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="Component Assets/_private/ComponentShim.xml" rootSymbolLinkageID="fl.core.ComponentShim" playerVersion="9" actionscriptVersion="3" hashKey="lBSX9Y5jU7802yucctAf9/">
+               <classProperties><![CDATA[<component id="fl/core/ComponentShim" class="fl.core.ComponentShim" modified="1358192086103">
+<movieBounds xmin="0" xmax="0" ymin="0" ymax="0" />
+<componentData>
+<classDefs>
+	<classDef id="fl.core.AccessibilityShim"/>
+	<classDef id="fl.controls.CheckBox"/>
+	<classDef id="fl.controls.LabelButton"/>
+	<classDef id="fl.controls.List"/>
+	<classDef id="fl.controls.ComboBox"/>
+	<classDef id="fl.controls.ProgressBarDirection"/>
+	<classDef id="fl.data.SimpleCollectionItem"/>
+	<classDef id="fl.controls.TextArea"/>
+	<classDef id="fl.display.ProLoaderInfo"/>
+	<classDef id="fl.controls.Slider"/>
+	<classDef id="fl.events.DataChangeEvent"/>
+	<classDef id="fl.accessibility.ComboBoxAccImpl"/>
+	<classDef id="fl.events.DataChangeType"/>
+	<classDef id="fl.accessibility.TileListAccImpl"/>
+	<classDef id="fl.accessibility.ButtonAccImpl"/>
+	<classDef id="fl.controls.BaseButton"/>
+	<classDef id="fl.core.UIComponent"/>
+	<classDef id="fl.controls.DataGrid"/>
+	<classDef id="fl.display.ProLoader"/>
+	<classDef id="fl.containers.BaseScrollPane"/>
+	<classDef id="fl.livepreview.LivePreviewParent"/>
+	<classDef id="fl.controls.Label"/>
+	<classDef id="fl.managers.IFocusManagerComponent"/>
+	<classDef id="fl.controls.UIScrollBar"/>
+	<classDef id="fl.controls.listClasses.ICellRenderer"/>
+	<classDef id="fl.controls.dataGridClasses.DataGridCellEditor"/>
+	<classDef id="fl.controls.ColorPicker"/>
+	<classDef id="fl.managers.FocusManager"/>
+	<classDef id="fl.events.ProLoaderRSLPreloaderSandboxEvent"/>
+	<classDef id="fl.events.DataGridEventReason"/>
+	<classDef id="fl.events.SliderEvent"/>
+	<classDef id="fl.events.SliderEventClickTarget"/>
+	<classDef id="fl.controls.progressBarClasses.IndeterminateBar"/>
+	<classDef id="fl.controls.listClasses.ListData"/>
+	<classDef id="fl.core.InvalidationType"/>
+	<classDef id="fl.controls.RadioButtonGroup"/>
+	<classDef id="fl.controls.NumericStepper"/>
+	<classDef id="fl.accessibility.LabelButtonAccImpl"/>
+	<classDef id="fl.containers.UILoader"/>
+	<classDef id="fl.events.ColorPickerEvent"/>
+	<classDef id="fl.controls.ButtonLabelPlacement"/>
+	<classDef id="fl.accessibility.CheckBoxAccImpl"/>
+	<classDef id="fl.managers.StyleManager"/>
+	<classDef id="fl.controls.TileList"/>
+	<classDef id="fl.controls.RadioButton"/>
+	<classDef id="fl.containers.ScrollPane"/>
+	<classDef id="fl.controls.listClasses.TileListData"/>
+	<classDef id="fl.events.InteractionInputType"/>
+	<classDef id="fl.controls.Button"/>
+	<classDef id="fl.core.ComponentShim"/>
+	<classDef id="fl.accessibility.UIComponentAccImpl"/>
+	<classDef id="fl.controls.SelectableList"/>
+	<classDef id="fl.events.ComponentEvent"/>
+	<classDef id="fl.accessibility.RadioButtonAccImpl"/>
+	<classDef id="fl.controls.listClasses.CellRenderer"/>
+	<classDef id="fl.managers.IFocusManagerGroup"/>
+	<classDef id="fl.controls.ScrollPolicy"/>
+	<classDef id="fl.controls.ScrollBar"/>
+	<classDef id="fl.controls.ProgressBar"/>
+	<classDef id="fl.controls.listClasses.ImageCell"/>
+	<classDef id="fl.managers.IFocusManager"/>
+	<classDef id="fl.controls.ProgressBarMode"/>
+	<classDef id="fl.accessibility.SelectableListAccImpl"/>
+	<classDef id="fl.controls.TextInput"/>
+	<classDef id="fl.events.ListEvent"/>
+	<classDef id="fl.accessibility.AccImpl"/>
+	<classDef id="fl.accessibility.DataGridAccImpl"/>
+	<classDef id="fl.events.ScrollEvent"/>
+	<classDef id="fl.controls.dataGridClasses.DataGridColumn"/>
+	<classDef id="fl.events.DataGridEvent"/>
+	<classDef id="fl.data.TileListCollectionItem"/>
+	<classDef id="fl.data.DataProvider"/>
+	<classDef id="fl.accessibility.ListAccImpl"/>
+	<classDef id="fl.controls.dataGridClasses.HeaderRenderer"/>
+	<classDef id="fl.controls.ScrollBarDirection"/>
+	<classDef id="fl.controls.SliderDirection"/>
+</classDefs>
+<class id="fl.core.ComponentShim" >
+	<method id="ComponentShim" isConstructor="true" isProperty="false">
+	</method>
+</class>
+</componentData>
+</component>
+]]></classProperties>
+               <SwcItem name="fl.core.ComponentShim" version="1358192086" isTopLevel="true"/>
+          </DOMCompiledClipItem>
+          <DOMSoundItem name="Materi1.wav" itemID="6a0adafa-00000320" linkageExportForAS="true" linkageClassName="Materi1" sourceExternalFilepath="../Fariz/LIBRARY/Materi1.wav" sourceLastImported="1779096268" externalFileSize="40237134" href="Materi1.wav" soundDataHRef="M 63 1779096314.dat" format="44kHz 16bit Stereo" sampleCount="10059264" dataLength="40237056"/>
+          <DOMSoundItem name="Materi2.wav" itemID="6a0adafa-00000324" linkageExportForAS="true" linkageClassName="Materi2" sourceExternalFilepath="../Fariz/LIBRARY/Materi2.wav" sourceLastImported="1779095933" externalFileSize="32753742" href="Materi2.wav" soundDataHRef="M 64 1779096314.dat" format="44kHz 16bit Stereo" sampleCount="8188416" dataLength="32753664"/>
+          <DOMSoundItem name="Materi3.wav" itemID="6a0adafb-00000328" linkageExportForAS="true" linkageClassName="Materi3" sourceExternalFilepath="../Fariz/LIBRARY/Materi3.wav" sourceLastImported="1779095921" externalFileSize="18049614" href="Materi3.wav" soundDataHRef="M 65 1779096315.dat" format="44kHz 16bit Stereo" sampleCount="4512384" dataLength="18049536"/>
+          <DOMBitmapItem name="while_flow/while_flow_0" itemID="6a0aaf98-000001dd" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_0.gif" sourceLastImported="1779084630" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_0.gif" bitmapDataHRef="M 48 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_1" itemID="6a0aaf98-000001b5" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_1" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_1" bitmapDataHRef="M 49 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_10" itemID="6a0aaf98-000001d0" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_10" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_10" bitmapDataHRef="M 58 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_11" itemID="6a0aaf98-000001d3" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_11" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_11" bitmapDataHRef="M 59 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_12" itemID="6a0aaf98-000001d6" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_12" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_12" bitmapDataHRef="M 60 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_13" itemID="6a0aaf98-000001d9" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_13" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_13" bitmapDataHRef="M 61 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_14" itemID="6a0aaf98-000001dc" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_14" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_14" bitmapDataHRef="M 62 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_2" itemID="6a0aaf98-000001b8" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_2" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_2" bitmapDataHRef="M 50 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_3" itemID="6a0aaf98-000001bb" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_3" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_3" bitmapDataHRef="M 51 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_4" itemID="6a0aaf98-000001be" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_4" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_4" bitmapDataHRef="M 52 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_5" itemID="6a0aaf98-000001c1" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_5" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_5" bitmapDataHRef="M 53 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_6" itemID="6a0aaf98-000001c4" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_6" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_6" bitmapDataHRef="M 54 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_7" itemID="6a0aaf98-000001c7" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_7" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_7" bitmapDataHRef="M 55 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_8" itemID="6a0aaf98-000001ca" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_8" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_8" bitmapDataHRef="M 56 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="while_flow/while_flow_9" itemID="6a0aaf98-000001cd" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_9" sourceLastImported="1779085208" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_9" bitmapDataHRef="M 57 1779085722.dat" frameRight="12000" frameBottom="9000"/>
+     </media>
+     <symbols>
+          <Include href="Component Assets/_private/Component_avatar.xml" loadImmediate="false" itemID="44f89322-00000020" lastModified="1168286780"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowDown_disabledSkin.xml" itemID="4399b48a-00008d0a" lastModified="1168289950"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowDown_downSkin.xml" itemID="4399b4a4-00008e29" lastModified="1168289961"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowDown_icon.xml" itemIcon="1" loadImmediate="false" itemID="456df1e4-00000190" lastModified="1168289966"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowDown_overSkin.xml" itemID="4399c50b-00008f6e" lastModified="1168290195"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowDown_upSkin.xml" itemID="4399c519-0000900f" lastModified="1168290217"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowUp_disabledSkin.xml" itemID="4399b493-00008d74" lastModified="1168290230"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowUp_downSkin.xml" itemID="4399c54a-00009130" lastModified="1168290244"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowUp_icon.xml" itemIcon="1" loadImmediate="false" itemID="456df209-00000192" lastModified="1168290248"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowUp_overSkin.xml" itemID="4399c55c-000091cd" lastModified="1168290260"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowUp_upSkin.xml" itemID="4399c568-00009256" lastModified="1168290275"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollBar_thumbIcon.xml" itemID="442a68fb-00006a9d" lastModified="1164927281"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollThumb_downSkin.xml" itemID="4399c5a6-000092e7" lastModified="1168290280"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollThumb_overSkin.xml" itemID="4399c5b6-00009358" lastModified="1168290288"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollThumb_upSkin.xml" itemID="4399c5d1-000093e9" lastModified="1168290292"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollTrack_skin.xml" itemID="44fdb956-000002bc" lastModified="1168290301"/>
+          <Include href="Component Assets/Shared/arrowIcon.xml" itemIcon="1" loadImmediate="false" itemID="456df449-0000019f" lastModified="1168290350"/>
+          <Include href="Component Assets/Shared/focusRectSkin.xml" itemID="44d8b6f8-00000055" lastModified="1168290361"/>
+          <Include href="LoopGif.xml" itemIcon="1" loadImmediate="false" itemID="6a0aaf84-000001ad" lastModified="1779085208"/>
+          <Include href="materi1.xml" itemIcon="0" loadImmediate="false" itemID="6a014e86-000002ad" lastModified="1778503231"/>
+          <Include href="materi2.xml" itemIcon="0" loadImmediate="false" itemID="6a0150e0-000002ca" lastModified="1778503281"/>
+          <Include href="materi3.xml" itemIcon="0" loadImmediate="false" itemID="6a0150e5-000002d0" lastModified="1778503318"/>
+          <Include href="MenuBtn.xml" itemIcon="0" loadImmediate="false" itemID="6a014c4d-000002a2" lastModified="1778469965"/>
+          <Include href="NextBtn.xml" loadImmediate="false" itemID="6a01c0b9-000001ab" lastModified="1778499769"/>
+          <Include href="pBar.xml" loadImmediate="false" itemID="6a0ae4cd-00000381" lastModified="1779098829"/>
+          <Include href="PlayBtn.xml" loadImmediate="false" itemID="6a0ae27e-0000036c" lastModified="1779102321"/>
+          <Include href="PrevBtn.xml" loadImmediate="false" itemID="6a01c0be-000001b0" lastModified="1778499774"/>
+          <Include href="UIScrollBar.xml" itemID="44aaa686-00000064" lastModified="1358192122"/>
+     </symbols>
      <timelines>
           <DOMTimeline name="Scene 1" layerDepthEnabled="true">
                <layers>
-                    <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+                    <DOMLayer name="action" color="#FF800A" locked="true" current="true" isSelected="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+
+BtnBack.addEventListener("click", function() {
+	//gotoAndPlay(1, "Halaman Menu Utama");
+});
+
+Chapter1.addEventListener("click", function() {
+	gotoAndPlay(2);
+});
+
+Chapter2.addEventListener("click", function() {
+	gotoAndPlay(3);
+});
+
+Chapter3.addEventListener("click", function() {
+	gotoAndPlay(4);
+});
+
+if (initialized) {
+	webView.dispose();
+}
+
+var webView: StageWebView = new StageWebView();
+var initialized = false;
+
+function stageWebViewGif(isi) {
+	webView.stage = this.stage;
+	if (webView.viewPort) {
+		webView.viewPort = null;
+	}
+	if (!initialized) {
+		initialized = true;
+	}
+	webView.viewPort = new Rectangle(120, 300, 480, 340);
+	
+	var gif: String = isi;
+	
+	webView.loadURL(gif);
+}
+
+webView.stage = null;
+webView.viewPort = null;]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+
+BtnBack1.addEventListener("click", function() {
+	cleanUpSound();
+	gotoAndPlay(1);
+});
+
+Next1.addEventListener("click", function() {
+	cleanUpSound();
+	gotoAndPlay(3);
+});
+
+stageWebViewGif("https://www.wikitechy.com/tutorials/c++/img/c++-images/c++-tutorial-class-object.gif");
+
+var backsound:Sound = new Materi1();
+var soundChannel:SoundChannel = null;
+var isSoundPlaying:Boolean = false;
+var pausePosition:Number = 0;
+var soundLength:Number = backsound.length;
+
+progressBar.scaleX = 0;
+
+if (soundLength > 0) {
+    totalTime_txt.text = formatTime(soundLength);
+} else {
+    totalTime_txt.text = "0:00";
+}
+currentTime_txt.text = "0:00";
+
+playBtn.addEventListener(MouseEvent.CLICK, togglePlayPause);
+
+function togglePlayPause(e:MouseEvent):void {
+    if (isSoundPlaying) {
+        if (soundChannel != null) {
+            pausePosition = soundChannel.position;
+            soundChannel.stop();
+            soundChannel = null;
+        }
+		playBtn.gotoAndStop(1);
+        isSoundPlaying = false;
+    } else {
+        if (pausePosition >= soundLength) {
+            pausePosition = 0;
+        }
+        soundChannel = backsound.play(pausePosition);
+		playBtn.gotoAndStop(2);
+        isSoundPlaying = true;
+        soundChannel.addEventListener(Event.SOUND_COMPLETE, onSoundComplete);
+    }
+}
+
+function onSoundComplete(e:Event):void {
+    soundChannel.removeEventListener(Event.SOUND_COMPLETE, onSoundComplete);
+    soundChannel = null;
+    isSoundPlaying = false;
+    pausePosition = 0;
+    progressBar.scaleX = 0;
+    currentTime_txt.text = formatTime(0);
+}
+
+addEventListener(Event.ENTER_FRAME, updateProgress);
+
+function updateProgress(e:Event):void {
+    if (isSoundPlaying && soundChannel != null) {
+        var pos:Number = soundChannel.position;
+        if (soundLength > 0) {
+            var percent:Number = pos / soundLength;
+			var maxPercent:Number = Math.min(0.86, percent);
+            percent = Math.min(1, Math.max(0, maxPercent));
+            progressBar.scaleX = percent;
+        }
+	
+        currentTime_txt.text = formatTime(pos);
+    }
+}
+
+function formatTime(ms:Number):String {
+    var seconds:Number = Math.floor(ms / 1000);
+    var minutes:Number = Math.floor(seconds / 60);
+    seconds = seconds % 60;
+	
+    var secStr:String = (seconds < 10) ? "0" + seconds : String(seconds);
+    return minutes + ":" + secStr;
+}
+
+function cleanUpSound():void {
+    if (soundChannel) {
+        soundChannel.stop();
+        soundChannel.removeEventListener(Event.SOUND_COMPLETE, onSoundComplete);
+    }
+    removeEventListener(Event.ENTER_FRAME, updateProgress);
+	if (playBtn) {
+		playBtn.gotoAndStop(1);
+		playBtn.removeEventListener(MouseEvent.CLICK, togglePlayPause);
+	}
+}]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+
+BtnBack2.addEventListener("click", function() {
+	cleanUpSound();
+	gotoAndPlay(1);
+});
+
+Prev2.addEventListener("click", function() {
+	cleanUpSound();
+	gotoAndPlay(2);
+});
+
+Next2.addEventListener("click", function() {
+	cleanUpSound();
+	gotoAndPlay(4);
+});
+
+stageWebViewGif("https://tara.layak.in/images/stories/if_then_else_flow.gif");
+
+backsound = new Materi2();
+isSoundPlaying = false;
+pausePosition = 0;
+soundLength = backsound.length;
+
+progressBar.scaleX = 0;
+
+if (soundLength > 0) {
+    totalTime_txt.text = formatTime(soundLength);
+} else {
+    totalTime_txt.text = "0:00";
+}
+currentTime_txt.text = "0:00";
+
+playBtn.addEventListener(MouseEvent.CLICK, togglePlayPause);
+
+addEventListener(Event.ENTER_FRAME, updateProgress);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+
+BtnBack3.addEventListener("click", function() {
+	cleanUpSound();
+	gotoAndPlay(1);
+});
+
+Prev3.addEventListener("click", function() {
+	cleanUpSound();
+	gotoAndPlay(3);
+});
+
+Next3.addEventListener("click", function() {
+	cleanUpSound();
+	gotoAndPlay(1);
+	// Ini langsung ke kuis, ingfokan ketika sudah ada
+});
+
+stageWebViewGif("https://tara.layak.in/images/stories/while_flow.gif");
+
+backsound = new Materi3();
+isSoundPlaying = false;
+pausePosition = 0;
+soundLength = backsound.length;
+
+progressBar.scaleX = 0;
+
+if (soundLength > 0) {
+    totalTime_txt.text = formatTime(soundLength);
+} else {
+    totalTime_txt.text = "0:00";
+}
+currentTime_txt.text = "0:00";
+
+if (playBtn) playBtn.gotoAndStop(1);
+
+playBtn.addEventListener(MouseEvent.CLICK, togglePlayPause);
+
+addEventListener(Event.ENTER_FRAME, updateProgress);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="pBar" color="#FF0000" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="pBar" name="progressBar">
+                                             <matrix>
+                                                  <Matrix a="0.0102691650390625" tx="299.35" ty="1036.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="4.85" y="9.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="pBg" color="#009999" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#999999"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <SolidColor color="#0E1B59"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="0.1">
+                                                            <fill>
+                                                                 <SolidColor alpha="0"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!6149 20724S2|11915 20724!11915 20724[11982 20724 12029 20779!12029 20779[12077 20835 12077 20913!12077 20913|12077 20914!12077 20914[12077 20992 12029 21047!12029 21047[11982 21103 11915 21103!11915 21103|6149 21103!6149 21103[6082 21103
+ 6034 21047!6034 21047[5987 20992 5987 20914!5987 20914|5987 20913!5987 20913[5987 20835 6034 20779!6034 20779[6082 20724 6149 20724"/>
+                                                  <Edge fillStyle1="2" edges="
+!4619 20568S2[4631 20568 4639 20576!4639 20576[4648 20585 4648 20597!4648 20597|4648 21215!4648 21215[4648 21227 4639 21235!4639 21235[4631 21244 4619 21244!4619 21244[4607 21244 4598 21235!4598 21235|4597.5 21234.5!4597.5 21234.5[4590
+ #52EA.A4 4590 21215!4590 21215|4590 20597!4590 20597[4590 #5069.5C 4597.5 20576.5!4597.5 20576.5|4598 20576!4598 20576[4607 20568 4619 20568"/>
+                                                  <Edge strokeStyle="1" edges="
+!4597.5 21234.5S4|4597 21235!4597 21235[4589 21244 4577 21244!4577 21244[4565 21244 4556 21235!4556 21235[4548 21227 4548 21215!4548 21215|4548 20597!4548 20597[4548 20585 4556 20576!4556 20576[4565 20568 4577 20568!4577 20568[4589 20568
+ 4597 20576!4597 20576|4597.5 20576.5"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Asset" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#D9D9D9"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="0.1">
+                                                            <fill>
+                                                                 <SolidColor alpha="0"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!0 1507|0 0!0 0|14400 0!14400 0|14400 1507"/>
+                                                  <Edge fillStyle1="1" edges="!14400 1507|14400 2049!14400 2049[14400 2611 14107 3010!14107 3010[13814 3408 13400 3408!13400 3408|1000 3408!1000 3408[586 3408 293 3010!293 3010[0 2611 0 2049!0 2049|0 1507"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMStaticText width="453.55" height="97.65" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="0.999984741210938" d="0.999984741210938" tx="133.25" ty="34.6"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Materi</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.713725490196078" leftMargin="0.1" lineHeight="97.65" size="80" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="materi1" name="Chapter1" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="53" ty="309"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="310.25" y="107.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="materi2" name="Chapter2" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="593"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="313" y="107.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="materi3" name="Chapter3" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="862"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="312.65" y="107.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="MenuBtn" name="BtnBack" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="44"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="51" y="37"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#D9D9D9"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <SolidColor color="#001558"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="0.1">
+                                                            <fill>
+                                                                 <SolidColor alpha="0"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                                  <StrokeStyle index="2">
+                                                       <SolidStroke scaleMode="normal" weight="6">
+                                                            <fill>
+                                                                 <SolidColor color="#001558"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!0 1507|0 0!0 0|14400 0!14400 0|14400 1507"/>
+                                                  <Edge fillStyle1="1" edges="!14400 1507|14400 2049!14400 2049[14400 2611 14107 3010!14107 3010[13814 3408 13400 3408!13400 3408|1000 3408!1000 3408[586 3408 293 3010!293 3010[0 2611 0 2049!0 2049|0 1507"/>
+                                                  <Edge fillStyle1="1" strokeStyle="2" edges="!9002 4748[9002 4899 8895 5006!8895 5006[8853 5048 8805 5073!8805 5073[8729 5113 8637 5113!8637 5113[8545 5113 8469 5073!8469 5073[8421 5048 8379 5006!8379 5006[8272 4899 8272 4748!8272 4748[8272 4596 8379 4489!8379 4489[8486 4382 8637
+ 4382!8637 4382[8788 4382 8895 4489!8895 4489[9002 4596 9002 4748!7513 4748[7513 4899 7405 5006!7405 5006[7364 5048 7315 5073!7315 5073[7239 5113 7147 5113!7147 5113[7055 5113 6979 5073!6979 5073[6931 5048 6889 5006!6889 5006[6782 4899
+ 6782 4748!6782 4748[6782 4596 6889 4489!6889 4489[6996 4382 7147 4382!7147 4382[7298 4382 7405 4489!7405 4489[7513 4596 7513 4748"/>
+                                                  <Edge fillStyle1="2" strokeStyle="2" edges="
+!5931 4748[5931 4899 5824 5006!5824 5006[5782 5048 5734 5073!5734 5073[5658 5113 5566 5113!5566 5113[5474 5113 5398 5073!5398 5073[5350 5048 5308 5006!5308 5006[5201 4899 5201 4748!5201 4748[5201 4596 5308 4489!5308 4489[5415 4382 5566
+ 4382!5566 4382[5717 4382 5824 4489!5824 4489[5931 4596 5931 4748"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMStaticText width="453.55" height="141.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="0.999984741210938" d="0.999984741210938" tx="133.25" ty="11.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Sintaks &amp;&#xD;Tipe Data</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.709803921568627" leftMargin="0.1" lineHeight="69.55" size="57" bitmapSize="1140" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 9">
+                                             <matrix>
+                                                  <Matrix a="0.7584228515625" d="0.7584228515625" tx="101" ty="286"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMDynamicText name="Materi" width="453.55" height="232.6" isSelectable="false" scrollable="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix a="0.999984741210938" d="0.999984741210938" tx="133.25" ty="708.15"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Pemrograman komputer bertumpu pada konsep algoritma, yaitu urutan langkah logis yang deterministik. Algoritma paling dasar dibangun di atas prinsip runtunan (sequence): instruksi dikerjakan satu per satu, tepat satu kali, sesuai urutan penulisan, dan instruksi terakhir menjadi titik terminasi. Untuk mengkodifikasi algoritma, bahasa pemrograman hadir dalam spektrum dari tingkat rendah hingga tinggi. Bahasa tingkat rendah (mesin dan Assembly) memiliki korespondensi satu banding satu dengan instruksi perangkat keras, efisien tetapi sulit dipahami dan machine-dependent. Bahasa tingkat menengah (C, C++) merupakan hibrida yang memberikan abstraksi struktural namun tetap mewajibkan pengelolaan memori eksplisit. Bahasa tingkat tinggi (Java, C#, Python) mengutamakan keterbacaan dan portabilitas, sehingga harus dikompilasi atau diinterpretasi. Dalam sintaks C++, kata kunci bersifat case-sensitive (harus huruf kecil), setiap pernyataan diakhiri titik koma (;), dan blok pernyataan didefinisikan dengan kurung kurawal { } yang menandakan ruang lingkup memori terisolasi. Kesalahan dalam program dapat berupa kesalahan sintaksis (melanggar tata bahasa, terdeteksi pada compile-time, fatal) atau kesalahan logika (runtime, bisa fatal seperti divide by zero atau nonfatal seperti hasil komputasi salah). Pemahaman ini mendasari penulisan struktur kontrol yang benar.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="30.5" size="25" bitmapSize="500" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMComponentInstance libraryItemName="UIScrollBar" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix d="2.365966796875" tx="588.8" ty="706.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="7.5" y="50"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="direction">
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="vertical" enumeration="vertical,horizontal" type="List"/>
+   </property>
+   <property id="scrollTargetName">
+      <Inspectable name="scrollTargetName" unlocalizedName="scrollTargetName" variable="scrollTargetName" category="" verbose="0" defaultValue="Materi" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMDynamicText name="Visual" width="453.55" height="279.3" isSelectable="false" scrollable="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix a="0.999984741210938" d="0.999984741210938" tx="133.25" ty="320.2"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>#include &lt;iostream&gt;&#xD;using namespace std;&#xD;&#xD;int main() {&#xD;    int angka = 10;          // variabel integer&#xD;    cout &lt;&lt; "Nilai: " &lt;&lt; angka &lt;&lt; endl;   // output&#xD;    return 0;               // akhir program&#xD;}&#xD;&#xD;// Ini komentar satu baris&#xD;/*&#xD;   Ini komentar&#xD;   banyak baris&#xD;*/&#xD;&#xD;int x = 5   // error: kurang titik koma&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="28.1" size="23" bitmapSize="460" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMComponentInstance libraryItemName="UIScrollBar" uniqueID="2">
+                                             <matrix>
+                                                  <Matrix d="2.83294677734375" tx="588.8" ty="318.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="7.5" y="50"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="direction">
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="vertical" enumeration="vertical,horizontal" type="List"/>
+   </property>
+   <property id="scrollTargetName">
+      <Inspectable name="scrollTargetName" unlocalizedName="scrollTargetName" variable="scrollTargetName" category="" verbose="0" defaultValue="Visual" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMDynamicText name="totalTime_txt" width="100" height="28.1" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="210.7" ty="1031"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>04:20</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="28.1" size="23" bitmapSize="460" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="NextBtn" name="Next1">
+                                             <matrix>
+                                                  <Matrix tx="417" ty="1140"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="101.6" y="33.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="PlayBtn" name="playBtn">
+                                             <matrix>
+                                                  <Matrix tx="107" ty="1006"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="40" y="40"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText name="currentTime_txt" width="100" height="28.1" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="150.55" ty="1031"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>04:20</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="28.1" size="23" bitmapSize="460" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="MenuBtn" name="BtnBack1" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="44"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="51" y="37"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#D9D9D9"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <SolidColor color="#001558"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="0.1">
+                                                            <fill>
+                                                                 <SolidColor alpha="0"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                                  <StrokeStyle index="2">
+                                                       <SolidStroke scaleMode="normal" weight="6">
+                                                            <fill>
+                                                                 <SolidColor color="#001558"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="
+!0 1507|0 0!0 0|14400 0!14400 0|14400 1507"/>
+                                                  <Edge fillStyle1="1" edges="
+!14400 1507|14400 2049!14400 2049[14400 2611 14107 3010!14107 3010[13814 3408 13400 3408!13400 3408|1000 3408!1000 3408[586 3408 293 3010!293 3010[0 2611 0 2049!0 2049|0 1507"/>
+                                                  <Edge fillStyle1="1" strokeStyle="2" edges="
+!9002 4748[9002 4899 8895 5006!8895 5006[8853 5048 8805 5073!8805 5073[8729 5113 8637 5113!8637 5113[8545 5113 8469 5073!8469 5073[8421 5048 8379 5006!8379 5006[8272 4899 8272 4748!8272 4748[8272 4596 8379 4489!8379 4489[8486 4382 8637
+ 4382!8637 4382[8788 4382 8895 4489!8895 4489[9002 4596 9002 4748"/>
+                                                  <Edge fillStyle1="2" strokeStyle="2" edges="
+!7513 4748[7513 4899 7405 5006!7405 5006[7364 5048 7315 5073!7315 5073[7239 5113 7147 5113!7147 5113[7055 5113 6979 5073!6979 5073[6931 5048 6889 5006!6889 5006[6782 4899 6782 4748!6782 4748[6782 4596 6889 4489!6889 4489[6996 4382 7147
+ 4382!7147 4382[7298 4382 7405 4489!7405 4489[7513 4596 7513 4748"/>
+                                                  <Edge fillStyle1="1" strokeStyle="2" edges="
+!5931 4748[5931 4899 5824 5006!5824 5006[5782 5048 5734 5073!5734 5073[5658 5113 5566 5113!5566 5113[5474 5113 5398 5073!5398 5073[5350 5048 5308 5006!5308 5006[5201 4899 5201 4748!5201 4748[5201 4596 5308 4489!5308 4489[5415 4382 5566
+ 4382!5566 4382[5717 4382 5824 4489!5824 4489[5931 4596 5931 4748"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMStaticText width="453.55" height="141.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="0.999984741210938" d="0.999984741210938" tx="133.25" ty="11.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Statement&#xD;Seleksi</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="69.55" size="57" bitmapSize="1140" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 9">
+                                             <matrix>
+                                                  <Matrix a="0.7584228515625" d="0.7584228515625" tx="101" ty="286"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMDynamicText name="Materi" width="453.55" height="232.6" isSelectable="false" scrollable="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix a="0.999984741210938" d="0.999984741210938" tx="133.25" ty="708.15"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Pernyataan seleksi memungkinkan program memilih blok instruksi berdasarkan evaluasi kondisi logika. C++ menyediakan if (seleksi tunggal) yang mengeksekusi blok hanya jika kondisi true. if...else (seleksi ganda) memberikan dua jalur saling eksklusif. Untuk kondisi bertingkat, digunakan if...else bersarang, namun harus waspada terhadap masalah dangling-else, yaitu ketika kompilator mengikat else dengan if terdekat, bukan sesuai indentasi visual. Solusinya adalah selalu menggunakan kurung kurawal { } pada setiap blok. Untuk seleksi ringkas dengan nilai balik, C++ menyediakan operator ternary (?:) berbentuk kondisi ? nilaiJikaBenar : nilaiJikaSalah. Untuk seleksi multi-kasus dengan tipe diskrit (integer atau char), switch lebih efisien karena menggunakan jump table. Setiap kasus biasanya diakhiri break untuk mencegah fall-through (eksekusi berlanjut ke kasus berikutnya tanpa henti). switch lebih terbatas dibanding if karena hanya menguji kesetaraan terhadap konstanta.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="30.5" size="25" bitmapSize="500" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMComponentInstance libraryItemName="UIScrollBar" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix d="2.365966796875" tx="588.8" ty="706.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="7.5" y="50"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="direction">
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="vertical" enumeration="vertical,horizontal" type="List"/>
+   </property>
+   <property id="scrollTargetName">
+      <Inspectable name="scrollTargetName" unlocalizedName="scrollTargetName" variable="scrollTargetName" category="" verbose="0" defaultValue="Materi" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMDynamicText name="Visual" width="453.55" height="279.3" isSelectable="false" scrollable="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix a="0.999984741210938" d="0.999984741210938" tx="133.25" ty="320.2"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>// if&#xD;int nilai = 80;&#xD;if (nilai &gt;= 75) {&#xD;    cout &lt;&lt; &quot;Lulus&quot;;&#xD;}&#xD;&#xD;// if .. else&#xD;int usia = 17;&#xD;if (usia &gt;= 18) {&#xD;    cout &lt;&lt; &quot;Dewasa&quot;;&#xD;} else {&#xD;    cout &lt;&lt; &quot;Belum dewasa&quot;;&#xD;}&#xD;&#xD;// if ... else (nested)&#xD;int nilai = 85;&#xD;if (nilai &gt;= 70) {&#xD;    if (nilai &gt;= 85) cout &lt;&lt; &quot;A&quot;;&#xD;    else cout &lt;&lt; &quot;B&quot;;&#xD;} else {&#xD;    cout &lt;&lt; &quot;C&quot;;&#xD;}&#xD;&#xD;// dangling-else&#xD;// Salah (ambigu)&#xD;if (x &gt; 0)&#xD;    if (y &gt; 0) cout &lt;&lt; &quot;A&quot;;&#xD;else cout &lt;&lt; &quot;B&quot;;   // else terikat ke if (y&gt;0) bukan ke if (x&gt;0)&#xD;// Benar dengan kurung kurawal&#xD;if (x &gt; 0) {&#xD;    if (y &gt; 0) cout &lt;&lt; &quot;A&quot;;&#xD;} else {&#xD;    cout &lt;&lt; &quot;B&quot;;&#xD;}&#xD;&#xD;// switch case&#xD;char grade = &apos;B&apos;;&#xD;switch (grade) {&#xD;    case &apos;A&apos;: cout &lt;&lt; &quot;Sangat baik&quot;; break;&#xD;    case &apos;B&apos;: cout &lt;&lt; &quot;Baik&quot;; break;&#xD;    case &apos;C&apos;: cout &lt;&lt; &quot;Cukup&quot;; break;&#xD;    default: cout &lt;&lt; &quot;Nilai tidak dikenal&quot;;&#xD;}</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="28.1" size="23" bitmapSize="460" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMComponentInstance libraryItemName="UIScrollBar" uniqueID="2">
+                                             <matrix>
+                                                  <Matrix d="2.83294677734375" tx="588.8" ty="318.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="7.5" y="50"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="direction">
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="vertical" enumeration="vertical,horizontal" type="List"/>
+   </property>
+   <property id="scrollTargetName">
+      <Inspectable name="scrollTargetName" unlocalizedName="scrollTargetName" variable="scrollTargetName" category="" verbose="0" defaultValue="Visual" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMSymbolInstance libraryItemName="NextBtn" name="Next2">
+                                             <matrix>
+                                                  <Matrix tx="417" ty="1140"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="101.6" y="33.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="PrevBtn" name="Prev2">
+                                             <matrix>
+                                                  <Matrix tx="101" ty="1139"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="102" y="33.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText name="totalTime_txt" width="100" height="28.1" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="210.7" ty="1031"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>04:20</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="28.1" size="23" bitmapSize="460" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText name="currentTime_txt" width="100" height="28.1" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="150.55" ty="1031"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>04:20</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="28.1" size="23" bitmapSize="460" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="PlayBtn" name="playBtn">
+                                             <matrix>
+                                                  <Matrix tx="107" ty="1006"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="40" y="40"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="MenuBtn" name="BtnBack2" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="44"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="51" y="37"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#D9D9D9"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <SolidColor color="#001558"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="0.1">
+                                                            <fill>
+                                                                 <SolidColor alpha="0"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                                  <StrokeStyle index="2">
+                                                       <SolidStroke scaleMode="normal" weight="6">
+                                                            <fill>
+                                                                 <SolidColor color="#001558"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="
+!0 1507|0 0!0 0|14400 0!14400 0|14400 1507"/>
+                                                  <Edge fillStyle1="1" edges="
+!14400 1507|14400 2049!14400 2049[14400 2611 14107 3010!14107 3010[13814 3408 13400 3408!13400 3408|1000 3408!1000 3408[586 3408 293 3010!293 3010[0 2611 0 2049!0 2049|0 1507"/>
+                                                  <Edge fillStyle1="2" strokeStyle="2" edges="
+!9002 4748[9002 4899 8895 5006!8895 5006[8853 5048 8805 5073!8805 5073[8729 5113 8637 5113!8637 5113[8545 5113 8469 5073!8469 5073[8421 5048 8379 5006!8379 5006[8272 4899 8272 4748!8272 4748[8272 4596 8379 4489!8379 4489[8486 4382 8637
+ 4382!8637 4382[8788 4382 8895 4489!8895 4489[9002 4596 9002 4748"/>
+                                                  <Edge fillStyle1="1" strokeStyle="2" edges="
+!7513 4748[7513 4899 7405 5006!7405 5006[7364 5048 7315 5073!7315 5073[7239 5113 7147 5113!7147 5113[7055 5113 6979 5073!6979 5073[6931 5048 6889 5006!6889 5006[6782 4899 6782 4748!6782 4748[6782 4596 6889 4489!6889 4489[6996 4382 7147
+ 4382!7147 4382[7298 4382 7405 4489!7405 4489[7513 4596 7513 4748!5931 4748[5931 4899 5824 5006!5824 5006[5782 5048 5734 5073!5734 5073[5658 5113 5566 5113!5566 5113[5474 5113 5398 5073!5398 5073[5350 5048 5308 5006!5308 5006[5201 4899
+ 5201 4748!5201 4748[5201 4596 5308 4489!5308 4489[5415 4382 5566 4382!5566 4382[5717 4382 5824 4489!5824 4489[5931 4596 5931 4748"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMStaticText width="453.55" height="141.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="0.999984741210938" d="0.999984741210938" tx="133.25" ty="11.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Statement&#xD;Perulangan</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="69.55" size="57" bitmapSize="1140" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 9">
+                                             <matrix>
+                                                  <Matrix a="0.7584228515625" d="0.7584228515625" tx="101" ty="286"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMDynamicText name="Materi" width="453.55" height="232.6" isSelectable="false" scrollable="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix a="0.999984741210938" d="0.999984741210938" tx="133.25" ty="708.15"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Iterasi memungkinkan eksekusi berulang. C++ memiliki beberapa bentuk. Pernyataan while melakukan pengujian kondisi di awal (pre-test); jika kondisi false sejak awal, badan loop tidak dijalankan sama sekali. Pernyataan for merangkum inisialisasi, kondisi lanjut, dan increment dalam satu header yang kompak, cocok untuk iterasi deterministik. Variabel yang dideklarasikan di bagian inisialisasi for hanya hidup di dalam loop (scoped). Kesalahan umum pada for adalah off-by-one karena indeks C++ dimulai dari 0; gunakan operator &lt; daripada &lt;= untuk menghindari akses di luar batas. Pernyataan do...while berbeda karena menguji kondisi di akhir (post-test), sehingga badan loop selalu dieksekusi minimal satu kali, terlepas dari kondisi awal. Sebagai pelengkap, C++11 memperkenalkan range-based for loop yang secara otomatis mengiterasi seluruh elemen koleksi (array, vector) tanpa indeks manual, menghilangkan risiko off-by-one dan meningkatkan keamanan memori. Pemilihan jenis perulangan bergantung pada kebutuhan: while untuk jumlah iterasi tidak pasti, for untuk jumlah pasti dengan penghitung, do...while ketika eksekusi minimal satu kali diharuskan.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="30.5" size="25" bitmapSize="500" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMComponentInstance libraryItemName="UIScrollBar" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix d="2.365966796875" tx="588.8" ty="706.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="7.5" y="50"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="direction">
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="vertical" enumeration="vertical,horizontal" type="List"/>
+   </property>
+   <property id="scrollTargetName">
+      <Inspectable name="scrollTargetName" unlocalizedName="scrollTargetName" variable="scrollTargetName" category="" verbose="0" defaultValue="Materi" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMSymbolInstance libraryItemName="NextBtn" name="Next3">
+                                             <matrix>
+                                                  <Matrix tx="417" ty="1140"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="101.6" y="33.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="PrevBtn" name="Prev3">
+                                             <matrix>
+                                                  <Matrix tx="101" ty="1139"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="102" y="33.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText name="Visual" width="453.55" height="279.3" isSelectable="false" scrollable="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix a="0.999984741210938" d="0.999984741210938" tx="133.25" ty="320.2"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>// for&#xD;// Menampilkan angka 0 sampai 4&#xD;for (int i = 0; i &lt; 5; i++) {&#xD;    cout &lt;&lt; i &lt;&lt; " ";&#xD;}&#xD;// Output: 0 1 2 3 4&#xD;&#xD;// off-by-one&#xD;int arr[3] = {10, 20, 30};&#xD;// Salah: indeks 3 di luar batas (indeks valid 0-2)&#xD;for (int i = 0; i &lt;= 3; i++) {&#xD;    cout &lt;&lt; arr[i];   // error saat i=3&#xD;}&#xD;// Benar:&#xD;for (int i = 0; i &lt; 3; i++) cout &lt;&lt; arr[i];&#xD;&#xD;// do...while&#xD;int x = 10;&#xD;do {&#xD;    cout &lt;&lt; "Nilai x: " &lt;&lt; x &lt;&lt; endl;&#xD;    x++;&#xD;} while (x &lt; 5);   // kondisi false, tapi tetap dieksekusi sekali&#xD;// Output: Nilai x: 10&#xD;&#xD;// while&#xD;int i = 0;&#xD;while (i &lt; 3) {&#xD;    cout &lt;&lt; i &lt;&lt; " ";&#xD;    i++;&#xD;}&#xD;// Output: 0 1 2&#xD;&#xD;// range-based for&#xD;int arr[] = {5, 10, 15};&#xD;for (int nilai : arr) {&#xD;    cout &lt;&lt; nilai &lt;&lt; " ";&#xD;}&#xD;// Output: 5 10 15</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="28.1" size="23" bitmapSize="460" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMComponentInstance libraryItemName="UIScrollBar" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix d="2.83294677734375" tx="588.8" ty="318.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="direction">
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="vertical" enumeration="vertical,horizontal" type="List"/>
+   </property>
+   <property id="scrollTargetName">
+      <Inspectable name="scrollTargetName" unlocalizedName="scrollTargetName" variable="scrollTargetName" category="" verbose="0" defaultValue="Visual" type="String"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMDynamicText name="totalTime_txt" width="100" height="28.1" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="210.7" ty="1031"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>04:20</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="28.1" size="23" bitmapSize="460" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText name="currentTime_txt" width="100" height="28.1" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="150.55" ty="1031"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>04:20</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.705882352941177" leftMargin="0.1" lineHeight="28.1" size="23" bitmapSize="460" face="Calibri-Bold" fillColor="#004176"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="PlayBtn" name="playBtn">
+                                             <matrix>
+                                                  <Matrix tx="107" ty="1006"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="40" y="40"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="MenuBtn" name="BtnBack3" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="44"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="51" y="37"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Background" color="#00FFFF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="4" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#1765A5"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!0 6180|0 0!0 0|14400 0!14400 0|14400 6180"/>
+                                                  <Edge fillStyle1="1" edges="!14400 6180S2|14400 15651!0 15651|0 6180"/>
+                                                  <Edge fillStyle1="1" edges="!14400 15651|14400 25600!14400 25600|0 25600!0 25600|0 15651"/>
+                                                  <Edge fillStyle0="1" fillStyle1="1" edges="!14400 15651S2|0 15651!0 6180|14400 6180"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
@@ -14,8 +1094,121 @@
      </timelines>
      <scripts/>
      <persistentData>
+          <PD n="com.air.artemis.airdest" v="Fariz.apk"/>
+          <PD n="com.air.oldTargetPlatform" v="Android"/>
+          <PD n="ane.tmp.unzipped.folder" v="C:\Users\Fariz F\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
+          <PD n="TestMovieChecked" v="ADLMobile"/>
           <PD n="com.air.sdk.path" v="D:\Tools\AIR\AIRSDK_51.3.1"/>
+          <PD n="com.air.artemis.pubair" v="true"/>
+          <PD n="com.air.agistri.proctype" v="arm"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
+          <PD n="flash.swf.basename" v="Fariz"/>
+          <PD n="flash.fla.filepath" v="C:/Users/Fariz F/OneDrive/Documents/CodeLearn-Kelompok8/Fariz/Fariz.xfl"/>
+          <PD n="swf.folder.path" v="C:/Users/Fariz F/OneDrive/Documents/CodeLearn-Kelompok8/"/>
      </persistentData>
      <PrinterSettings/>
-     <publishHistory/>
+     <publishHistory>
+          <PublishItem publishSize="10381525" publishTime="1779108316"/>
+          <PublishItem publishSize="10381588" publishTime="1779108260"/>
+          <PublishItem publishSize="10381520" publishTime="1779108191"/>
+          <PublishItem publishSize="10381497" publishTime="1779108107"/>
+          <PublishItem publishSize="10381497" publishTime="1779108024"/>
+          <PublishItem publishSize="10381497" publishTime="1779107997"/>
+          <PublishItem publishSize="10381496" publishTime="1779107903"/>
+          <PublishItem publishSize="10381497" publishTime="1779107847"/>
+          <PublishItem publishSize="10381497" publishTime="1779107835"/>
+          <PublishItem publishSize="10381497" publishTime="1779107521"/>
+          <PublishItem publishSize="10381497" publishTime="1779107497"/>
+          <PublishItem publishSize="10381497" publishTime="1779107473"/>
+          <PublishItem publishSize="10381497" publishTime="1779107455"/>
+          <PublishItem publishSize="10381497" publishTime="1779107400"/>
+          <PublishItem publishSize="10381515" publishTime="1779107386"/>
+          <PublishItem publishSize="10381520" publishTime="1779107312"/>
+          <PublishItem publishSize="10381520" publishTime="1779107198"/>
+          <PublishItem publishSize="10381510" publishTime="1779107054"/>
+          <PublishItem publishSize="10381507" publishTime="1779106901"/>
+          <PublishItem publishSize="10381510" publishTime="1779106859"/>
+     </publishHistory>
+     <swcCache>
+          <Swc hashKey="lBSX9Y5jU7802yucctAf9/" href="ctcdwf7zc7.swc">
+               <classDefinitions>
+                    <ClassDefinition value="fl.core.AccessibilityShim"/>
+                    <ClassDefinition value="fl.controls.CheckBox"/>
+                    <ClassDefinition value="fl.controls.LabelButton"/>
+                    <ClassDefinition value="fl.controls.List"/>
+                    <ClassDefinition value="fl.controls.ComboBox"/>
+                    <ClassDefinition value="fl.controls.ProgressBarDirection"/>
+                    <ClassDefinition value="fl.data.SimpleCollectionItem"/>
+                    <ClassDefinition value="fl.controls.TextArea"/>
+                    <ClassDefinition value="fl.display.ProLoaderInfo"/>
+                    <ClassDefinition value="fl.controls.Slider"/>
+                    <ClassDefinition value="fl.events.DataChangeEvent"/>
+                    <ClassDefinition value="fl.accessibility.ComboBoxAccImpl"/>
+                    <ClassDefinition value="fl.events.DataChangeType"/>
+                    <ClassDefinition value="fl.accessibility.TileListAccImpl"/>
+                    <ClassDefinition value="fl.accessibility.ButtonAccImpl"/>
+                    <ClassDefinition value="fl.controls.BaseButton"/>
+                    <ClassDefinition value="fl.core.UIComponent"/>
+                    <ClassDefinition value="fl.controls.DataGrid"/>
+                    <ClassDefinition value="fl.display.ProLoader"/>
+                    <ClassDefinition value="fl.containers.BaseScrollPane"/>
+                    <ClassDefinition value="fl.livepreview.LivePreviewParent"/>
+                    <ClassDefinition value="fl.controls.Label"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerComponent"/>
+                    <ClassDefinition value="fl.controls.UIScrollBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ICellRenderer"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.DataGridCellEditor"/>
+                    <ClassDefinition value="fl.controls.ColorPicker"/>
+                    <ClassDefinition value="fl.managers.FocusManager"/>
+                    <ClassDefinition value="fl.events.ProLoaderRSLPreloaderSandboxEvent"/>
+                    <ClassDefinition value="fl.events.DataGridEventReason"/>
+                    <ClassDefinition value="fl.events.SliderEvent"/>
+                    <ClassDefinition value="fl.events.SliderEventClickTarget"/>
+                    <ClassDefinition value="fl.controls.progressBarClasses.IndeterminateBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ListData"/>
+                    <ClassDefinition value="fl.core.InvalidationType"/>
+                    <ClassDefinition value="fl.controls.RadioButtonGroup"/>
+                    <ClassDefinition value="fl.controls.NumericStepper"/>
+                    <ClassDefinition value="fl.accessibility.LabelButtonAccImpl"/>
+                    <ClassDefinition value="fl.containers.UILoader"/>
+                    <ClassDefinition value="fl.events.ColorPickerEvent"/>
+                    <ClassDefinition value="fl.controls.ButtonLabelPlacement"/>
+                    <ClassDefinition value="fl.accessibility.CheckBoxAccImpl"/>
+                    <ClassDefinition value="fl.managers.StyleManager"/>
+                    <ClassDefinition value="fl.controls.TileList"/>
+                    <ClassDefinition value="fl.controls.RadioButton"/>
+                    <ClassDefinition value="fl.containers.ScrollPane"/>
+                    <ClassDefinition value="fl.controls.listClasses.TileListData"/>
+                    <ClassDefinition value="fl.events.InteractionInputType"/>
+                    <ClassDefinition value="fl.controls.Button"/>
+                    <ClassDefinition value="fl.core.ComponentShim"/>
+                    <ClassDefinition value="fl.accessibility.UIComponentAccImpl"/>
+                    <ClassDefinition value="fl.controls.SelectableList"/>
+                    <ClassDefinition value="fl.events.ComponentEvent"/>
+                    <ClassDefinition value="fl.accessibility.RadioButtonAccImpl"/>
+                    <ClassDefinition value="fl.controls.listClasses.CellRenderer"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerGroup"/>
+                    <ClassDefinition value="fl.controls.ScrollPolicy"/>
+                    <ClassDefinition value="fl.controls.ScrollBar"/>
+                    <ClassDefinition value="fl.controls.ProgressBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ImageCell"/>
+                    <ClassDefinition value="fl.managers.IFocusManager"/>
+                    <ClassDefinition value="fl.controls.ProgressBarMode"/>
+                    <ClassDefinition value="fl.accessibility.SelectableListAccImpl"/>
+                    <ClassDefinition value="fl.controls.TextInput"/>
+                    <ClassDefinition value="fl.events.ListEvent"/>
+                    <ClassDefinition value="fl.accessibility.AccImpl"/>
+                    <ClassDefinition value="fl.accessibility.DataGridAccImpl"/>
+                    <ClassDefinition value="fl.events.ScrollEvent"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.DataGridColumn"/>
+                    <ClassDefinition value="fl.events.DataGridEvent"/>
+                    <ClassDefinition value="fl.data.TileListCollectionItem"/>
+                    <ClassDefinition value="fl.data.DataProvider"/>
+                    <ClassDefinition value="fl.accessibility.ListAccImpl"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.HeaderRenderer"/>
+                    <ClassDefinition value="fl.controls.ScrollBarDirection"/>
+                    <ClassDefinition value="fl.controls.SliderDirection"/>
+               </classDefinitions>
+          </Swc>
+     </swcCache>
 </DOMDocument>
