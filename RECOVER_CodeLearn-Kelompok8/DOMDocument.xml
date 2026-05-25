@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="720" height="1280" frameRate="30" currentTimeline="4" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 5" majorVersion="24" buildNumber="5" timelineLabelWidth="299" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="9" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="14A4F10265FC9945BDF7A1C336D60138">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="720" height="1280" frameRate="30" currentTimeline="2" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 5" majorVersion="24" buildNumber="5" timelineLabelWidth="299" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="9" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="14A4F10265FC9945BDF7A1C336D60138">
      <folders>
           <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
           <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
@@ -224,6 +224,7 @@
           <Include href="ProgressBar.xml" itemID="44b2ac3f-000001bc" lastModified="1358192122"/>
           <Include href="Settings.xml" loadImmediate="false" itemID="6a01d0e3-00000379" lastModified="1778503907"/>
           <Include href="Symbol 1.xml" itemIcon="0" loadImmediate="false" itemID="6a013ea7-00000020" lastModified="1778466471"/>
+          <Include href="Symbol 2.xml" loadImmediate="false" itemID="6a142527-00000201" lastModified="1779705127"/>
           <Include href="TentangBtn.xml" itemIcon="0" loadImmediate="false" itemID="6a014611-0000019f" lastModified="1778468369"/>
           <Include href="UIScrollBar.xml" itemID="44aaa686-00000064" lastModified="1358192122"/>
      </symbols>
@@ -361,7 +362,7 @@
           </DOMTimeline>
           <DOMTimeline name="Halaman Menu Utama" layerDepthEnabled="true">
                <layers>
-                    <DOMLayer name="action" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false" visible="false">
+                    <DOMLayer name="action" color="#9933CC" locked="true" autoNamed="false" visible="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <Actionscript>
@@ -410,7 +411,7 @@ backdrop.addEventListener("click", function() {
                                              </strokes>
                                              <edges>
                                                   <Edge strokeStyle="1" edges="
-!0 25600|0 500!500 0|13899.5 0"/>
+!500 0|13899.5 0!0 25600|0 500"/>
                                              </edges>
                                         </DOMShape>
                                         <DOMSymbolInstance libraryItemName="backdropz" name="backdrop">
@@ -430,7 +431,7 @@ backdrop.addEventListener("click", function() {
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Asset" color="#00FFFF" autoNamed="false">
+                    <DOMLayer name="Asset" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -441,14 +442,15 @@ backdrop.addEventListener("click", function() {
                                                   </FillStyle>
                                              </fills>
                                              <edges>
-                                                  <Edge fillStyle1="1" edges="
-!-1304 14691|10859 14691!10859 14691[10993 14691 10993 14791!10993 14791|10993 16780!10993 16780[10993 17168 10493 17180!10493 17180|-1304 17180!-1304 17180|-1304 14691"/>
+                                                  <Edge fillStyle1="1" edges="!10859 14691[10993 14691 10993 14791!10993 14791|10993 16780!10993 16780[10993 17168 10493 17180!10493 17180|0 17180!0 17180|0 14691!0 14691|10859 14691"/>
                                                   <Edge cubics="!-1304 17180(;-1304,17180 -1304,14691 -1304,14691q-1304 17180 -1304 14691);"/>
                                                   <Edge cubics="!10859 14691(;10949,14691 10993,14724 10993,14791q10859 14691Q10993 14691q10993 14791);"/>
                                                   <Edge cubics="!10993 14791(;10993,14791 10993,16780 10993,16780q10993 14791 10993 16780);"/>
                                                   <Edge cubics="!10993 16780(;10993,17039 10827,17172 10493,17180q10993 16780Q10993 17168q10493 17180);"/>
-                                                  <Edge cubics="!-1304 14691(;-1304,14691 10859,14691 10859,14691q-1304 14691 10859 14691);"/>
-                                                  <Edge cubics="!10493 17180(;10493,17180 -1304,17180 -1304,17180q10493 17180 -1304 17180);"/>
+                                                  <Edge cubics="!-1304 14691(;-1304,14691 -38,14691 -38,14691q-1304 14691 -38 14691);"/>
+                                                  <Edge cubics="!-38 14691(;-38,14691 10859,14691 10859,14691q-38 14691 10859 14691);"/>
+                                                  <Edge cubics="!10493 17180(;10493,17180 -38,17180 -38,17180q10493 17180 -38 17180);"/>
+                                                  <Edge cubics="!-38 17180(;-38,17180 -1304,17180 -1304,17180q-38 17180 -1304 17180);"/>
                                              </edges>
                                         </DOMShape>
                                         <DOMStaticText width="453.55" height="97.65" isSelectable="false">
@@ -459,7 +461,7 @@ backdrop.addEventListener("click", function() {
                                                   <DOMTextRun>
                                                        <characters>Game</characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.72156862745098" leftMargin="0.1" lineHeight="97.65" size="80" face="Calibri-Bold" fillColor="#004176"/>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.717647058823529" leftMargin="0.1" lineHeight="97.65" size="80" face="Calibri-Bold" fillColor="#004176"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
@@ -523,7 +525,7 @@ backdrop.addEventListener("click", function() {
                     </DOMLayer>
                </layers>
           </DOMTimeline>
-          <DOMTimeline name="Halaman Materi" currentFrame="2" layerDepthEnabled="true">
+          <DOMTimeline name="Halaman Materi" layerDepthEnabled="true">
                <layers>
                     <DOMLayer name="action" color="#FF800A" locked="true" current="true" isSelected="true" autoNamed="false" visible="false">
                          <frames>
@@ -532,7 +534,7 @@ backdrop.addEventListener("click", function() {
                                         <script><![CDATA[stop();
 
 BtnBack.addEventListener("click", function() {
-	gotoAndPlay(1, "Halaman Menu Utama");
+	//gotoAndPlay(1, "Halaman Menu Utama");
 });
 
 Chapter1.addEventListener("click", function() {
@@ -562,15 +564,30 @@ function stageWebViewGif(isi) {
 	if (!initialized) {
 		initialized = true;
 	}
-	webView.viewPort = new Rectangle(120, 300, 480, 340);
-	
+
+	if (stage.nativeWindow.displayState == NativeWindowDisplayState.MAXIMIZED) {
+		webView.viewPort = new Rectangle(760, 250, 400, 270);
+	} else {
+		webView.viewPort = new Rectangle(120, 300, 480, 340);
+	}
+
 	var gif: String = isi;
 	
 	webView.loadURL(gif);
 }
 
 webView.stage = null;
-webView.viewPort = null;]]></script>
+webView.viewPort = null;
+
+stage.nativeWindow.addEventListener(NativeWindowDisplayStateEvent.DISPLAY_STATE_CHANGE, onStateChange);
+function onStateChange(e:NativeWindowDisplayStateEvent):void {
+    if (e.afterDisplayState == NativeWindowDisplayState.MAXIMIZED) {
+		webView.viewPort = null;
+		webView.viewPort = new Rectangle(760, 250, 400, 270);
+    } else {
+        webView.viewPort = new Rectangle(120, 300, 480, 340);
+    }
+}]]></script>
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
@@ -806,7 +823,8 @@ addEventListener(Event.ENTER_FRAME, updateProgress);]]></script>
                                                   </StrokeStyle>
                                              </strokes>
                                              <edges>
-                                                  <Edge fillStyle1="1" edges="!6149 20724S2|11915 20724!11915 20724[11982 20724 12029 20779!12029 20779[12077 20835 12077 20913!12077 20913|12077 20914!12077 20914[12077 20992 12029 21047!12029 21047[11982 21103 11915 21103!11915 21103|6149 21103!6149 21103[6082 21103
+                                                  <Edge fillStyle1="1" edges="
+!6149 20724S2|11915 20724!11915 20724[11982 20724 12029 20779!12029 20779[12077 20835 12077 20913!12077 20913|12077 20914!12077 20914[12077 20992 12029 21047!12029 21047[11982 21103 11915 21103!11915 21103|6149 21103!6149 21103[6082 21103
  6034 21047!6034 21047[5987 20992 5987 20914!5987 20914|5987 20913!5987 20913[5987 20835 6034 20779!6034 20779[6082 20724 6149 20724"/>
                                                   <Edge fillStyle1="2" edges="
 !4619 20568S2[4631 20568 4639 20576!4639 20576[4648 20585 4648 20597!4648 20597|4648 21215!4648 21215[4648 21227 4639 21235!4639 21235[4631 21244 4619 21244!4619 21244[4607 21244 4598 21235!4598 21235|4597.5 21234.5!4597.5 21234.5[4590
@@ -1447,10 +1465,10 @@ addEventListener(Event.ENTER_FRAME, updateProgress);]]></script>
 !0 6180|0 0!0 0|14400 0!14400 0|14400 6180"/>
                                                   <Edge fillStyle1="1" edges="
 !14400 6180S2|14400 15651!0 15651|0 6180"/>
+                                                  <Edge fillStyle0="1" fillStyle1="1" edges="
+!0 6180S2|14400 6180!14400 15651|0 15651"/>
                                                   <Edge fillStyle1="1" edges="
 !14400 15651|14400 25600!14400 25600|0 25600!0 25600|0 15651"/>
-                                                  <Edge fillStyle0="1" fillStyle1="1" edges="
-!14400 15651S2|0 15651!0 6180|14400 6180"/>
                                              </edges>
                                         </DOMShape>
                                    </elements>
@@ -1459,9 +1477,9 @@ addEventListener(Event.ENTER_FRAME, updateProgress);]]></script>
                     </DOMLayer>
                </layers>
           </DOMTimeline>
-          <DOMTimeline name="Halaman Kuis" layerDepthEnabled="true">
+          <DOMTimeline name="Halaman Kuis" currentFrame="10" layerDepthEnabled="true">
                <layers>
-                    <DOMLayer name="ActionLayer" color="#FF4FFF" autoNamed="false">
+                    <DOMLayer name="ActionLayer" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <Actionscript>
@@ -1490,6 +1508,12 @@ OpsiD1.addEventListener("click", function() {
 	gotoAndPlay(2);
 });
 
+webView.stage = null;
+webView.viewPort = null;
+
+if (initialized) {
+	webView.dispose();
+}
 ]]></script>
                                    </Actionscript>
                                    <elements/>
@@ -1750,13 +1774,17 @@ OpsiD10.addEventListener("click", function() {
                                    <Actionscript>
                                         <script><![CDATA[stop();
 
-Nilai.text = skor;]]></script>
+Nilai.text = skor;
+
+BackMenu.addEventListener("click", function() {
+	gotoAndPlay(1, "Halaman Menu Utama");
+});]]></script>
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="BtnMenu" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="BtnMenu" color="#9933CC" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" duration="10" keyMode="9728">
                                    <Actionscript>
@@ -1766,7 +1794,7 @@ Nilai.text = skor;]]></script>
 });]]></script>
                                    </Actionscript>
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="MenuBtn" name="BtnBack" selected="true" symbolType="button">
+                                        <DOMSymbolInstance libraryItemName="MenuBtn" name="BtnBack" symbolType="button">
                                              <matrix>
                                                   <Matrix tx="39" ty="49.6"/>
                                              </matrix>
@@ -2599,11 +2627,6 @@ Nilai.text = skor;]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 15 copy">
-                                             <matrix>
-                                                  <Matrix a="0.762664794921875" d="0.762664794921875" tx="191" ty="1031"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="Bitmap 16 copy">
                                              <matrix>
                                                   <Matrix a="0.873764038085938" d="0.85809326171875"/>
@@ -2614,6 +2637,14 @@ Nilai.text = skor;]]></script>
                                                   <Matrix a="0.8585205078125" d="0.8585205078125" tx="68" ty="260"/>
                                              </matrix>
                                         </DOMBitmapInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 2" name="BackMenu">
+                                             <matrix>
+                                                  <Matrix tx="191" ty="1031"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="168.55" y="60.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -2641,7 +2672,7 @@ Nilai.text = skor;]]></script>
           </DOMTimeline>
           <DOMTimeline name="Halaman Tentang" layerDepthEnabled="true">
                <layers>
-                    <DOMLayer name="action" color="#9933CC" locked="true" autoNamed="false" visible="false">
+                    <DOMLayer name="action" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false" visible="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <Actionscript>
@@ -2655,7 +2686,7 @@ BtnMenu.addEventListener("click", function() {
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Asset" color="#00FFFF" current="true" isSelected="true" autoNamed="false" highlighted="true">
+                    <DOMLayer name="Asset" color="#00FFFF" autoNamed="false" highlighted="true">
                          <frames>
                               <DOMFrame index="0" keyMode="9728" rigPropagationMatrix='{"a":48860,"b":0,"c":0,"d":48860,"tx":1375,"ty":2831}'>
                                    <elements>
@@ -2904,6 +2935,10 @@ BtnMenu.addEventListener("click", function() {
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="9943412" publishTime="1779705194"/>
+          <PublishItem publishSize="9943393" publishTime="1779705162"/>
+          <PublishItem publishSize="9943336" publishTime="1779705018"/>
+          <PublishItem publishSize="9943328" publishTime="1779704919"/>
           <PublishItem publishSize="9943093" publishTime="1779696870"/>
           <PublishItem publishSize="219564" publishTime="1779696788"/>
           <PublishItem publishSize="219563" publishTime="1779696732"/>
@@ -2920,10 +2955,6 @@ BtnMenu.addEventListener("click", function() {
           <PublishItem publishSize="156596" publishTime="1778486315"/>
           <PublishItem publishSize="154170" publishTime="1778483930"/>
           <PublishItem publishSize="133372" publishTime="1778483682"/>
-          <PublishItem publishSize="49771" publishTime="1778471220"/>
-          <PublishItem publishSize="49768" publishTime="1778471160"/>
-          <PublishItem publishSize="18732" publishTime="1778470242"/>
-          <PublishItem publishSize="18588" publishTime="1778469997"/>
      </publishHistory>
      <swcCache>
           <Swc hashKey="lBSX9Y5jU7802yucctAf9/" href="2so1pev2z9.swc">
