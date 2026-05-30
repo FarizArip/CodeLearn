@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="720" height="1280" frameRate="30" currentTimeline="2" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 5" majorVersion="24" buildNumber="5" timelineLabelWidth="299" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="9" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="14A4F10265FC9945BDF7A1C336D60138">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="720" height="1280" frameRate="30" currentTimeline="3" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 5" majorVersion="24" buildNumber="5" timelineLabelWidth="299" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="9" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="14A4F10265FC9945BDF7A1C336D60138">
      <folders>
           <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
           <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
@@ -209,12 +209,13 @@
           <Include href="Component Assets/ScrollBarSkins/ScrollTrack_skin.xml" itemID="44fdb956-000002bc" lastModified="1168290301"/>
           <Include href="Component Assets/Shared/arrowIcon.xml" itemIcon="1" loadImmediate="false" itemID="456df449-0000019f" lastModified="1168290350"/>
           <Include href="Component Assets/Shared/focusRectSkin.xml" itemID="44d8b6f8-00000055" lastModified="1168290361"/>
+          <Include href="GameBtn.xml" itemIcon="0" loadImmediate="false" itemID="6a1aa0e7-000001ac" lastModified="1780130271"/>
           <Include href="Loading.xml" itemIcon="1" loadImmediate="false" itemID="69ae3894-0000016f" lastModified="1773025428"/>
           <Include href="LoopGif.xml" itemIcon="1" loadImmediate="false" itemID="6a0aaf84-000001ad" lastModified="1779085208"/>
           <Include href="materi1.xml" itemIcon="0" loadImmediate="false" itemID="6a014e86-000002ad" lastModified="1778503231"/>
           <Include href="materi2.xml" itemIcon="0" loadImmediate="false" itemID="6a0150e0-000002ca" lastModified="1778503281"/>
           <Include href="materi3.xml" itemIcon="0" loadImmediate="false" itemID="6a0150e5-000002d0" lastModified="1778503318"/>
-          <Include href="MateriBtn.xml" itemIcon="0" loadImmediate="false" itemID="6a013dad-0000012d" lastModified="1778466221"/>
+          <Include href="MateriBtn.xml" itemIcon="0" loadImmediate="false" itemID="6a013dad-0000012d" lastModified="1780130173"/>
           <Include href="MenuBtn.xml" itemIcon="0" loadImmediate="false" itemID="6a014c4d-000002a2" lastModified="1778469965"/>
           <Include href="NextBtn.xml" loadImmediate="false" itemID="6a01c0b9-000001ab" lastModified="1778499769"/>
           <Include href="pBar.xml" loadImmediate="false" itemID="6a0ae4cd-00000381" lastModified="1779098829"/>
@@ -225,11 +226,11 @@
           <Include href="Settings.xml" loadImmediate="false" itemID="6a01d0e3-00000379" lastModified="1778503907"/>
           <Include href="Symbol 1.xml" itemIcon="0" loadImmediate="false" itemID="6a013ea7-00000020" lastModified="1778466471"/>
           <Include href="Symbol 2.xml" loadImmediate="false" itemID="6a142527-00000201" lastModified="1779705127"/>
-          <Include href="TentangBtn.xml" itemIcon="0" loadImmediate="false" itemID="6a014611-0000019f" lastModified="1778468369"/>
+          <Include href="TentangBtn.xml" itemIcon="0" loadImmediate="false" itemID="6a014611-0000019f" lastModified="1780130158"/>
           <Include href="UIScrollBar.xml" itemID="44aaa686-00000064" lastModified="1358192122"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Halaman Loding" currentFrame="3" layerDepthEnabled="true">
+          <DOMTimeline name="Halaman Loding" layerDepthEnabled="true">
                <layers>
                     <DOMLayer name="Stroke_Bar" color="#FF4FFF" locked="true" autoNamed="false" layerRiggingIndex="0">
                          <frames>
@@ -411,7 +412,7 @@ backdrop.addEventListener("click", function() {
                                              </strokes>
                                              <edges>
                                                   <Edge strokeStyle="1" edges="
-!500 0|13899.5 0!0 25600|0 500"/>
+!0 25600|0 500!500 0|13899.5 0"/>
                                              </edges>
                                         </DOMShape>
                                         <DOMSymbolInstance libraryItemName="backdropz" name="backdrop">
@@ -435,37 +436,6 @@ backdrop.addEventListener("click", function() {
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMShape>
-                                             <fills>
-                                                  <FillStyle index="1">
-                                                       <SolidColor color="#D9D9D9"/>
-                                                  </FillStyle>
-                                             </fills>
-                                             <edges>
-                                                  <Edge fillStyle1="1" edges="!10859 14691[10993 14691 10993 14791!10993 14791|10993 16780!10993 16780[10993 17168 10493 17180!10493 17180|0 17180!0 17180|0 14691!0 14691|10859 14691"/>
-                                                  <Edge cubics="!-1304 17180(;-1304,17180 -1304,14691 -1304,14691q-1304 17180 -1304 14691);"/>
-                                                  <Edge cubics="!10859 14691(;10949,14691 10993,14724 10993,14791q10859 14691Q10993 14691q10993 14791);"/>
-                                                  <Edge cubics="!10993 14791(;10993,14791 10993,16780 10993,16780q10993 14791 10993 16780);"/>
-                                                  <Edge cubics="!10993 16780(;10993,17039 10827,17172 10493,17180q10993 16780Q10993 17168q10493 17180);"/>
-                                                  <Edge cubics="!-1304 14691(;-1304,14691 -38,14691 -38,14691q-1304 14691 -38 14691);"/>
-                                                  <Edge cubics="!-38 14691(;-38,14691 10859,14691 10859,14691q-38 14691 10859 14691);"/>
-                                                  <Edge cubics="!10493 17180(;10493,17180 -38,17180 -38,17180q10493 17180 -38 17180);"/>
-                                                  <Edge cubics="!-38 17180(;-38,17180 -1304,17180 -1304,17180q-38 17180 -1304 17180);"/>
-                                             </edges>
-                                        </DOMShape>
-                                        <DOMStaticText width="453.55" height="97.65" isSelectable="false">
-                                             <matrix>
-                                                  <Matrix a="0.999984741210938" d="0.999984741210938" tx="33.15" ty="742.95"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>Game</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.717647058823529" leftMargin="0.1" lineHeight="97.65" size="80" face="Calibri-Bold" fillColor="#004176"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMStaticText>
                                         <DOMSymbolInstance libraryItemName="MateriBtn" name="BtnMateri" symbolType="button">
                                              <matrix>
                                                   <Matrix a="0.999984741210938" d="0.999984741210938" tx="-0.35" ty="547.1"/>
@@ -500,6 +470,14 @@ backdrop.addEventListener("click", function() {
                                                   <Point x="50" y="50"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="GameBtn" symbolType="button">
+                                             <matrix>
+                                                  <Matrix ty="734.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="274.8" y="62.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -532,9 +510,10 @@ backdrop.addEventListener("click", function() {
                               <DOMFrame index="0" keyMode="9728">
                                    <Actionscript>
                                         <script><![CDATA[stop();
+import flash.filesystem.File;
 
 BtnBack.addEventListener("click", function() {
-	//gotoAndPlay(1, "Halaman Menu Utama");
+	gotoAndPlay(1, "Halaman Menu Utama");
 });
 
 Chapter1.addEventListener("click", function() {
@@ -556,24 +535,24 @@ if (initialized) {
 var webView: StageWebView = new StageWebView();
 var initialized = false;
 
-function stageWebViewGif(isi) {
-	webView.stage = this.stage;
-	if (webView.viewPort) {
-		webView.viewPort = null;
-	}
-	if (!initialized) {
-		initialized = true;
-	}
+function stageWebViewGif(localFileName:String):void {
+    webView.stage = this.stage;
+    if (webView.viewPort) {
+        webView.viewPort = null;
+    }
+    if (!initialized) {
+        initialized = true;
+    }
 
-	if (stage.nativeWindow.displayState == NativeWindowDisplayState.MAXIMIZED) {
-		webView.viewPort = new Rectangle(760, 250, 400, 270);
-	} else {
-		webView.viewPort = new Rectangle(120, 300, 480, 340);
-	}
+    if (stage.nativeWindow.displayState == NativeWindowDisplayState.MAXIMIZED) {
+        webView.viewPort = new Rectangle(760, 250, 400, 270);
+    } else {
+        webView.viewPort = new Rectangle(120, 300, 480, 340);
+    }
 
-	var gif: String = isi;
-	
-	webView.loadURL(gif);
+    var filePath:String = File.applicationDirectory.nativePath + "/" + localFileName;
+    var fileURL:String = "file:///" + filePath.replace(/\\/g, "/");
+    webView.loadURL(fileURL);
 }
 
 webView.stage = null;
@@ -587,42 +566,7 @@ function onStateChange(e:NativeWindowDisplayStateEvent):void {
     } else {
         webView.viewPort = new Rectangle(120, 300, 480, 340);
     }
-}]]></script>
-                                   </Actionscript>
-                                   <elements/>
-                              </DOMFrame>
-                              <DOMFrame index="1" keyMode="9728">
-                                   <Actionscript>
-                                        <script><![CDATA[stop();
-
-BtnBack1.addEventListener("click", function() {
-	cleanUpSound();
-	gotoAndPlay(1);
-});
-
-Next1.addEventListener("click", function() {
-	cleanUpSound();
-	gotoAndPlay(3);
-});
-
-stageWebViewGif("https://www.wikitechy.com/tutorials/c++/img/c++-images/c++-tutorial-class-object.gif");
-
-var backsound:Sound = new Materi1();
-var soundChannel:SoundChannel = null;
-var isSoundPlaying:Boolean = false;
-var pausePosition:Number = 0;
-var soundLength:Number = backsound.length;
-
-progressBar.scaleX = 0;
-
-if (soundLength > 0) {
-    totalTime_txt.text = formatTime(soundLength);
-} else {
-    totalTime_txt.text = "0:00";
 }
-currentTime_txt.text = "0:00";
-
-playBtn.addEventListener(MouseEvent.CLICK, togglePlayPause);
 
 function togglePlayPause(e:MouseEvent):void {
     if (isSoundPlaying) {
@@ -652,8 +596,6 @@ function onSoundComplete(e:Event):void {
     progressBar.scaleX = 0;
     currentTime_txt.text = formatTime(0);
 }
-
-addEventListener(Event.ENTER_FRAME, updateProgress);
 
 function updateProgress(e:Event):void {
     if (isSoundPlaying && soundChannel != null) {
@@ -692,6 +634,45 @@ function cleanUpSound():void {
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+
+BtnBack1.addEventListener("click", function() {
+	cleanUpSound();
+	gotoAndPlay(1);
+});
+
+Next1.addEventListener("click", function() {
+	cleanUpSound();
+	gotoAndPlay(3);
+});
+
+stageWebViewGif("c++-tutorial-class-object.gif");
+
+var backsound:Sound = new Materi1();
+var soundChannel:SoundChannel = null;
+var isSoundPlaying:Boolean = false;
+var pausePosition:Number = 0;
+var soundLength:Number = backsound.length;
+
+progressBar.scaleX = 0;
+
+if (soundLength > 0) {
+    totalTime_txt.text = formatTime(soundLength);
+} else {
+    totalTime_txt.text = "0:00";
+}
+currentTime_txt.text = "0:00";
+
+if (playBtn) playBtn.gotoAndStop(1);
+
+playBtn.addEventListener(MouseEvent.CLICK, togglePlayPause);
+
+addEventListener(Event.ENTER_FRAME, updateProgress);]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
                                    <Actionscript>
                                         <script><![CDATA[stop();
@@ -711,7 +692,7 @@ Next2.addEventListener("click", function() {
 	gotoAndPlay(4);
 });
 
-stageWebViewGif("https://tara.layak.in/images/stories/if_then_else_flow.gif");
+stageWebViewGif("if_then_else_flow.gif");
 
 backsound = new Materi2();
 isSoundPlaying = false;
@@ -726,6 +707,8 @@ if (soundLength > 0) {
     totalTime_txt.text = "0:00";
 }
 currentTime_txt.text = "0:00";
+
+if (playBtn) playBtn.gotoAndStop(1);
 
 playBtn.addEventListener(MouseEvent.CLICK, togglePlayPause);
 
@@ -752,7 +735,7 @@ Next3.addEventListener("click", function() {
 	gotoAndPlay(1, "Halaman Kuis");
 });
 
-stageWebViewGif("https://tara.layak.in/images/stories/while_flow.gif");
+stageWebViewGif("while_flow.gif");
 
 backsound = new Materi3();
 isSoundPlaying = false;
@@ -1465,10 +1448,10 @@ addEventListener(Event.ENTER_FRAME, updateProgress);]]></script>
 !0 6180|0 0!0 0|14400 0!14400 0|14400 6180"/>
                                                   <Edge fillStyle1="1" edges="
 !14400 6180S2|14400 15651!0 15651|0 6180"/>
-                                                  <Edge fillStyle0="1" fillStyle1="1" edges="
-!0 6180S2|14400 6180!14400 15651|0 15651"/>
                                                   <Edge fillStyle1="1" edges="
 !14400 15651|14400 25600!14400 25600|0 25600!0 25600|0 15651"/>
+                                                  <Edge fillStyle0="1" fillStyle1="1" edges="
+!14400 15651S2|0 15651!0 6180|14400 6180"/>
                                              </edges>
                                         </DOMShape>
                                    </elements>
@@ -1477,9 +1460,9 @@ addEventListener(Event.ENTER_FRAME, updateProgress);]]></script>
                     </DOMLayer>
                </layers>
           </DOMTimeline>
-          <DOMTimeline name="Halaman Kuis" currentFrame="10" layerDepthEnabled="true">
+          <DOMTimeline name="Halaman Kuis" layerDepthEnabled="true">
                <layers>
-                    <DOMLayer name="ActionLayer" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="ActionLayer" color="#FF4FFF" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <Actionscript>
@@ -1513,6 +1496,7 @@ webView.viewPort = null;
 
 if (initialized) {
 	webView.dispose();
+	initialized = false;
 }
 ]]></script>
                                    </Actionscript>
@@ -1784,7 +1768,7 @@ BackMenu.addEventListener("click", function() {
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="BtnMenu" color="#9933CC" autoNamed="false">
+                    <DOMLayer name="BtnMenu" color="#9933CC" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" duration="10" keyMode="9728">
                                    <Actionscript>
@@ -2935,26 +2919,26 @@ BtnMenu.addEventListener("click", function() {
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
-          <PublishItem publishSize="9943412" publishTime="1779705194"/>
-          <PublishItem publishSize="9943393" publishTime="1779705162"/>
-          <PublishItem publishSize="9943336" publishTime="1779705018"/>
-          <PublishItem publishSize="9943328" publishTime="1779704919"/>
-          <PublishItem publishSize="9943093" publishTime="1779696870"/>
-          <PublishItem publishSize="219564" publishTime="1779696788"/>
-          <PublishItem publishSize="219563" publishTime="1779696732"/>
-          <PublishItem publishSize="208070" publishTime="1778504120"/>
-          <PublishItem publishSize="183670" publishTime="1778504066"/>
-          <PublishItem publishSize="197873" publishTime="1778503504"/>
-          <PublishItem publishSize="192609" publishTime="1778503324"/>
-          <PublishItem publishSize="160398" publishTime="1778503057"/>
-          <PublishItem publishSize="160190" publishTime="1778502930"/>
-          <PublishItem publishSize="160191" publishTime="1778502874"/>
-          <PublishItem publishSize="160187" publishTime="1778502640"/>
-          <PublishItem publishSize="160187" publishTime="1778502620"/>
-          <PublishItem publishSize="148878" publishTime="1778488955"/>
-          <PublishItem publishSize="156596" publishTime="1778486315"/>
-          <PublishItem publishSize="154170" publishTime="1778483930"/>
-          <PublishItem publishSize="133372" publishTime="1778483682"/>
+          <PublishItem publishSize="9943670" publishTime="1780134279"/>
+          <PublishItem publishSize="9916807" publishTime="1780134233"/>
+          <PublishItem publishSize="9916807" publishTime="1780134223"/>
+          <PublishItem publishSize="9916807" publishTime="1780133258"/>
+          <PublishItem publishSize="9916807" publishTime="1780133201"/>
+          <PublishItem publishSize="9916807" publishTime="1780133187"/>
+          <PublishItem publishSize="9916807" publishTime="1780133095"/>
+          <PublishItem publishSize="9916814" publishTime="1780133071"/>
+          <PublishItem publishSize="9916808" publishTime="1780131094"/>
+          <PublishItem publishSize="9943647" publishTime="1780130863"/>
+          <PublishItem publishSize="9943651" publishTime="1780130278"/>
+          <PublishItem publishSize="9943526" publishTime="1780130090"/>
+          <PublishItem publishSize="9943446" publishTime="1780129953"/>
+          <PublishItem publishSize="9943591" publishTime="1780125408"/>
+          <PublishItem publishSize="9943405" publishTime="1780125066"/>
+          <PublishItem publishSize="9943415" publishTime="1780125036"/>
+          <PublishItem publishSize="9943409" publishTime="1780124943"/>
+          <PublishItem publishSize="9916589" publishTime="1780124912"/>
+          <PublishItem publishSize="9943410" publishTime="1780124805"/>
+          <PublishItem publishSize="9943409" publishTime="1780124702"/>
      </publishHistory>
      <swcCache>
           <Swc hashKey="lBSX9Y5jU7802yucctAf9/" href="2so1pev2z9.swc">
