@@ -20,15 +20,15 @@
     <pngDefaultName>1</pngDefaultName>
     <swcDefaultName>1</swcDefaultName>
     <oamDefaultName>1</oamDefaultName>
-    <flashFileName>Untitled-1.swf</flashFileName>
-    <projectorWinFileName>Untitled-1.exe</projectorWinFileName>
-    <projectorMacFileName>Untitled-1.app</projectorMacFileName>
-    <htmlFileName>Untitled-1.html</htmlFileName>
-    <gifFileName>Untitled-1.gif</gifFileName>
-    <jpegFileName>Untitled-1.jpg</jpegFileName>
-    <pngFileName>Untitled-1.png</pngFileName>
-    <swcFileName>Untitled-1.swc</swcFileName>
-    <oamFileName>Untitled-1.oam</oamFileName>
+    <flashFileName>Sada.swf</flashFileName>
+    <projectorWinFileName>Sada.exe</projectorWinFileName>
+    <projectorMacFileName>Sada.app</projectorMacFileName>
+    <htmlFileName>Sada.html</htmlFileName>
+    <gifFileName>Sada.gif</gifFileName>
+    <jpegFileName>Sada.jpg</jpegFileName>
+    <pngFileName>Sada.png</pngFileName>
+    <swcFileName>Sada.swc</swcFileName>
+    <oamFileName>Sada.oam</oamFileName>
     <publishFormat id="3E6AA359-3A3C-4827-B709-9977BDDDACCB">0</publishFormat>
     <publishFormat id="BBC1F406-65F2-4219-9304-FA48C7549E44">0</publishFormat>
     <publishFormat id="BBC1F806-66F2-4339-9306-FA48C7549E59">0</publishFormat>
@@ -39,8 +39,8 @@
     <VersionInfo>32,0,0,0;30,0,0,0;26,0,0,0;25,0,0,0;23,0,0,0;21,0,0,0;20,0,0,0;19,0,0,0;18,0,0,0;17,0,0,0;16,0,0,0;14,0,0,0;13,0,0,0;12,0,0,0;11,9,0,0;11,8,0,0;11,7,0,0;11,6,0,0;11,5,0,0;11,4,0,0;11,3,0,0;11,2,0,0;11,1,0,0;10,3,0,0;10,2,153,0;10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
     <UsingDefaultContentFilename>1</UsingDefaultContentFilename>
     <UsingDefaultAlternateFilename>1</UsingDefaultAlternateFilename>
-    <ContentFilename>Untitled-1_content.html</ContentFilename>
-    <AlternateFilename>Untitled-1_alternate.html</AlternateFilename>
+    <ContentFilename>Sada_content.html</ContentFilename>
+    <AlternateFilename>Sada_alternate.html</AlternateFilename>
     <UsingOwnAlternateFile>0</UsingOwnAlternateFile>
     <OwnAlternateFilename></OwnAlternateFilename>
     <Width>720</Width>
@@ -74,8 +74,8 @@
     <EventFormat>3</EventFormat>
     <EventCompress>17</EventCompress>
     <OverrideSounds>0</OverrideSounds>
-    <Version>51</Version>
-    <ExternalPlayer>android_51.3.1.3</ExternalPlayer>
+    <Version>43</Version>
+    <ExternalPlayer>android_32_0</ExternalPlayer>
     <ActionScriptVersion>3</ActionScriptVersion>
     <PackageExportFrame>1</PackageExportFrame>
     <PackagePaths></PackagePaths>
@@ -153,7 +153,7 @@
   </PublishOamProperties>
   <PublishProperties id="3E6AA359-3A3C-4827-B709-9977BDDDACCB" name="SWF Archive" otf="true" enabled="true">
     <Property name="default">true</Property>
-    <Property name="filename">Untitled-1.zip</Property>
+    <Property name="filename">Sada.zip</Property>
   </PublishProperties>
   <PublishProperties id="BBC1F406-65F2-4219-9304-FA48C7549E44" name="SVG Image" otf="true" enabled="true">
     <Property name="copy">true</Property>
