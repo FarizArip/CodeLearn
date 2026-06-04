@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="720" height="1280" frameRate="30" currentTimeline="1" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 5" majorVersion="24" buildNumber="5" timelineLabelWidth="299" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="9" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="14A4F10265FC9945BDF7A1C336D60138">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="720" height="1280" frameRate="30" currentTimeline="2" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 5" majorVersion="24" buildNumber="5" timelineLabelWidth="299" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="9" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="14A4F10265FC9945BDF7A1C336D60138">
      <folders>
           <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
           <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
@@ -29,6 +29,8 @@
           <DOMBitmapItem name="Bitmap 4" itemID="6a014c33-000002a0" sourceExternalFilepath="../Main/LIBRARY/Bitmap 4.png" sourceLastImported="1778469939" externalFileSize="982" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 4.png" bitmapDataHRef="M 4 1778469939.dat" frameRight="2040" frameBottom="1480"/>
           <DOMBitmapItem name="Bitmap 45" itemID="6a1ba7f2-000001bb" sourceExternalFilepath="./LIBRARY/Bitmap 45.png" sourceLastImported="1780197360" externalFileSize="1757" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 45.png" bitmapDataHRef="M 45 1780197362.dat" frameRight="1600" frameBottom="1600"/>
           <DOMBitmapItem name="Bitmap 46" itemID="6a1ba80d-000001c1" sourceExternalFilepath="./LIBRARY/Bitmap 46.png" sourceLastImported="1780197389" externalFileSize="1202" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 46.png" bitmapDataHRef="M 46 1780197389.dat" frameRight="1600" frameBottom="1600"/>
+          <DOMBitmapItem name="Bitmap 47" itemID="6a21a27c-000001b6" sourceExternalFilepath="./LIBRARY/Bitmap 47.png" sourceLastImported="1780589178" externalFileSize="1660" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 47.png" bitmapDataHRef="M 47 1780589180.dat" frameRight="1600" frameBottom="1600"/>
+          <DOMBitmapItem name="Bitmap 48" itemID="6a21a289-000001bc" sourceExternalFilepath="./LIBRARY/Bitmap 48.png" sourceLastImported="1780589193" externalFileSize="1171" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 48.png" bitmapDataHRef="M 48 1780589193.dat" frameRight="1600" frameBottom="1600"/>
           <DOMBitmapItem name="Bitmap 5" itemID="6a014e37-000002a8" sourceExternalFilepath="../Main/LIBRARY/Bitmap 5.png" sourceLastImported="1778470455" externalFileSize="18450" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 5.png" bitmapDataHRef="M 5 1778470455.dat" frameRight="13680" frameBottom="4760"/>
           <DOMBitmapItem name="Bitmap 6" itemID="6a014e4d-000002ab" sourceExternalFilepath="../Main/LIBRARY/Bitmap 6.png" sourceLastImported="1778470477" externalFileSize="18450" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 6.png" bitmapDataHRef="M 6 1778470477.dat" frameRight="13680" frameBottom="4760"/>
           <DOMBitmapItem name="Bitmap 66" itemID="6a0ae837-0000038d" sourceExternalFilepath="../Fariz/LIBRARY/Bitmap 66.png" sourceLastImported="1779099703" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 66.png" bitmapDataHRef="M 41 1779695761.dat" frameRight="960" frameBottom="960"/>
@@ -147,7 +149,7 @@
           <DOMBitmapItem name="while_flow/while_flow_9" itemID="6a0aaf98-000001cd" sourceExternalFilepath="../Main/LIBRARY/while_flow/while_flow_9" sourceLastImported="1779085208" externalFileSize="57367" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="while_flow/while_flow_9" bitmapDataHRef="M 30 1779085208.dat" frameRight="12000" frameBottom="9000"/>
      </media>
      <symbols>
-          <Include href="AudioBtn.xml" loadImmediate="false" itemID="6a1ba7e4-000001b8" lastModified="1780197389"/>
+          <Include href="AudioBtn.xml" loadImmediate="false" itemID="6a1ba7e4-000001b8" lastModified="1780589197"/>
           <Include href="backdropz.xml" loadImmediate="false" itemID="6a01d154-0000037e" lastModified="1778504020"/>
           <Include href="btn_kuisback.xml" itemIcon="0" loadImmediate="false" itemID="6a12d36d-00000096" lastModified="1779618669"/>
           <Include href="btnjawaban1-1.xml" itemIcon="0" loadImmediate="false" itemID="6a12d33b-0000008e" lastModified="1779620608"/>
@@ -226,7 +228,7 @@
           <Include href="PlayBtn.xml" loadImmediate="false" itemID="6a0ae27e-0000036c" lastModified="1779102321"/>
           <Include href="PrevBtn.xml" loadImmediate="false" itemID="6a01c0be-000001b0" lastModified="1778499774"/>
           <Include href="ProgressBar.xml" itemID="44b2ac3f-000001bc" lastModified="1358192122"/>
-          <Include href="Settings.xml" loadImmediate="false" itemID="6a01d0e3-00000379" lastModified="1780199937"/>
+          <Include href="Settings.xml" loadImmediate="false" itemID="6a01d0e3-00000379" lastModified="1780588975"/>
           <Include href="Symbol 1.xml" itemIcon="0" loadImmediate="false" itemID="6a013ea7-00000020" lastModified="1778466471"/>
           <Include href="Symbol 2.xml" loadImmediate="false" itemID="6a142527-00000201" lastModified="1779705127"/>
           <Include href="TentangBtn.xml" itemIcon="0" loadImmediate="false" itemID="6a014611-0000019f" lastModified="1780130158"/>
@@ -372,9 +374,6 @@
                                    <Actionscript>
                                         <script><![CDATA[stop();
 
-Setting.visible = false;
-backdrop.visible = false;
-
 BtnMateri.addEventListener("click", function() {
 		gotoAndPlay(1, "Halaman Materi")
 });
@@ -383,56 +382,43 @@ BtnTentang.addEventListener("click", function(){
 	gotoAndPlay(1, "Halaman Tentang");
 });
 
-BtnSettings.addEventListener("click", function() {
-	if (!Setting.visible) {
-		Setting.visible = true;
-		backdrop.visible = true;
-	}
-});
+var mainTimeline:MovieClip = MovieClip(this.root);
 
-backdrop.addEventListener("click", function() {
-	Setting.visible = false;
-	backdrop.visible = false;
-});
-]]></script>
+if (mainTimeline.audioMute === undefined) {
+	mainTimeline.audioMute = false;
+	mainTimeline.previousVolume = 1.0;
+
+	var initTransform:SoundTransform = new SoundTransform();
+	initTransform.volume = 1.0;
+	SoundMixer.soundTransform = initTransform;
+}
+
+if (!mainTimeline.audioMute) {
+    AudioBtn.gotoAndStop(1);
+} else {
+    AudioBtn.gotoAndStop(2);
+}
+
+AudioBtn.removeEventListener(MouseEvent.CLICK, onAudioToggle);
+AudioBtn.addEventListener(MouseEvent.CLICK, onAudioToggle);
+
+function onAudioToggle(e:MouseEvent):void {
+    var currentTransform:SoundTransform = SoundMixer.soundTransform;
+    
+    if (!mainTimeline.audioMute) {
+        mainTimeline.previousVolume = currentTransform.volume;
+        currentTransform.volume = 0;
+        mainTimeline.audioMute = true;
+        AudioBtn.gotoAndStop(2);
+    } else {
+        currentTransform.volume = mainTimeline.previousVolume;
+        mainTimeline.audioMute = false;
+        AudioBtn.gotoAndStop(1);
+    }
+    SoundMixer.soundTransform = currentTransform;
+}]]></script>
                                    </Actionscript>
                                    <elements/>
-                              </DOMFrame>
-                         </frames>
-                    </DOMLayer>
-                    <DOMLayer name="Settings" color="#00FFFF" autoNamed="false">
-                         <frames>
-                              <DOMFrame index="0" keyMode="9728">
-                                   <elements>
-                                        <DOMShape>
-                                             <strokes>
-                                                  <StrokeStyle index="1">
-                                                       <SolidStroke scaleMode="normal" weight="0.1">
-                                                            <fill>
-                                                                 <SolidColor alpha="0"/>
-                                                            </fill>
-                                                       </SolidStroke>
-                                                  </StrokeStyle>
-                                             </strokes>
-                                             <edges>
-                                                  <Edge strokeStyle="1" edges="
-!500 0|13899.5 0!0 25600|0 500"/>
-                                             </edges>
-                                        </DOMShape>
-                                        <DOMSymbolInstance libraryItemName="backdropz" name="backdrop">
-                                             <transformationPoint>
-                                                  <Point x="360" y="640"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Settings" name="Setting">
-                                             <matrix>
-                                                  <Matrix tx="47" ty="224"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="313.05" y="418.6"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
@@ -466,20 +452,20 @@ backdrop.addEventListener("click", function() {
                                                   <Matrix tx="151" ty="1211"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMSymbolInstance libraryItemName="BtnSetting" name="BtnSettings" symbolType="button">
-                                             <matrix>
-                                                  <Matrix tx="31" ty="28"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="50" y="50"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
                                         <DOMSymbolInstance libraryItemName="GameBtn" symbolType="button">
                                              <matrix>
                                                   <Matrix ty="734.55"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="274.8" y="62.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="AudioBtn" name="AudioBtn">
+                                             <matrix>
+                                                  <Matrix tx="34" ty="38"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="40" y="40"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
                                    </elements>
@@ -1452,10 +1438,10 @@ addEventListener(Event.ENTER_FRAME, updateProgress);]]></script>
 !0 6180|0 0!0 0|14400 0!14400 0|14400 6180"/>
                                                   <Edge fillStyle1="1" edges="
 !14400 6180S2|14400 15651!0 15651|0 6180"/>
-                                                  <Edge fillStyle0="1" fillStyle1="1" edges="
-!0 6180S2|14400 6180!14400 15651|0 15651"/>
                                                   <Edge fillStyle1="1" edges="
 !14400 15651|14400 25600!14400 25600|0 25600!0 25600|0 15651"/>
+                                                  <Edge fillStyle0="1" fillStyle1="1" edges="
+!14400 15651S2|0 15651!0 6180|14400 6180"/>
                                              </edges>
                                         </DOMShape>
                                    </elements>

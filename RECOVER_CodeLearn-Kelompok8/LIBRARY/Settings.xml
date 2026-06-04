@@ -1,54 +1,19 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Settings" itemID="6a01d0e3-00000379" lastModified="1780199937">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Settings" itemID="6a01d0e3-00000379" lastModified="1780588975">
   <timeline>
     <DOMTimeline name="Settings" layerDepthEnabled="true">
       <layers>
-        <DOMLayer name="action" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="action" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[stop();
-
-var mainTimeline:MovieClip = MovieClip(this.root);
-
-if (mainTimeline.audioMute === undefined) {
-	mainTimeline.audioMute = false;
-	mainTimeline.previousVolume = 1.0;
-
-	var initTransform:SoundTransform = new SoundTransform();
-	initTransform.volume = 1.0;
-	SoundMixer.soundTransform = initTransform;
-}
-
-if (!mainTimeline.audioMute) {
-    AudioBtn.gotoAndStop(1);
-} else {
-    AudioBtn.gotoAndStop(2);
-}
-
-AudioBtn.removeEventListener(MouseEvent.CLICK, onAudioToggle);
-AudioBtn.addEventListener(MouseEvent.CLICK, onAudioToggle);
-
-function onAudioToggle(e:MouseEvent):void {
-    var currentTransform:SoundTransform = SoundMixer.soundTransform;
-    
-    if (!mainTimeline.audioMute) {
-        mainTimeline.previousVolume = currentTransform.volume;
-        currentTransform.volume = 0;
-        mainTimeline.audioMute = true;
-        AudioBtn.gotoAndStop(2);
-    } else {
-        currentTransform.volume = mainTimeline.previousVolume;
-        mainTimeline.audioMute = false;
-        AudioBtn.gotoAndStop(1);
-    }
-    SoundMixer.soundTransform = currentTransform;
-}]]></script>
+]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_1" color="#00FFFF">
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -57,14 +22,6 @@ function onAudioToggle(e:MouseEvent):void {
                     <Matrix a="0.87939453125" d="0.87939453125"/>
                   </matrix>
                 </DOMBitmapInstance>
-                <DOMSymbolInstance libraryItemName="AudioBtn" name="AudioBtn">
-                  <matrix>
-                    <Matrix tx="278.85" ty="108.65"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="40" y="40"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
