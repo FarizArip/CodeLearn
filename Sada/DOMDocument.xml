@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="720" height="1280" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 20.0 build 17400" majorVersion="20" buildNumber="17400" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="5" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="4E9C317403EF2243926E1E7F910E2316">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="720" height="1280" frameRate="30" currentTimeline="3" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 20.0 build 17400" majorVersion="20" buildNumber="17400" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="5" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="4E9C317403EF2243926E1E7F910E2316">
      <fonts>
           <DOMFontItem name="Font 1" itemID="6a216424-000000d0" font="TwCenMT-CondensedExtraBold" size="0" id="1" sourceLastImported="1780573220" embedRanges="3"/>
      </fonts>
@@ -41,9 +41,9 @@
           <Include href="Symbol 15.xml" loadImmediate="false" itemID="6a21c8a5-0000004b" lastModified="1780598949"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="CTD" currentFrame="4" layerDepthEnabled="true">
+          <DOMTimeline name="CTD" layerDepthEnabled="true">
                <layers>
-                    <DOMLayer name="Script" color="#9933CC" autoNamed="false" highlighted="true">
+                    <DOMLayer name="Script" color="#9933CC" current="true" isSelected="true" autoNamed="false" highlighted="true">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <Actionscript>
@@ -80,18 +80,28 @@ for (indexGaris = 1; indexGaris <= 4; indexGaris++) {
 // Index 0 dikosongkan agar Index 1 = Frame 1, Index 2 = Frame 2, dst.
 var semuaKunci:Array = [
     null,
-    // Kunci Frame 1 
+    
+    // LEVEL 1 (Frame 1): Tipe Data
+    // int(Kanan 4), bool(Kanan 3), string(Kanan 1), double(Kanan 2)
     { "btnkiri1":"btnkanan4", "btnkiri2":"btnkanan3", "btnkiri3":"btnkanan1", "btnkiri4":"btnkanan2" },
-    // Kunci Frame 2 (Silakan sesuaikan)
+    
+    // LEVEL 2 (Frame 2): Sintaks Dasar C++
+    // ;(Kanan 4), { }(Kanan 1), Case-sensitive(Kanan 3), cout(Kanan 2)
+    { "btnkiri1":"btnkanan4", "btnkiri2":"btnkanan1", "btnkiri3":"btnkanan3", "btnkiri4":"btnkanan2" },
+    
+    // LEVEL 3 (Frame 3): Statement Seleksi
+    // if(Kanan 1), if...else(Kanan 2), switch(Kanan 3), break(Kanan 4)
     { "btnkiri1":"btnkanan1", "btnkiri2":"btnkanan2", "btnkiri3":"btnkanan3", "btnkiri4":"btnkanan4" },
-    // Kunci Frame 3
-    { "btnkiri1":"btnkanan2", "btnkiri2":"btnkanan4", "btnkiri3":"btnkanan1", "btnkiri4":"btnkanan3" },
-    // Kunci Frame 4
-    { "btnkiri1":"btnkanan3", "btnkiri2":"btnkanan1", "btnkiri3":"btnkanan4", "btnkiri4":"btnkanan2" },
-    // Kunci Frame 5
-    { "btnkiri1":"btnkanan4", "btnkiri2":"btnkanan2", "btnkiri3":"btnkanan3", "btnkiri4":"btnkanan1" }
+    
+    // LEVEL 4 (Frame 4): Statement Perulangan
+    // for loop(Kanan 4), while(Kanan 3), do...while(Kanan 2), off-by-one(Kanan 1)
+    { "btnkiri1":"btnkanan4", "btnkiri2":"btnkanan3", "btnkiri3":"btnkanan2", "btnkiri4":"btnkanan1" },
+    
+    // LEVEL 5 (Frame 5): Error & Konsep Tambahan
+    // Sintaksis(Kanan 2), Logika(Kanan 4), 0(Kanan 1), return 0;(Kanan 3)
+    { "btnkiri1":"btnkanan2", "btnkiri2":"btnkanan4", "btnkiri3":"btnkanan1", "btnkiri4":"btnkanan3" }
 ];
-
+	
 // 3. FUNGSI SETUP LEVEL (Dijalankan setiap pindah frame)
 function setupLevel():void {
     gameSelesai = false;
@@ -305,7 +315,7 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="UI_BG" color="#00FFFF" current="true" isSelected="true" autoNamed="false" heightLiteral="24">
+                    <DOMLayer name="UI_BG" color="#00FFFF" autoNamed="false" heightLiteral="24">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -405,7 +415,7 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd" selected="true">
+                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd">
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
                                              </matrix>
@@ -528,7 +538,8 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   </FillStyle>
                                              </fills>
                                              <edges>
-                                                  <Edge fillStyle0="1" edges="!14398 159[14390 356 14330 527!14330 527[14278 678 14185 811!14185 811[14149 862 14107 909!14107 909[13815 1243 13403 1243!13403 1243|974 1243!974 1243[563 1243 271 909!271 909[206 835 156 756!156 756[5 514 -17 212!-17 212[-18 206 -18
+                                                  <Edge fillStyle0="1" edges="
+!14398 159[14390 356 14330 527!14330 527[14278 678 14185 811!14185 811[14149 862 14107 909!14107 909[13815 1243 13403 1243!13403 1243|974 1243!974 1243[563 1243 271 909!271 909[206 835 156 756!156 756[5 514 -17 212!-17 212[-18 206 -18
  203!-18 203[-20 167 -21 133!-21 133|-21 25600!-21 25600|14398 25600!14398 25600|14398 159"/>
                                              </edges>
                                         </DOMShape>
@@ -1552,7 +1563,7 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
           </DOMTimeline>
           <DOMTimeline name="DTB" layerDepthEnabled="true">
                <layers>
-                    <DOMLayer name="script" color="#9933CC" autoNamed="false">
+                    <DOMLayer name="script" color="#9933CC" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <Actionscript>
@@ -1819,7 +1830,7 @@ setupLevelDTB();]]></script>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="UI_BG" color="#00FFFF" current="true" isSelected="true" autoNamed="false" heightLiteral="24">
+                    <DOMLayer name="UI_BG" color="#00FFFF" autoNamed="false" heightLiteral="24">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -1830,7 +1841,8 @@ setupLevelDTB();]]></script>
                                                   </FillStyle>
                                              </fills>
                                              <edges>
-                                                  <Edge fillStyle0="1" edges="!14407 159[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9 203
+                                                  <Edge fillStyle0="1" edges="
+!14407 159[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9 203
 !-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
                                              </edges>
                                         </DOMShape>
@@ -1942,7 +1954,7 @@ setupLevelDTB();]]></script>
                                                   <Point x="310.75" y="116.15"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 15" name="btn_lanjutdtb" selected="true">
+                                        <DOMSymbolInstance libraryItemName="Symbol 15" name="btn_lanjutdtb">
                                              <matrix>
                                                   <Matrix tx="216" ty="1115"/>
                                              </matrix>
@@ -1977,7 +1989,8 @@ setupLevelDTB();]]></script>
                                                   </FillStyle>
                                              </fills>
                                              <edges>
-                                                  <Edge fillStyle0="1" edges="!14407 159[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9 203
+                                                  <Edge fillStyle0="1" edges="
+!14407 159[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9 203
 !-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
                                              </edges>
                                         </DOMShape>
@@ -2565,7 +2578,74 @@ setupLevelDTB();]]></script>
           </DOMTimeline>
           <DOMTimeline name="Skor" layerDepthEnabled="true">
                <layers>
-                    <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true" heightLiteral="24">
+                    <DOMLayer name="script" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText fontRenderingMode="standard" width="236.3" height="46" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="78.4" ty="722.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>0&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.9" size="35" bitmapSize="700" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" left="-52.75" width="139.05" height="46" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="435" ty="722.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>0&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.9" size="35" bitmapSize="700" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" left="-52.75" width="139.05" height="46" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="585" ty="722.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Menit&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.9" size="35" bitmapSize="700" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText selected="true" fontRenderingMode="standard" width="344.95" height="169.7" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="190.2" ty="414.45"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>0</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="129.95" size="120" bitmapSize="2400" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer_1" color="#00FFFF" heightLiteral="24">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -2623,6 +2703,32 @@ setupLevelDTB();]]></script>
                                                   <Point y="0.15"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
+                                        <DOMDynamicText fontRenderingMode="standard" width="236.3" height="46" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="78.4" ty="650.35"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Soal Terjawab</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.9" size="35" bitmapSize="700" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" left="-52.75" width="289.05" height="46" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="435" ty="650.35"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Waktu Penyelesaian</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.9" size="35" bitmapSize="700" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -2638,6 +2744,7 @@ setupLevelDTB();]]></script>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="50322" publishTime="1780643981" publishDebug="true"/>
           <PublishItem publishSize="49966" publishTime="1780636844" publishDebug="true"/>
           <PublishItem publishSize="49967" publishTime="1780636764" publishDebug="true"/>
           <PublishItem publishSize="49988" publishTime="1780636741"/>
@@ -2657,6 +2764,5 @@ setupLevelDTB();]]></script>
           <PublishItem publishSize="50048" publishTime="1780635164" publishDebug="true"/>
           <PublishItem publishSize="50047" publishTime="1780635146" publishDebug="true"/>
           <PublishItem publishSize="41512" publishTime="1780630388" publishDebug="true"/>
-          <PublishItem publishSize="41268" publishTime="1780630094" publishDebug="true"/>
      </publishHistory>
 </DOMDocument>
