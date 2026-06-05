@@ -1,0 +1,116 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btnjawaban1-1" itemID="6a12d33b-0000008e" symbolType="button" lastModified="1779620608">
+  <timeline>
+    <DOMTimeline name="btnjawaban1-1">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true" heightLiteral="32">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup>
+                      <members>
+                        <DOMShape>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#D9D9D9"/>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="vertical" weight="5">
+                                <fill>
+                                  <SolidColor color="#001558"/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!340 0|5172 0!5172 0[5512 0 5512 339!5512 339|5512 1888!5512 1888[5512 2227 5172 2227!5172 2227|340 2227!340 2227[0 2227 0 1888!0 1888|0 339!0 339[0 0 340 0"/>
+                            <Edge cubics="!0 339(;0,113 113,0 340,0q0 339Q0 0q340 0);"/>
+                            <Edge cubics="!340 0(;340,0 5172,0 5172,0q340 0 5172 0);"/>
+                            <Edge cubics="!340 2227(;113,2227 0,2114 0,1888q340 2227Q0 2227q0 1888);"/>
+                            <Edge cubics="!5172 2227(;5172,2227 340,2227 340,2227q5172 2227 340 2227);"/>
+                            <Edge cubics="!5172 0(;5399,0 5512,113 5512,339q5172 0Q5512 0q5512 339);"/>
+                            <Edge cubics="!0 1888(;0,1888 0,339 0,339q0 1888 0 339);"/>
+                            <Edge cubics="!5512 339(;5512,339 5512,1888 5512,1888q5512 339 5512 1888);"/>
+                            <Edge cubics="!5512 1888(;5512,2114 5399,2227 5172,2227q5512 1888Q5512 2227q5172 2227);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMStaticText width="200.25" height="42.75" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="39.3" ty="34.4"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Percabangan</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="42.75" size="35" face="Calibri-Bold" fillColor="#001558"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup>
+                      <members>
+                        <DOMShape>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#001558"/>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="vertical" weight="5">
+                                <fill>
+                                  <SolidColor color="#001558"/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!340 0|5172 0!5172 0[5512 0 5512 339!5512 339|5512 1888!5512 1888[5512 2227 5172 2227!5172 2227|340 2227!340 2227[0 2227 0 1888!0 1888|0 339!0 339[0 0 340 0"/>
+                            <Edge cubics="!0 339(;0,113 113,0 340,0q0 339Q0 0q340 0);"/>
+                            <Edge cubics="!340 0(;340,0 5172,0 5172,0q340 0 5172 0);"/>
+                            <Edge cubics="!340 2227(;113,2227 0,2114 0,1888q340 2227Q0 2227q0 1888);"/>
+                            <Edge cubics="!5172 2227(;5172,2227 340,2227 340,2227q5172 2227 340 2227);"/>
+                            <Edge cubics="!5172 0(;5399,0 5512,113 5512,339q5172 0Q5512 0q5512 339);"/>
+                            <Edge cubics="!0 1888(;0,1888 0,339 0,339q0 1888 0 339);"/>
+                            <Edge cubics="!5512 339(;5512,339 5512,1888 5512,1888q5512 339 5512 1888);"/>
+                            <Edge cubics="!5512 1888(;5512,2114 5399,2227 5172,2227q5512 1888Q5512 2227q5172 2227);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMStaticText width="200.25" height="42.75" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="39.3" ty="34.4"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Percabangan</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="42.75" size="35" face="Calibri-Bold" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

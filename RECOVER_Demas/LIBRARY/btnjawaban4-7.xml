@@ -1,0 +1,130 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btnjawaban4-7" itemID="6a12ef18-00000137" symbolType="button" lastModified="1779625837">
+  <timeline>
+    <DOMTimeline name="btnjawaban4-7" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true" heightLiteral="32">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix tx="-375.15" ty="-939.5"/>
+                  </matrix>
+                  <members>
+                    <DOMGroup>
+                      <matrix>
+                        <Matrix tx="-68" ty="-789.65"/>
+                      </matrix>
+                      <members>
+                        <DOMShape>
+                          <matrix>
+                            <Matrix tx="-68" ty="-789.65"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#D9D9D9"/>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="vertical" weight="5">
+                                <fill>
+                                  <SolidColor color="#001558"/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!1700 15793|6532 15793!6532 15793[#19B8.3A 15793 6628.5 15801!6628.5 15801[6872 #3DE5.13 6872 16132!6872 16132|6872 17681!6872 17681[6872 18020 6532 18020!6532 18020|1700 18020!1700 18020[1360 18020 1360 17681!1360 17681|1360 16132!1360
+ 16132[1360 #3DE5.13 1603.5 15801!1603.5 15801[#66F.C6 15793 1700 15793"/>
+                            <Edge cubics="!1360 16132(;1360,15941 1440,15831 1604,15801q1360 16132Q1360 15845q1604 15801);"/>
+                            <Edge cubics="!1604 15801(;1632,15796 1665,15793 1700,15793q1604 15801 1700 15793);"/>
+                            <Edge cubics="!1700 15793(;1700,15793 6532,15793 6532,15793q1700 15793 6532 15793);"/>
+                            <Edge cubics="!1700 18020(;1473,18020 1360,17907 1360,17681q1700 18020Q1360 18020q1360 17681);"/>
+                            <Edge cubics="!6532 18020(;6532,18020 1700,18020 1700,18020q6532 18020 1700 18020);"/>
+                            <Edge cubics="!6532 15793(;6569,15793 6603,15796 6629,15801q6532 15793 6629 15801);"/>
+                            <Edge cubics="!6629 15801(;6793,15833 6872,15943 6872,16132q6629 15801Q6872 15845q6872 16132);"/>
+                            <Edge cubics="!6872 17681(;6872,17907 6759,18020 6532,18020q6872 17681Q6872 18020q6532 18020);"/>
+                            <Edge cubics="!6872 16132(;6872,16132 6872,17681 6872,17681q6872 16132 6872 17681);"/>
+                            <Edge cubics="!1360 17681(;1360,17681 1360,16132 1360,16132q1360 17681 1360 16132);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMStaticText width="200.25" height="87.5" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="38.55" ty="10.75"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Tidak Ada Variabel</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="42.75" size="35" face="Calibri-Bold" fillColor="#001558"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#001558"/>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="vertical" weight="5">
+                                <fill>
+                                  <SolidColor color="#001558"/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!340 0S2|5172 0!5172 0[5224 0 5269 8!5269 8[5512 52 5512 339!5512 339|5512 1888!5512 1888[5512 2227 5172 2227!5172 2227|340 2227!340 2227[0 2227 0 1888!0 1888|0 339!0 339[0 52 244 8!244 8[288 0 340 0"/>
+                            <Edge cubics="!0 339(;0,148 80,38 244,8q0 339Q0 52q244 8);"/>
+                            <Edge cubics="!244 8(;272,3 305,0 340,0q244 8 340 0);"/>
+                            <Edge cubics="!340 0(;340,0 5172,0 5172,0q340 0 5172 0);"/>
+                            <Edge cubics="!340 2227(;113,2227 0,2114 0,1888q340 2227Q0 2227q0 1888);"/>
+                            <Edge cubics="!5172 2227(;5172,2227 340,2227 340,2227q5172 2227 340 2227);"/>
+                            <Edge cubics="!5172 0(;5209,0 5243,3 5269,8q5172 0 5269 8);"/>
+                            <Edge cubics="!5269 8(;5433,40 5512,150 5512,339q5269 8Q5512 52q5512 339);"/>
+                            <Edge cubics="!5512 1888(;5512,2114 5399,2227 5172,2227q5512 1888Q5512 2227q5172 2227);"/>
+                            <Edge cubics="!5512 339(;5512,339 5512,1888 5512,1888q5512 339 5512 1888);"/>
+                            <Edge cubics="!0 1888(;0,1888 0,339 0,339q0 1888 0 339);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMStaticText width="200.25" height="87.5" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="38.55" ty="10.75"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Tidak Ada Variabel</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="42.75" size="35" bitmapSize="700" face="Calibri-Bold" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
