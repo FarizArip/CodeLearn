@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 14" itemID="6a21c882-00000046" lastModified="1780598914">
+  <timeline>
+    <DOMTimeline name="Symbol 14" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Bitmap 19 copy">
+                  <matrix>
+                    <Matrix a="0.813766479492188" d="0.64898681640625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.2" y="-1"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
