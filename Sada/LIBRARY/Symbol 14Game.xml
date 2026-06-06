@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 14Game" itemID="6a222f3f-00000228" lastModified="1780639363">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 14Game" itemID="6a22ba59-00000220" lastModified="1780660985">
   <timeline>
-    <DOMTimeline name="Symbol 14Game" currentFrame="1" layerDepthEnabled="true">
+    <DOMTimeline name="Symbol 14Game" layerDepthEnabled="true">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
@@ -9,7 +9,7 @@
                 <script><![CDATA[stop();]]></script>
               </Actionscript>
               <elements>
-                <DOMBitmapInstance libraryItemName="Bitmap 19Game copy">
+                <DOMBitmapInstance selected="true" libraryItemName="Bitmap 19Game copy">
                   <matrix>
                     <Matrix a="0.813766479492188" d="0.64898681640625"/>
                   </matrix>
