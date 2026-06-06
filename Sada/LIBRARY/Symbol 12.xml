@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 12" itemID="6a21c861-0000003c" lastModified="1780601147">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 12" itemID="6a21c861-0000003c" lastModified="1780630232">
   <timeline>
     <DOMTimeline name="Symbol 12" layerDepthEnabled="true">
       <layers>
@@ -17,9 +17,9 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>get</characters>
+                      <characters>for</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="27.1" size="25" bitmapSize="500" face="TwCenMT-CondensedExtraBold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="27.1" size="25" face="TwCenMT-CondensedExtraBold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

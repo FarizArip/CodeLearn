@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="720" height="1280" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 20.0 build 17400" majorVersion="20" buildNumber="17400" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="5" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="4E9C317403EF2243926E1E7F910E2316">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="720" height="1280" frameRate="30" currentTimeline="3" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 20.0 build 17400" majorVersion="20" buildNumber="17400" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="5" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="4E9C317403EF2243926E1E7F910E2316">
      <fonts>
           <DOMFontItem name="Font 1" itemID="6a216424-000000d0" font="TwCenMT-CondensedExtraBold" size="0" id="1" sourceLastImported="1780573220" embedRanges="3"/>
      </fonts>
@@ -7,7 +7,7 @@
           <DOMBitmapItem name="Bitmap 10" itemID="6a20224c-00000029" sourceExternalFilepath="../../../../../../../../Users/Felix/AppData/Local/Temp/flash0.png" sourceLastImported="1780490828" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 10.png" bitmapDataHRef="M 10 1780490828.dat" frameRight="6800" frameBottom="2000" maxScaleUsed="0.88"/>
           <DOMBitmapItem name="Bitmap 11" itemID="6a202496-0000003a" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 11.png" sourceLastImported="1780560196" externalFileSize="9016" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 11.png" bitmapDataHRef="M 11 1780491000.dat" frameRight="15320" frameBottom="7180"/>
           <DOMBitmapItem name="Bitmap 11 copy" itemID="6a21384f-00000067" sourceExternalFilepath="../../../../../../../../Users/Felix/AppData/Local/Temp/flash0.png" sourceLastImported="1780561598" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 11 copy.png" bitmapDataHRef="M 11 1780561599.dat" frameRight="7440" frameBottom="4600" maxScaleUsed="0.74"/>
-          <DOMBitmapItem name="Bitmap 12" itemID="6a202496-0000003b" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 12.png" sourceLastImported="1780560196" externalFileSize="6859" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 12.png" bitmapDataHRef="M 12 1780491228.dat" frameRight="8840" frameBottom="3160" maxScaleUsed="0.65"/>
+          <DOMBitmapItem name="Bitmap 12" itemID="6a202496-0000003b" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 12.png" sourceLastImported="1780627334" externalFileSize="6859" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 12.png" bitmapDataHRef="M 12 1780491228.dat" frameRight="8840" frameBottom="3160" maxScaleUsed="0.65"/>
           <DOMBitmapItem name="Bitmap 13" itemID="6a213702-0000004e" sourceExternalFilepath="../../../../../../../../Users/Felix/AppData/Local/Temp/flash0.png" sourceLastImported="1780561666" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 13.png" bitmapDataHRef="M 13 1780561666.dat" frameRight="4000" frameBottom="2540"/>
           <DOMBitmapItem name="Bitmap 14" itemID="6a215ece-000000c3" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 14.png" sourceLastImported="1780561831" externalFileSize="6859" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 14.png" bitmapDataHRef="M 14 1780561831.dat" frameRight="8840" frameBottom="3160"/>
           <DOMBitmapItem name="Bitmap 15" itemID="6a214811-00000093" sourceExternalFilepath="../../../../../../../../Users/Felix/AppData/Local/Temp/flash0.png" sourceLastImported="1780566033" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 15.png" bitmapDataHRef="M 15 1780566033.dat" frameRight="1400" frameBottom="1400"/>
@@ -21,7 +21,7 @@
           <DOMBitmapItem name="Bitmap 6" itemID="6a202496-0000003c" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 6.png" sourceLastImported="1780560196" externalFileSize="5659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 6.png" bitmapDataHRef="M 6 1780489552.dat" frameRight="16480" frameBottom="5480"/>
           <DOMBitmapItem name="Bitmap 7" itemID="6a202496-0000003d" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 7.png" sourceLastImported="1780560196" externalFileSize="5659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 7.png" bitmapDataHRef="M 7 1780489617.dat" frameRight="16480" frameBottom="5480" maxScaleUsed="1.1"/>
           <DOMBitmapItem name="Bitmap 8" itemID="6a202496-0000003e" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 8.png" sourceLastImported="1780560196" externalFileSize="7263" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 8.png" bitmapDataHRef="M 8 1780490137.dat" frameRight="15520" frameBottom="7440" maxScaleUsed="0.88"/>
-          <DOMBitmapItem name="Bitmap 9" itemID="6a202496-0000003f" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 9.png" sourceLastImported="1780560196" externalFileSize="3327" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 9.png" bitmapDataHRef="M 9 1780490803.dat" frameRight="6800" frameBottom="2000" maxScaleUsed="0.88"/>
+          <DOMBitmapItem name="Bitmap 9" itemID="6a202496-0000003f" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 9.png" sourceLastImported="1780627334" externalFileSize="3327" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 9.png" bitmapDataHRef="M 9 1780490803.dat" frameRight="6800" frameBottom="2000" maxScaleUsed="0.88"/>
      </media>
      <symbols>
           <Include href="Symbol 1.xml" loadImmediate="false" itemID="6a2145a1-00000069" lastModified="1780565410"/>
@@ -33,336 +33,14 @@
           <Include href="Symbol 7.xml" loadImmediate="false" itemID="6a214608-00000088" lastModified="1780565512"/>
           <Include href="Symbol 8.xml" loadImmediate="false" itemID="6a21460f-0000008d" lastModified="1780565519"/>
           <Include href="Symbol 9.xml" itemIcon="0" loadImmediate="false" itemID="6a215523-000000a5" lastModified="1780569379"/>
-          <Include href="Symbol 10.xml" loadImmediate="false" itemID="6a21c84e-00000031" lastModified="1780601094"/>
-          <Include href="Symbol 11.xml" loadImmediate="false" itemID="6a21c856-00000037" lastModified="1780601121"/>
-          <Include href="Symbol 12.xml" loadImmediate="false" itemID="6a21c861-0000003c" lastModified="1780601147"/>
-          <Include href="Symbol 13.xml" loadImmediate="false" itemID="6a21c869-00000041" lastModified="1780601169"/>
+          <Include href="Symbol 10.xml" loadImmediate="false" itemID="6a21c84e-00000031" lastModified="1780630220"/>
+          <Include href="Symbol 11.xml" loadImmediate="false" itemID="6a21c856-00000037" lastModified="1780630226"/>
+          <Include href="Symbol 12.xml" loadImmediate="false" itemID="6a21c861-0000003c" lastModified="1780630232"/>
+          <Include href="Symbol 13.xml" loadImmediate="false" itemID="6a21c869-00000041" lastModified="1780630240"/>
           <Include href="Symbol 14.xml" loadImmediate="false" itemID="6a21c882-00000046" lastModified="1780598914"/>
           <Include href="Symbol 15.xml" loadImmediate="false" itemID="6a21c8a5-0000004b" lastModified="1780598949"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="DTB" layerDepthEnabled="true">
-               <layers>
-                    <DOMLayer name="script" color="#9933CC" current="true" isSelected="true" autoNamed="false">
-                         <frames>
-                              <DOMFrame index="0" keyMode="9728">
-                                   <Actionscript>
-                                        <script><![CDATA[stop();
-
-import flash.events.MouseEvent;
-import flash.display.MovieClip;
-
-if (Object(this).skorTotalGame == undefined) {
-    Object(this).skorTotalGame = 0; 
-}
-
-txt_timer.background = false; txt_timer.border = false;
-txt_poinangka.background = false; txt_poinangka.border = false;
-txt_pointext.background = false; txt_pointext.border = false;
-
-txt_poinangka.text = String(Object(this).skorTotalGame);
-
-// 1. Setup Teks Soal (Ubah < dan > menjadi &lt; dan &gt; agar aman di mode HTML)
-var soalAsli:String = "#include &lt;iostream&gt;\nusing namespace std;\n\nint main() {\n  // Tampilkan teks ke layar\n  [ Zona 1 ] &lt;&lt; \"Halo, C++!\";\n  return 0;\n}";
-
-// Tampilkan soal original menggunakan mode HTML
-txt_soal.htmlText = soalAsli; 
-
-// 2. Setup Kunci Jawaban
-var jawabanBenarDTB:String = "btn_jawaban2"; 
-var jawabanPemain:MovieClip = null;
-
-// 3. Setup Interaksi Balok & Nilai Teksnya
-this.btn_jawaban1.nilaiTeks = "cin";
-this.btn_jawaban2.nilaiTeks = "cout";
-this.btn_jawaban3.nilaiTeks = "get";
-this.btn_jawaban4.nilaiTeks = "print";
-
-for (var indexBlok:int = 1; indexBlok <= 4; indexBlok++) {
-    var btn:MovieClip = this["btn_jawaban" + indexBlok] as MovieClip;
-    btn.buttonMode = true;
-    
-    btn.startX = btn.x;
-    btn.startY = btn.y;
-    
-    btn.addEventListener(MouseEvent.MOUSE_DOWN, ambilBlok);
-    btn.addEventListener(MouseEvent.MOUSE_UP, lepasBlok);
-}
-
-btn_lanjutdtb.buttonMode = true;
-btn_lanjutdtb.addEventListener(MouseEvent.CLICK, cekSkorDTB);
-
-// 4. Mekanik Drag
-function ambilBlok(e:MouseEvent):void {
-    var blok:MovieClip = e.currentTarget as MovieClip;
-    setChildIndex(blok, numChildren - 1); 
-    blok.startDrag();
-}
-
-// 5. Mekanik Drop & Ganti Teks dengan Warna MERAH
-function lepasBlok(e:MouseEvent):void {
-    var blok:MovieClip = e.currentTarget as MovieClip;
-    blok.stopDrag();
-    
-    if (blok.hitTestObject(dropZone)) {
-        
-        blok.x = dropZone.x + (dropZone.width / 2) - (blok.width / 2);
-        blok.y = dropZone.y + (dropZone.height / 2) - (blok.height / 2);
-        
-        jawabanPemain = blok; 
-        
-        // --- FITUR WARNA MERAH ---
-        // Kita bungkus nilai teksnya dengan tag HTML warna merah (#FF0000)
-        var teksMerah:String = "<font color='#FF0000'>" + blok.nilaiTeks + "</font>";
-        
-        // Ganti "[ Zona 1 ]" dengan teks yang sudah diwarnai merah
-        txt_soal.htmlText = soalAsli.replace("[ Zona 1 ]", teksMerah);
-        
-        for (var j:int = 1; j <= 4; j++) {
-            var btnLain:MovieClip = this["btn_jawaban" + j] as MovieClip;
-            if (btnLain != blok) {
-                btnLain.x = btnLain.startX;
-                btnLain.y = btnLain.startY;
-            }
-        }
-        
-    } else {
-        blok.x = blok.startX;
-        blok.y = blok.startY;
-        
-        if (jawabanPemain == blok) {
-            jawabanPemain = null; 
-            // Kembalikan soal ke bentuk originalnya (tanpa warna merah)
-            txt_soal.htmlText = soalAsli; 
-        }
-    }
-}
-
-// 6. Validasi Skor 
-function cekSkorDTB(e:MouseEvent):void {
-    if (jawabanPemain != null) {
-        
-        if (jawabanPemain.name == jawabanBenarDTB) {
-            Object(this).skorTotalGame += 25; 
-            txt_poinangka.text = String(Object(this).skorTotalGame);
-        }
-        
-        gotoAndStop(1, "Skor"); 
-        
-    } else {
-        trace("Belum dijawab");
-    }
-}]]></script>
-                                   </Actionscript>
-                                   <elements/>
-                              </DOMFrame>
-                         </frames>
-                    </DOMLayer>
-                    <DOMLayer name="UI_Dynamic" color="#FF800A" autoNamed="false">
-                         <frames>
-                              <DOMFrame index="0" keyMode="9728">
-                                   <elements>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 15">
-                                             <matrix>
-                                                  <Matrix tx="49" ty="185"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMDynamicText name="txt_timer" width="168.9" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="137.25" ty="186.75"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>00.45</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineSpacing="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMDynamicText name="txt_pointext" width="168.9" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="404" ty="186.75"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>POIN:</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMDynamicText name="txt_poinangka" fontRenderingMode="device" width="120.95" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="556.75" ty="186.8"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>0</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                   </elements>
-                              </DOMFrame>
-                         </frames>
-                    </DOMLayer>
-                    <DOMLayer name="UI_BG" color="#00FFFF" autoNamed="false" heightLiteral="24">
-                         <frames>
-                              <DOMFrame index="0" keyMode="9728">
-                                   <elements>
-                                        <DOMShape>
-                                             <fills>
-                                                  <FillStyle index="1">
-                                                       <SolidColor color="#1765A5"/>
-                                                  </FillStyle>
-                                             </fills>
-                                             <edges>
-                                                  <Edge fillStyle0="1" edges="!14407 159[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9 203
-!-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
-                                             </edges>
-                                        </DOMShape>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
-                                             <matrix>
-                                                  <Matrix a="0.874237060546875" d="0.874237060546875"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
-                                             <matrix>
-                                                  <Matrix tx="88" ty="36"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMStaticText width="315.15" height="147.1" isSelectable="false">
-                                             <matrix>
-                                                  <Matrix tx="245.8" ty="6.5"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>Code Block Puzzle</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMStaticText>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
-                                             <matrix>
-                                                  <Matrix a="0.87420654296875" d="1.09489440917969"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 8">
-                                             <matrix>
-                                                  <Matrix a="0.87628173828125" d="0.845596313476562" tx="24" ty="317"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="0.25" y="0.2"/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
-                                             <matrix>
-                                                  <Matrix a="0.874237060546875" d="0.874237060546875"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="-0.45"/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
-                                             <matrix>
-                                                  <Matrix tx="49" ty="36"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMStaticText width="315.15" height="147.1" isSelectable="false">
-                                             <matrix>
-                                                  <Matrix tx="245.4" ty="6.5"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>Code Block Puzzle</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMStaticText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 10" name="btn_jawaban1">
-                                             <matrix>
-                                                  <Matrix tx="47" ty="650"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="150" y="35.9"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 11" name="btn_jawaban2">
-                                             <matrix>
-                                                  <Matrix tx="372" ty="650"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="150" y="35.9"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="btn_jawaban3">
-                                             <matrix>
-                                                  <Matrix tx="47" ty="750"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="150" y="35.9"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 13" name="btn_jawaban4">
-                                             <matrix>
-                                                  <Matrix tx="372" ty="750"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="150" y="35.9"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="dropZone">
-                                             <matrix>
-                                                  <Matrix tx="49" ty="852"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="310.75" y="116.15"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 15" name="btn_lanjutdtb">
-                                             <matrix>
-                                                  <Matrix tx="216" ty="1115"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="143.5" y="51.3"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMDynamicText name="txt_soal" fontRenderingMode="standard" width="433.85" height="144" isSelectable="false" border="true" lineType="multiline">
-                                             <matrix>
-                                                  <Matrix a="1.43963623046875" d="1.43963623046875" tx="44.9" ty="346.85"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="-2.05" y="-2.05"/>
-                                             </transformationPoint>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>#include &lt;iostream&gt;using namespace &#xD;std;  &#xD;int main() &#xD;{&#xD;   // Tampilkan teks ke layar   &#xD;   [ Zona 1 ] &lt;&lt; "Halo, C++!";    &#xD;   return 0; &#xD;} </characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs aliasText="false" lineHeight="16.25" size="15" bitmapSize="300" face="TwCenMT-CondensedExtraBold"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                   </elements>
-                              </DOMFrame>
-                         </frames>
-                    </DOMLayer>
-               </layers>
-          </DOMTimeline>
           <DOMTimeline name="CTD" layerDepthEnabled="true">
                <layers>
                     <DOMLayer name="Script" color="#9933CC" current="true" isSelected="true" autoNamed="false" highlighted="true">
@@ -386,6 +64,7 @@ var startX:Number;
 var startY:Number;
 var activeBlock:MovieClip;
 var activeIndex:int;
+var levelCTD:int = 1;
 
 // 1. Membuat Wadah Garis
 var lines:Array = [];
@@ -401,18 +80,28 @@ for (indexGaris = 1; indexGaris <= 4; indexGaris++) {
 // Index 0 dikosongkan agar Index 1 = Frame 1, Index 2 = Frame 2, dst.
 var semuaKunci:Array = [
     null,
-    // Kunci Frame 1 
+    
+    // LEVEL 1 (Frame 1): Tipe Data
+    // int(Kanan 4), bool(Kanan 3), string(Kanan 1), double(Kanan 2)
     { "btnkiri1":"btnkanan4", "btnkiri2":"btnkanan3", "btnkiri3":"btnkanan1", "btnkiri4":"btnkanan2" },
-    // Kunci Frame 2 (Silakan sesuaikan)
+    
+    // LEVEL 2 (Frame 2): Sintaks Dasar C++
+    // ;(Kanan 4), { }(Kanan 1), Case-sensitive(Kanan 3), cout(Kanan 2)
+    { "btnkiri1":"btnkanan4", "btnkiri2":"btnkanan1", "btnkiri3":"btnkanan3", "btnkiri4":"btnkanan2" },
+    
+    // LEVEL 3 (Frame 3): Statement Seleksi
+    // if(Kanan 1), if...else(Kanan 2), switch(Kanan 3), break(Kanan 4)
     { "btnkiri1":"btnkanan1", "btnkiri2":"btnkanan2", "btnkiri3":"btnkanan3", "btnkiri4":"btnkanan4" },
-    // Kunci Frame 3
-    { "btnkiri1":"btnkanan2", "btnkiri2":"btnkanan4", "btnkiri3":"btnkanan1", "btnkiri4":"btnkanan3" },
-    // Kunci Frame 4
-    { "btnkiri1":"btnkanan3", "btnkiri2":"btnkanan1", "btnkiri3":"btnkanan4", "btnkiri4":"btnkanan2" },
-    // Kunci Frame 5
-    { "btnkiri1":"btnkanan4", "btnkiri2":"btnkanan2", "btnkiri3":"btnkanan3", "btnkiri4":"btnkanan1" }
+    
+    // LEVEL 4 (Frame 4): Statement Perulangan
+    // for loop(Kanan 4), while(Kanan 3), do...while(Kanan 2), off-by-one(Kanan 1)
+    { "btnkiri1":"btnkanan4", "btnkiri2":"btnkanan3", "btnkiri3":"btnkanan2", "btnkiri4":"btnkanan1" },
+    
+    // LEVEL 5 (Frame 5): Error & Konsep Tambahan
+    // Sintaksis(Kanan 2), Logika(Kanan 4), 0(Kanan 1), return 0;(Kanan 3)
+    { "btnkiri1":"btnkanan2", "btnkiri2":"btnkanan4", "btnkiri3":"btnkanan1", "btnkiri4":"btnkanan3" }
 ];
-
+	
 // 3. FUNGSI SETUP LEVEL (Dijalankan setiap pindah frame)
 function setupLevel():void {
     gameSelesai = false;
@@ -487,14 +176,12 @@ function onDragDrop(e:MouseEvent):void {
     }
 }
 
-// 5. PENILAIAN LANGSUNG & PINDAH FRAME
 function onLanjutClick(e:MouseEvent):void {
     if (gameSelesai) return;
     
     var skorLevelIni:int = 0;
-    var kunciSekarang:Object = semuaKunci[currentFrame];
+    var kunciSekarang:Object = semuaKunci[levelCTD]; // Gunakan levelCTD
     
-    // Periksa jawaban secara gaib
     for (var m:int = 1; m <= 4; m++) {
         var kiri:MovieClip = this["btnkiri" + m] as MovieClip;
         if (kiri.connectedTo != null) {
@@ -504,15 +191,15 @@ function onLanjutClick(e:MouseEvent):void {
         }
     }
     
-    // Update perhitungan skor dan tembak lagi ke UI
     skorTotalGame += skorLevelIni; 
     txt_poinangka.text = String(skorTotalGame);
     
-    if (currentFrame < 5) {
-        gotoAndStop(currentFrame + 1); 
+    // Logika Perpindahan yang Stabil
+    if (levelCTD < 5) {
+        levelCTD++; // Tambah angka level
+        nextFrame(); // Pindah ke frame berikutnya dengan aman
     } else {
-        trace("GAME TAMAT! SKOR AKHIR: " + skorTotalGame);
-        gameSelesai = true; 
+        gotoAndStop(1, "DTB"); 
     }
 }
 
@@ -639,8 +326,7 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   </FillStyle>
                                              </fills>
                                              <edges>
-                                                  <Edge fillStyle0="1" edges="
-!14398 159[14390 356 14330 527!14330 527[14278 678 14185 811!14185 811[14149 862 14107 909!14107 909[13815 1243 13403 1243!13403 1243|974 1243!974 1243[563 1243 271 909!271 909[206 835 156 756!156 756[5 514 -17 212!-17 212[-18 206 -18
+                                                  <Edge fillStyle0="1" edges="!14398 159[14390 356 14330 527!14330 527[14278 678 14185 811!14185 811[14149 862 14107 909!14107 909[13815 1243 13403 1243!13403 1243|974 1243!974 1243[563 1243 271 909!271 909[206 835 156 756!156 756[5 514 -17 212!-17 212[-18 206 -18
  203!-18 203[-20 167 -21 133!-21 133|-21 25600!-21 25600|14398 25600!14398 25600|14398 159"/>
                                              </edges>
                                         </DOMShape>
@@ -729,7 +415,7 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjut" symbolType="button">
+                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd">
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
                                              </matrix>
@@ -737,6 +423,110 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   <Point x="143.5" y="51.3"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="378.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>string</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="578.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>double</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="778.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>bool</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="978.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>int</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="360.55"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Tipe data yang menyimpan angka bulat</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="561.65"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Tipe data yang menyimpan true or false</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="761.6"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Tipe data yang menyimpan data teks</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="961.3"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Tipe data yang menyimpan angka desimal</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
                                    </elements>
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
@@ -882,20 +672,7 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMDynamicText>
-                                        <DOMDynamicText name="txt_poinangka" width="73.55" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="564.55" ty="186.75"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>0</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd">
+                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd" selected="true">
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
                                              </matrix>
@@ -903,6 +680,110 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   <Point x="143.5" y="51.3"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="378.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>{ }</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="578.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>cout</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="38.5" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="778.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Case-sensitive</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="978.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="360.55"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Akhir dari pernyataan</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="561.65"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Blok ruang lingkup</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="761.6"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Sensitif huruf besar/kecil</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="961.3"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Perintah output layar</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
                                    </elements>
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
@@ -1048,20 +929,7 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMDynamicText>
-                                        <DOMDynamicText name="txt_poinangka" width="73.55" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="564.55" ty="186.75"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>0</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjut" symbolType="button" centerPoint3DX="357.5" centerPoint3DY="1167.3">
+                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd" selected="true">
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
                                              </matrix>
@@ -1069,6 +937,110 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   <Point x="143.5" y="51.3"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="378.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>if</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="578.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>if...else</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="778.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>switch</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="978.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>break</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="360.55"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Seleksi kondisi tunggal</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="561.65"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Dua jalur saling eksklusif</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="761.6"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Multi-kasus yang efisien</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="961.3"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Mencegah fall-through</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
                                    </elements>
                               </DOMFrame>
                               <DOMFrame index="3" keyMode="9728">
@@ -1214,20 +1186,7 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMDynamicText>
-                                        <DOMDynamicText name="txt_poinangka" width="73.55" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="564.55" ty="186.75"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>0</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjut" symbolType="button" centerPoint3DX="357.5" centerPoint3DY="1167.3">
+                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd" selected="true">
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
                                              </matrix>
@@ -1235,6 +1194,110 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   <Point x="143.5" y="51.3"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="378.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>off-by-one</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="578.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>do...while</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="778.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>while</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="538.35" ty="978.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>for loop</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="360.55"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Iterasi deterministik (pasti)</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="561.65"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Uji kondisi di awal (Pre-test)</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="761.6"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Dieksekusi minimal satu kali</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="961.3"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Risiko indeks di luar batas</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
                                    </elements>
                               </DOMFrame>
                               <DOMFrame index="4" keyMode="9728">
@@ -1380,9 +1443,379 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMDynamicText>
-                                        <DOMDynamicText name="txt_poinangka" width="73.55" height="72.55" isSelectable="false" border="true">
+                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd">
                                              <matrix>
-                                                  <Matrix tx="564.55" ty="186.75"/>
+                                                  <Matrix tx="214" ty="1116"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="143.5" y="51.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="536.35" ty="378.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>0 (Nol)</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="38.5" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="536.35" ty="578.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Kesalahan Sintaksis</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="21" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="536.35" ty="778.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>return 0;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="81.3" height="38.5" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="536.35" ty="978.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Kesalahan Logika</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="360.55"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Melanggar tata bahasa</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="561.65"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Hasil salah / Divide by zero</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="761.6"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Indeks array C++ dimulai dari</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" width="181.3" height="66.9" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="95.85" ty="961.3"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Menandakan akhir program</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.25" size="15" bitmapSize="300" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+          <DOMTimeline name="DTB" layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="script" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+
+import flash.events.MouseEvent;
+import flash.display.MovieClip;
+
+if (Object(this).skorTotalGame == undefined) {
+    Object(this).skorTotalGame = 0; 
+}
+
+txt_timer.background = false; txt_timer.border = false;
+txt_poinangka.background = false; txt_poinangka.border = false;
+txt_pointext.background = false; txt_pointext.border = false;
+
+
+
+// 1. DATABASE 5 LEVEL DTB
+var dataLevelDTB:Array = [
+    null,
+    
+    // LEVEL 1: Output Dasar 
+    {
+        soal: "#include &lt;iostream&gt;\nusing namespace std;\n\nint main() {\n  // Tampilkan teks ke layar\n  [ Zona 1 ] &lt;&lt; \"Halo, C++!\";\n  return 0;\n}",
+        kunci: "btn_jawaban2", // Posisi 'cout' ada di tombol 2
+        nilaiBlok: ["cin", "cout", "get", "print"] 
+    },
+    
+    // LEVEL 2: Seleksi Tunggal (if)
+    {
+        soal: "int umur = 20;\n\n// Cek syarat minimal umur\n[ Zona 1 ] (umur >= 18) {\n  cout &lt;&lt; \"Boleh masuk\";\n}",
+        kunci: "btn_jawaban1", // Posisi 'if' ada di tombol 1
+        nilaiBlok: ["if", "else", "for", "switch"]
+    },
+    
+    // LEVEL 3: Mencegah Fall-through pada Switch
+    {
+        soal: "char grade = 'A';\nswitch (grade) {\n  case 'A': \n    cout &lt;&lt; \"Sangat baik\"; \n    [ Zona 1 ]\n  case 'B': \n    cout &lt;&lt; \"Baik\";\n}",
+        kunci: "btn_jawaban4", // Posisi 'break;' ada di tombol 4
+        nilaiBlok: ["stop;", "exit;", "return;", "break;"]
+    },
+    
+    // LEVEL 4: Perulangan Deterministik (for loop)
+    {
+        soal: "// Menampilkan angka 0 sampai 4\n[ Zona 1 ] (int i = 0; i &lt; 5; i++) {\n  cout &lt;&lt; i &lt;&lt; \" \";\n}",
+        kunci: "btn_jawaban3", // Posisi 'for' ada di tombol 3
+        nilaiBlok: ["while", "do", "for", "loop"]
+    },
+    
+    // LEVEL 5: Post-test Loop (Minimal jalan 1 kali)
+    {
+        soal: "int x = 10;\ndo {\n  cout &lt;&lt; \"Nilai x: \" &lt;&lt; x;\n  x++;\n} [ Zona 1 ] (x &lt; 5);",
+        kunci: "btn_jawaban2", // Posisi 'while' ada di tombol 2
+        nilaiBlok: ["if", "while", "until", "for"]
+    }
+];
+
+// Variabel Global untuk Interaksi
+var soalAsli:String;
+var jawabanBenarDTB:String;
+var jawabanPemain:MovieClip;
+var levelDTB:int = 1;
+
+// --- TAMBAHAN VARIABEL GLOBAL UNTUK MENGUNCI KOORDINAT ---
+var posisiAwalX:Array = [];
+var posisiAwalY:Array = [];
+var posisiTersimpan:Boolean = false;
+
+// 2. FUNGSI SETUP LEVEL
+function setupLevelDTB():void {
+    jawabanPemain = null; 
+    
+    txt_poinangka.background = false; 
+    txt_poinangka.border = false;
+    // Ambil skor dari CTD dengan aman
+    txt_poinangka.text = String(Object(this).skorTotalGame);
+    
+    // Gunakan levelDTB untuk menarik data
+    var dataSekarang:Object = dataLevelDTB[levelDTB]; 
+    soalAsli = dataSekarang.soal;
+    jawabanBenarDTB = dataSekarang.kunci;
+    txt_soal.htmlText = soalAsli;
+    
+    // Atur ulang balok-balok jawaban
+    for (var j:int = 1; j <= 4; j++) {
+        var btn:MovieClip = this["btn_jawaban" + j] as MovieClip;
+        if (btn != null) {
+            btn.buttonMode = true;
+            
+            // --- TANGAN BESI: KUNCI POSISI ---
+            // Rekam posisi HANYA SATU KALI saat game pertama kali dimulai
+            if (!posisiTersimpan) {
+                posisiAwalX[j] = btn.x;
+                posisiAwalY[j] = btn.y;
+            }
+            
+            // Paksa balok pulang ke koordinat global yang sudah dikunci
+            btn.x = posisiAwalX[j];
+            btn.y = posisiAwalY[j];
+            
+            // Beri tahu mekanik drag & drop letak rumahnya yang mutlak
+            btn.startX = posisiAwalX[j];
+            btn.startY = posisiAwalY[j];
+            // ---------------------------------
+            
+            // Beri nilai teks sesuai array di database
+            btn.nilaiTeks = dataSekarang.nilaiBlok[j - 1]; 
+            
+            // Cegah event listener menumpuk
+            btn.removeEventListener(MouseEvent.MOUSE_DOWN, ambilBlok);
+            btn.removeEventListener(MouseEvent.MOUSE_UP, lepasBlok);
+            btn.addEventListener(MouseEvent.MOUSE_DOWN, ambilBlok);
+            btn.addEventListener(MouseEvent.MOUSE_UP, lepasBlok);
+        }
+    }
+    
+    posisiTersimpan = true; // Kunci agar Frame 2, 3, 4, 5 tidak ikut-ikutan merekam posisi
+    
+    btn_lanjutdtb.removeEventListener(MouseEvent.CLICK, cekSkorDTB);
+    btn_lanjutdtb.addEventListener(MouseEvent.CLICK, cekSkorDTB);
+}
+
+// 3. MEKANIK DRAG
+function ambilBlok(e:MouseEvent):void {
+    var blok:MovieClip = e.currentTarget as MovieClip;
+    setChildIndex(blok, numChildren - 1); 
+    blok.startDrag();
+}
+
+// 4. MEKANIK DROP & WARNA MERAH
+function lepasBlok(e:MouseEvent):void {
+    var blok:MovieClip = e.currentTarget as MovieClip;
+    blok.stopDrag();
+    
+    if (blok.hitTestObject(dropZone)) {
+        // Snap ke tengah dropZone
+        blok.x = dropZone.x + (dropZone.width / 2) - (blok.width / 2);
+        blok.y = dropZone.y + (dropZone.height / 2) - (blok.height / 2);
+        
+        jawabanPemain = blok; 
+        
+        // Ganti teks dengan string HTML Merah
+        var teksMerah:String = "<font color='#FF0000'>" + blok.nilaiTeks + "</font>";
+        txt_soal.htmlText = soalAsli.replace("[ Zona 1 ]", teksMerah);
+        
+        // Pulangkan balok lain
+        for (var k:int = 1; k <= 4; k++) {
+            var btnLain:MovieClip = this["btn_jawaban" + k] as MovieClip;
+            if (btnLain != blok) {
+                btnLain.x = btnLain.startX;
+                btnLain.y = btnLain.startY;
+            }
+        }
+    } else {
+        blok.x = blok.startX;
+        blok.y = blok.startY;
+        if (jawabanPemain == blok) {
+            jawabanPemain = null; 
+            txt_soal.htmlText = soalAsli; // Kembali polos
+        }
+    }
+}
+
+// 5. VALIDASI SKOR & LOGIKA PINDAH FRAME
+function cekSkorDTB(e:MouseEvent):void {
+    
+    if (jawabanPemain != null) {
+        if (jawabanPemain.name == jawabanBenarDTB) {
+            Object(this).skorTotalGame += 25; 
+            txt_poinangka.text = String(Object(this).skorTotalGame);
+        }
+    }
+    
+    // Logika Perpindahan yang Stabil
+    if (levelDTB < 5) {
+        levelDTB++; // Tambah angka level
+        nextFrame(); // Geser ke frame berikutnya
+    } else {
+        gotoAndStop(1, "Skor"); // Tamat
+    }
+}
+
+// Panggil setup saat Frame 1 dimulai
+setupLevelDTB();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[setupLevelDTB();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[setupLevelDTB();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[setupLevelDTB();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[setupLevelDTB();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="UI_Dynamic" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 15">
+                                             <matrix>
+                                                  <Matrix tx="49" ty="185"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMDynamicText name="txt_timer" width="168.9" height="72.55" isSelectable="false" border="true">
+                                             <matrix>
+                                                  <Matrix tx="137.25" ty="186.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>00.45</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineSpacing="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText name="txt_pointext" width="168.9" height="72.55" isSelectable="false" border="true">
+                                             <matrix>
+                                                  <Matrix tx="404" ty="186.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>POIN:</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText name="txt_poinangka" fontRenderingMode="device" width="120.95" height="72.55" isSelectable="false" border="true">
+                                             <matrix>
+                                                  <Matrix tx="556.75" ty="186.8"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
@@ -1393,14 +1826,750 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMDynamicText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjut" symbolType="button" centerPoint3DX="357.5" centerPoint3DY="1167.3">
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="UI_BG" color="#00FFFF" autoNamed="false" heightLiteral="24">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#1765A5"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle0="1" edges="
+!14407 159[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9 203
+!-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
                                              <matrix>
-                                                  <Matrix tx="214" ty="1116"/>
+                                                  <Matrix a="0.874237060546875" d="0.874237060546875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                             <matrix>
+                                                  <Matrix tx="88" ty="36"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="315.15" height="147.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="245.8" ty="6.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Code Block Puzzle</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                             <matrix>
+                                                  <Matrix a="0.87420654296875" d="1.09489440917969"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 8">
+                                             <matrix>
+                                                  <Matrix a="0.87628173828125" d="0.845596313476562" tx="24" ty="317"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.25" y="0.2"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                             <matrix>
+                                                  <Matrix a="0.874237060546875" d="0.874237060546875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.45"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                             <matrix>
+                                                  <Matrix tx="49" ty="36"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="315.15" height="147.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="245.4" ty="6.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Code Block Puzzle</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="Symbol 10" name="btn_jawaban1">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="650"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 11" name="btn_jawaban2">
+                                             <matrix>
+                                                  <Matrix tx="372" ty="650"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="btn_jawaban3">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="750"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 13" name="btn_jawaban4">
+                                             <matrix>
+                                                  <Matrix tx="372" ty="750"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="dropZone">
+                                             <matrix>
+                                                  <Matrix tx="49" ty="852"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="310.75" y="116.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 15" name="btn_lanjutdtb">
+                                             <matrix>
+                                                  <Matrix tx="216" ty="1115"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="143.5" y="51.3"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
+                                        <DOMDynamicText name="txt_soal" fontRenderingMode="standard" width="433.85" height="144" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix a="1.43963623046875" d="1.43963623046875" tx="44.9" ty="346.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-2.05" y="-2.05"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>#include &lt;iostream&gt;using namespace &#xD;std;  &#xD;int main() &#xD;{&#xD;   // Tampilkan teks ke layar   &#xD;   [ Zona 1 ] &lt;&lt; "Halo, C++!";    &#xD;   return 0; &#xD;} </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="16.25" size="15" bitmapSize="300" face="TwCenMT-CondensedExtraBold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#1765A5"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle0="1" edges="
+!14407 159[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9 203
+!-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                             <matrix>
+                                                  <Matrix a="0.874237060546875" d="0.874237060546875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                             <matrix>
+                                                  <Matrix tx="88" ty="36"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="315.15" height="147.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="245.8" ty="6.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Code Block Puzzle</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                             <matrix>
+                                                  <Matrix a="0.87420654296875" d="1.09489440917969"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 8">
+                                             <matrix>
+                                                  <Matrix a="0.87628173828125" d="0.845596313476562" tx="24" ty="317"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.25" y="0.2"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                             <matrix>
+                                                  <Matrix a="0.874237060546875" d="0.874237060546875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.45"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                             <matrix>
+                                                  <Matrix tx="49" ty="36"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="315.15" height="147.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="245.4" ty="6.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Code Block Puzzle</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="Symbol 10" name="btn_jawaban1" centerPoint3DX="197" centerPoint3DY="685.9">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="650"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 11" name="btn_jawaban2" centerPoint3DX="522" centerPoint3DY="685.9">
+                                             <matrix>
+                                                  <Matrix tx="372" ty="650"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="btn_jawaban3" centerPoint3DX="197" centerPoint3DY="785.9">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="750"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 13" name="btn_jawaban4" centerPoint3DX="522" centerPoint3DY="785.9">
+                                             <matrix>
+                                                  <Matrix tx="372" ty="750"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="dropZone" centerPoint3DX="360.65" centerPoint3DY="968.5">
+                                             <matrix>
+                                                  <Matrix tx="49" ty="852"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="310.75" y="116.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 15" name="btn_lanjutdtb" centerPoint3DX="359.5" centerPoint3DY="1166.3">
+                                             <matrix>
+                                                  <Matrix tx="216" ty="1115"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="143.5" y="51.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText name="txt_soal" fontRenderingMode="standard" width="433.85" height="144" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix a="1.43963623046875" d="1.43963623046875" tx="44.9" ty="346.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-2.05" y="-2.05"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>#include &lt;iostream&gt;using namespace &#xD;std;  &#xD;int main() &#xD;{&#xD;   // Tampilkan teks ke layar   &#xD;   [ Zona 1 ] &lt;&lt; "Halo, C++!";    &#xD;   return 0; &#xD;} </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="16.25" size="15" bitmapSize="300" face="TwCenMT-CondensedExtraBold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#1765A5"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle0="1" edges="
+!14407 159[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9 203
+!-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                             <matrix>
+                                                  <Matrix a="0.874237060546875" d="0.874237060546875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                             <matrix>
+                                                  <Matrix tx="88" ty="36"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="315.15" height="147.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="245.8" ty="6.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Code Block Puzzle</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                             <matrix>
+                                                  <Matrix a="0.87420654296875" d="1.09489440917969"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 8">
+                                             <matrix>
+                                                  <Matrix a="0.87628173828125" d="0.845596313476562" tx="24" ty="317"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.25" y="0.2"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                             <matrix>
+                                                  <Matrix a="0.874237060546875" d="0.874237060546875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.45"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                             <matrix>
+                                                  <Matrix tx="49" ty="36"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="315.15" height="147.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="245.4" ty="6.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Code Block Puzzle</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="Symbol 10" name="btn_jawaban1" centerPoint3DX="197" centerPoint3DY="685.9">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="650"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 11" name="btn_jawaban2" centerPoint3DX="522" centerPoint3DY="685.9">
+                                             <matrix>
+                                                  <Matrix tx="372" ty="650"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="btn_jawaban3" centerPoint3DX="197" centerPoint3DY="785.9">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="750"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 13" name="btn_jawaban4" centerPoint3DX="522" centerPoint3DY="785.9">
+                                             <matrix>
+                                                  <Matrix tx="372" ty="750"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="dropZone" centerPoint3DX="360.65" centerPoint3DY="968.5">
+                                             <matrix>
+                                                  <Matrix tx="49" ty="852"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="310.75" y="116.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 15" name="btn_lanjutdtb" centerPoint3DX="359.5" centerPoint3DY="1166.3">
+                                             <matrix>
+                                                  <Matrix tx="216" ty="1115"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="143.5" y="51.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText name="txt_soal" fontRenderingMode="standard" width="433.85" height="144" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix a="1.43963623046875" d="1.43963623046875" tx="44.9" ty="346.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-2.05" y="-2.05"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>#include &lt;iostream&gt;using namespace &#xD;std;  &#xD;int main() &#xD;{&#xD;   // Tampilkan teks ke layar   &#xD;   [ Zona 1 ] &lt;&lt; "Halo, C++!";    &#xD;   return 0; &#xD;} </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="16.25" size="15" bitmapSize="300" face="TwCenMT-CondensedExtraBold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#1765A5"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle0="1" edges="
+!14407 159[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9 203
+!-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                             <matrix>
+                                                  <Matrix a="0.874237060546875" d="0.874237060546875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                             <matrix>
+                                                  <Matrix tx="88" ty="36"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="315.15" height="147.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="245.8" ty="6.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Code Block Puzzle</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                             <matrix>
+                                                  <Matrix a="0.87420654296875" d="1.09489440917969"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 8">
+                                             <matrix>
+                                                  <Matrix a="0.87628173828125" d="0.845596313476562" tx="24" ty="317"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.25" y="0.2"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                             <matrix>
+                                                  <Matrix a="0.874237060546875" d="0.874237060546875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.45"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                             <matrix>
+                                                  <Matrix tx="49" ty="36"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="315.15" height="147.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="245.4" ty="6.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Code Block Puzzle</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="Symbol 10" name="btn_jawaban1" centerPoint3DX="197" centerPoint3DY="685.9">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="650"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 11" name="btn_jawaban2" centerPoint3DX="522" centerPoint3DY="685.9">
+                                             <matrix>
+                                                  <Matrix tx="372" ty="650"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="btn_jawaban3" centerPoint3DX="197" centerPoint3DY="785.9">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="750"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 13" name="btn_jawaban4" centerPoint3DX="522" centerPoint3DY="785.9">
+                                             <matrix>
+                                                  <Matrix tx="372" ty="750"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="dropZone" centerPoint3DX="360.65" centerPoint3DY="968.5">
+                                             <matrix>
+                                                  <Matrix tx="49" ty="852"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="310.75" y="116.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 15" name="btn_lanjutdtb" centerPoint3DX="359.5" centerPoint3DY="1166.3">
+                                             <matrix>
+                                                  <Matrix tx="216" ty="1115"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="143.5" y="51.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText name="txt_soal" fontRenderingMode="standard" width="433.85" height="144" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix a="1.43963623046875" d="1.43963623046875" tx="44.9" ty="346.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-2.05" y="-2.05"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>#include &lt;iostream&gt;using namespace &#xD;std;  &#xD;int main() &#xD;{&#xD;   // Tampilkan teks ke layar   &#xD;   [ Zona 1 ] &lt;&lt; "Halo, C++!";    &#xD;   return 0; &#xD;} </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="16.25" size="15" bitmapSize="300" face="TwCenMT-CondensedExtraBold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#1765A5"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle0="1" edges="
+!14407 159[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9 203
+!-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                             <matrix>
+                                                  <Matrix a="0.874237060546875" d="0.874237060546875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                             <matrix>
+                                                  <Matrix tx="88" ty="36"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="315.15" height="147.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="245.8" ty="6.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Code Block Puzzle</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                             <matrix>
+                                                  <Matrix a="0.87420654296875" d="1.09489440917969"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 8">
+                                             <matrix>
+                                                  <Matrix a="0.87628173828125" d="0.845596313476562" tx="24" ty="317"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.25" y="0.2"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                             <matrix>
+                                                  <Matrix a="0.874237060546875" d="0.874237060546875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.45"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                             <matrix>
+                                                  <Matrix tx="49" ty="36"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText width="315.15" height="147.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="245.4" ty="6.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Code Block Puzzle</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="Symbol 10" name="btn_jawaban1" centerPoint3DX="197" centerPoint3DY="685.9">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="650"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 11" name="btn_jawaban2" centerPoint3DX="522" centerPoint3DY="685.9">
+                                             <matrix>
+                                                  <Matrix tx="372" ty="650"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="btn_jawaban3" centerPoint3DX="197" centerPoint3DY="785.9">
+                                             <matrix>
+                                                  <Matrix tx="47" ty="750"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 13" name="btn_jawaban4" centerPoint3DX="522" centerPoint3DY="785.9">
+                                             <matrix>
+                                                  <Matrix tx="372" ty="750"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="150" y="35.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="dropZone" centerPoint3DX="360.65" centerPoint3DY="968.5">
+                                             <matrix>
+                                                  <Matrix tx="49" ty="852"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="310.75" y="116.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 15" name="btn_lanjutdtb" centerPoint3DX="359.5" centerPoint3DY="1166.3">
+                                             <matrix>
+                                                  <Matrix tx="216" ty="1115"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="143.5" y="51.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText name="txt_soal" selected="true" fontRenderingMode="standard" width="433.85" height="144" isSelectable="false" border="true" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix a="1.43963623046875" d="1.43963623046875" tx="44.9" ty="346.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-2.05" y="-2.05"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>#include &lt;iostream&gt;using namespace &#xD;std;  &#xD;int main() &#xD;{&#xD;   // Tampilkan teks ke layar   &#xD;   [ Zona 1 ] &lt;&lt; "Halo, C++!";    &#xD;   return 0; &#xD;} </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="16.25" size="15" bitmapSize="300" face="TwCenMT-CondensedExtraBold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -1409,7 +2578,74 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
           </DOMTimeline>
           <DOMTimeline name="Skor" layerDepthEnabled="true">
                <layers>
-                    <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true" heightLiteral="24">
+                    <DOMLayer name="script" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText fontRenderingMode="standard" width="236.3" height="46" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="78.4" ty="722.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>0&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.9" size="35" bitmapSize="700" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" left="-52.75" width="139.05" height="46" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="435" ty="722.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>0&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.9" size="35" bitmapSize="700" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" left="-52.75" width="139.05" height="46" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="585" ty="722.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Menit&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.9" size="35" bitmapSize="700" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText selected="true" fontRenderingMode="standard" width="344.95" height="169.7" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="190.2" ty="414.45"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>0</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="129.95" size="120" bitmapSize="2400" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer_1" color="#00FFFF" heightLiteral="24">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -1467,6 +2703,32 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   <Point y="0.15"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
+                                        <DOMDynamicText fontRenderingMode="standard" width="236.3" height="46" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="78.4" ty="650.35"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Soal Terjawab</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.9" size="35" bitmapSize="700" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText fontRenderingMode="standard" left="-52.75" width="289.05" height="46" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="435" ty="650.35"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Waktu Penyelesaian</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.9" size="35" bitmapSize="700" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -1482,25 +2744,25 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
-          <PublishItem publishSize="40427" publishTime="1780601384" publishDebug="true"/>
-          <PublishItem publishSize="40379" publishTime="1780601257" publishDebug="true"/>
-          <PublishItem publishSize="37540" publishTime="1780600569" publishDebug="true"/>
-          <PublishItem publishSize="37540" publishTime="1780600537" publishDebug="true"/>
-          <PublishItem publishSize="30774" publishTime="1780573576" publishDebug="true"/>
-          <PublishItem publishSize="30774" publishTime="1780573536" publishDebug="true"/>
-          <PublishItem publishSize="30767" publishTime="1780573308" publishDebug="true"/>
-          <PublishItem publishSize="30767" publishTime="1780573268" publishDebug="true"/>
-          <PublishItem publishSize="30767" publishTime="1780573238" publishDebug="true"/>
-          <PublishItem publishSize="29900" publishTime="1780572718" publishDebug="true"/>
-          <PublishItem publishSize="30209" publishTime="1780572300" publishDebug="true"/>
-          <PublishItem publishSize="30141" publishTime="1780571939" publishDebug="true"/>
-          <PublishItem publishSize="30128" publishTime="1780571861" publishDebug="true"/>
-          <PublishItem publishSize="30129" publishTime="1780571849" publishDebug="true"/>
-          <PublishItem publishSize="30128" publishTime="1780571835"/>
-          <PublishItem publishSize="30092" publishTime="1780571782" publishDebug="true"/>
-          <PublishItem publishSize="30092" publishTime="1780571777"/>
-          <PublishItem publishSize="19251" publishTime="1780569964" publishDebug="true"/>
-          <PublishItem publishSize="16664" publishTime="1780569653"/>
-          <PublishItem publishSize="18624" publishTime="1780569037" publishDebug="true"/>
+          <PublishItem publishSize="50322" publishTime="1780643981" publishDebug="true"/>
+          <PublishItem publishSize="49966" publishTime="1780636844" publishDebug="true"/>
+          <PublishItem publishSize="49967" publishTime="1780636764" publishDebug="true"/>
+          <PublishItem publishSize="49988" publishTime="1780636741"/>
+          <PublishItem publishSize="49987" publishTime="1780636710" publishDebug="true"/>
+          <PublishItem publishSize="49983" publishTime="1780636610"/>
+          <PublishItem publishSize="49984" publishTime="1780636582" publishDebug="true"/>
+          <PublishItem publishSize="49984" publishTime="1780636572" publishDebug="true"/>
+          <PublishItem publishSize="50121" publishTime="1780636303"/>
+          <PublishItem publishSize="50122" publishTime="1780636210" publishDebug="true"/>
+          <PublishItem publishSize="50121" publishTime="1780636060" publishDebug="true"/>
+          <PublishItem publishSize="50121" publishTime="1780635989"/>
+          <PublishItem publishSize="50120" publishTime="1780635817" publishDebug="true"/>
+          <PublishItem publishSize="50047" publishTime="1780635302" publishDebug="true"/>
+          <PublishItem publishSize="50089" publishTime="1780635291"/>
+          <PublishItem publishSize="50088" publishTime="1780635259" publishDebug="true"/>
+          <PublishItem publishSize="50047" publishTime="1780635174" publishDebug="true"/>
+          <PublishItem publishSize="50048" publishTime="1780635164" publishDebug="true"/>
+          <PublishItem publishSize="50047" publishTime="1780635146" publishDebug="true"/>
+          <PublishItem publishSize="41512" publishTime="1780630388" publishDebug="true"/>
      </publishHistory>
 </DOMDocument>
