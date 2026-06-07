@@ -1,27 +1,27 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="720" height="1280" frameRate="30" currentTimeline="3" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 20.0 build 17400" majorVersion="20" buildNumber="17400" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="5" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="4E9C317403EF2243926E1E7F910E2316">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="720" height="1280" frameRate="30" currentTimeline="2" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 20.0 build 17400" majorVersion="20" buildNumber="17400" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="5" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="4E9C317403EF2243926E1E7F910E2316">
      <fonts>
-          <DOMFontItem name="Font 1" itemID="6a216424-000000d0" font="TwCenMT-CondensedExtraBold" size="0" id="1" sourceLastImported="1780573220" embedRanges="3"/>
+          <DOMFontItem name="Font 1" itemID="6a216424-000000d0" font="TwCenMT-CondensedExtraBold" size="0" id="1" sourceLastImported="1780573220" embedRanges="9999|1|3|4"/>
      </fonts>
      <media>
-          <DOMBitmapItem name="Bitmap 1" itemID="6a202496-00000039" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 1.png" sourceLastImported="1780560196" externalFileSize="3434" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 1.png" bitmapDataHRef="M 1 1780488758.dat" frameRight="8240" frameBottom="5480"/>
+          <DOMBitmapItem name="Bitmap 1" itemID="6a202496-00000039" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 1.png" sourceLastImported="1780768841" externalFileSize="3434" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 1.png" bitmapDataHRef="M 1 1780488758.dat" frameRight="8240" frameBottom="5480"/>
           <DOMBitmapItem name="Bitmap 10" itemID="6a20224c-00000029" sourceExternalFilepath="../../../../../../../../Users/Felix/AppData/Local/Temp/flash0.png" sourceLastImported="1780490828" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 10.png" bitmapDataHRef="M 10 1780490828.dat" frameRight="6800" frameBottom="2000" maxScaleUsed="0.88"/>
-          <DOMBitmapItem name="Bitmap 11" itemID="6a202496-0000003a" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 11.png" sourceLastImported="1780560196" externalFileSize="9016" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 11.png" bitmapDataHRef="M 11 1780491000.dat" frameRight="15320" frameBottom="7180"/>
+          <DOMBitmapItem name="Bitmap 11" itemID="6a202496-0000003a" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 11.png" sourceLastImported="1780768841" externalFileSize="9016" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 11.png" bitmapDataHRef="M 11 1780491000.dat" frameRight="15320" frameBottom="7180"/>
           <DOMBitmapItem name="Bitmap 11 copy" itemID="6a21384f-00000067" sourceExternalFilepath="../../../../../../../../Users/Felix/AppData/Local/Temp/flash0.png" sourceLastImported="1780561598" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 11 copy.png" bitmapDataHRef="M 11 1780561599.dat" frameRight="7440" frameBottom="4600" maxScaleUsed="0.74"/>
-          <DOMBitmapItem name="Bitmap 12" itemID="6a202496-0000003b" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 12.png" sourceLastImported="1780627334" externalFileSize="6859" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 12.png" bitmapDataHRef="M 12 1780491228.dat" frameRight="8840" frameBottom="3160" maxScaleUsed="0.65"/>
+          <DOMBitmapItem name="Bitmap 12" itemID="6a202496-0000003b" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 12.png" sourceLastImported="1780768841" externalFileSize="6859" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 12.png" bitmapDataHRef="M 12 1780491228.dat" frameRight="8840" frameBottom="3160" maxScaleUsed="0.65"/>
           <DOMBitmapItem name="Bitmap 13" itemID="6a213702-0000004e" sourceExternalFilepath="../../../../../../../../Users/Felix/AppData/Local/Temp/flash0.png" sourceLastImported="1780561666" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 13.png" bitmapDataHRef="M 13 1780561666.dat" frameRight="4000" frameBottom="2540"/>
-          <DOMBitmapItem name="Bitmap 14" itemID="6a215ece-000000c3" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 14.png" sourceLastImported="1780561831" externalFileSize="6859" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 14.png" bitmapDataHRef="M 14 1780561831.dat" frameRight="8840" frameBottom="3160"/>
+          <DOMBitmapItem name="Bitmap 14" itemID="6a215ece-000000c3" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 14.png" sourceLastImported="1780768841" externalFileSize="6859" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 14.png" bitmapDataHRef="M 14 1780561831.dat" frameRight="8840" frameBottom="3160"/>
           <DOMBitmapItem name="Bitmap 15" itemID="6a214811-00000093" sourceExternalFilepath="../../../../../../../../Users/Felix/AppData/Local/Temp/flash0.png" sourceLastImported="1780566033" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 15.png" bitmapDataHRef="M 15 1780566033.dat" frameRight="1400" frameBottom="1400"/>
-          <DOMBitmapItem name="Bitmap 17" itemID="6a215ece-000000c4" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 17.png" sourceLastImported="1780570157" externalFileSize="9205" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 17.png" bitmapDataHRef="M 17 1780570157.dat" frameRight="13420" frameBottom="9560"/>
-          <DOMBitmapItem name="Bitmap 18" itemID="6a215ece-000000c5" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 18.png" sourceLastImported="1780570181" externalFileSize="3750" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 18.png" bitmapDataHRef="M 18 1780570181.dat" frameRight="2780" frameBottom="1980" maxScaleUsed="2.0"/>
-          <DOMBitmapItem name="Bitmap 19" itemID="6a215ece-000000c6" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 19.png" sourceLastImported="1780570216" externalFileSize="8903" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 19.png" bitmapDataHRef="M 19 1780570216.dat" frameRight="9000" frameBottom="3160" maxScaleUsed="0.76"/>
+          <DOMBitmapItem name="Bitmap 17" itemID="6a215ece-000000c4" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 17.png" sourceLastImported="1780768841" externalFileSize="9205" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 17.png" bitmapDataHRef="M 17 1780570157.dat" frameRight="13420" frameBottom="9560"/>
+          <DOMBitmapItem name="Bitmap 18" itemID="6a215ece-000000c5" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 18.png" sourceLastImported="1780768841" externalFileSize="3750" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 18.png" bitmapDataHRef="M 18 1780570181.dat" frameRight="2780" frameBottom="1980" maxScaleUsed="2.0"/>
+          <DOMBitmapItem name="Bitmap 19" itemID="6a215ece-000000c6" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 19.png" sourceLastImported="1780768841" externalFileSize="8903" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 19.png" bitmapDataHRef="M 19 1780570216.dat" frameRight="9000" frameBottom="3160" maxScaleUsed="0.76"/>
           <DOMBitmapItem name="Bitmap 19 copy" itemID="6a21c923-0000004f" sourceExternalFilepath="../../../../../../../../Users/Felix/AppData/Local/Temp/flash0.png" sourceLastImported="1780598757" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 19 copy.png" bitmapDataHRef="M 19 1780598758.dat" frameRight="15320" frameBottom="7180" maxScaleUsed="0.81"/>
-          <DOMBitmapItem name="Bitmap 20" itemID="6a215ece-000000c7" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 20.png" sourceLastImported="1780570224" externalFileSize="6982" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 20.png" bitmapDataHRef="M 20 1780570224.dat" frameRight="8840" frameBottom="3160" maxScaleUsed="0.76"/>
+          <DOMBitmapItem name="Bitmap 20" itemID="6a215ece-000000c7" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 20.png" sourceLastImported="1780768841" externalFileSize="6982" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 20.png" bitmapDataHRef="M 20 1780570224.dat" frameRight="8840" frameBottom="3160" maxScaleUsed="0.76"/>
           <DOMBitmapItem name="Bitmap 3" itemID="6a201c1f-0000000c" sourceExternalFilepath="../../../../../../../../Users/Felix/AppData/Local/Temp/flash0.png" sourceLastImported="1780489247" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 3.png" bitmapDataHRef="M 3 1780489247.dat" frameRight="16480" frameBottom="3560" maxScaleUsed="0.87"/>
           <DOMBitmapItem name="Bitmap 4" itemID="6a201c95-0000000f" sourceExternalFilepath="../../../../../../../../Users/Felix/AppData/Local/Temp/flash0.png" sourceLastImported="1780489365" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 4.png" bitmapDataHRef="M 4 1780489365.dat" frameRight="2040" frameBottom="1480"/>
-          <DOMBitmapItem name="Bitmap 6" itemID="6a202496-0000003c" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 6.png" sourceLastImported="1780560196" externalFileSize="5659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 6.png" bitmapDataHRef="M 6 1780489552.dat" frameRight="16480" frameBottom="5480"/>
-          <DOMBitmapItem name="Bitmap 7" itemID="6a202496-0000003d" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 7.png" sourceLastImported="1780560196" externalFileSize="5659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 7.png" bitmapDataHRef="M 7 1780489617.dat" frameRight="16480" frameBottom="5480" maxScaleUsed="1.1"/>
-          <DOMBitmapItem name="Bitmap 8" itemID="6a202496-0000003e" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 8.png" sourceLastImported="1780560196" externalFileSize="7263" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 8.png" bitmapDataHRef="M 8 1780490137.dat" frameRight="15520" frameBottom="7440" maxScaleUsed="0.88"/>
-          <DOMBitmapItem name="Bitmap 9" itemID="6a202496-0000003f" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 9.png" sourceLastImported="1780627334" externalFileSize="3327" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 9.png" bitmapDataHRef="M 9 1780490803.dat" frameRight="6800" frameBottom="2000" maxScaleUsed="0.88"/>
+          <DOMBitmapItem name="Bitmap 6" itemID="6a202496-0000003c" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 6.png" sourceLastImported="1780768841" externalFileSize="5659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 6.png" bitmapDataHRef="M 6 1780489552.dat" frameRight="16480" frameBottom="5480"/>
+          <DOMBitmapItem name="Bitmap 7" itemID="6a202496-0000003d" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 7.png" sourceLastImported="1780768841" externalFileSize="5659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 7.png" bitmapDataHRef="M 7 1780489617.dat" frameRight="16480" frameBottom="5480" maxScaleUsed="1.1"/>
+          <DOMBitmapItem name="Bitmap 8" itemID="6a202496-0000003e" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 8.png" sourceLastImported="1780768841" externalFileSize="7263" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 8.png" bitmapDataHRef="M 8 1780490137.dat" frameRight="15520" frameBottom="7440" maxScaleUsed="0.88"/>
+          <DOMBitmapItem name="Bitmap 9" itemID="6a202496-0000003f" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 9.png" sourceLastImported="1780768841" externalFileSize="3327" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 9.png" bitmapDataHRef="M 9 1780490803.dat" frameRight="6800" frameBottom="2000" maxScaleUsed="0.88"/>
      </media>
      <symbols>
           <Include href="Symbol 1.xml" loadImmediate="false" itemID="6a2145a1-00000069" lastModified="1780565410"/>
@@ -33,15 +33,15 @@
           <Include href="Symbol 7.xml" loadImmediate="false" itemID="6a214608-00000088" lastModified="1780565512"/>
           <Include href="Symbol 8.xml" loadImmediate="false" itemID="6a21460f-0000008d" lastModified="1780565519"/>
           <Include href="Symbol 9.xml" itemIcon="0" loadImmediate="false" itemID="6a215523-000000a5" lastModified="1780569379"/>
-          <Include href="Symbol 10.xml" loadImmediate="false" itemID="6a21c84e-00000031" lastModified="1780630220"/>
-          <Include href="Symbol 11.xml" loadImmediate="false" itemID="6a21c856-00000037" lastModified="1780630226"/>
-          <Include href="Symbol 12.xml" loadImmediate="false" itemID="6a21c861-0000003c" lastModified="1780630232"/>
-          <Include href="Symbol 13.xml" loadImmediate="false" itemID="6a21c869-00000041" lastModified="1780630240"/>
+          <Include href="Symbol 10.xml" loadImmediate="false" itemID="6a21c84e-00000031" lastModified="1780768986"/>
+          <Include href="Symbol 11.xml" loadImmediate="false" itemID="6a21c856-00000037" lastModified="1780768981"/>
+          <Include href="Symbol 12.xml" loadImmediate="false" itemID="6a21c861-0000003c" lastModified="1780768992"/>
+          <Include href="Symbol 13.xml" loadImmediate="false" itemID="6a21c869-00000041" lastModified="1780769002"/>
           <Include href="Symbol 14.xml" loadImmediate="false" itemID="6a21c882-00000046" lastModified="1780598914"/>
           <Include href="Symbol 15.xml" loadImmediate="false" itemID="6a21c8a5-0000004b" lastModified="1780598949"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="CTD" layerDepthEnabled="true">
+          <DOMTimeline name="CTD" currentFrame="4" layerDepthEnabled="true">
                <layers>
                     <DOMLayer name="Script" color="#9933CC" current="true" isSelected="true" autoNamed="false" highlighted="true">
                          <frames>
@@ -52,19 +52,31 @@
 import flash.events.MouseEvent;
 import flash.display.Shape;
 import flash.display.MovieClip;
+import flash.utils.Timer;
+import flash.events.TimerEvent;
+
+// --- SETUP VARIABEL GLOBAL SKOR & WAKTU ---
+if (MovieClip(root).skorTotalGame == undefined) {
+    MovieClip(root).skorTotalGame = 0;
+}
+if (MovieClip(root).waktuTotalGame == undefined) {
+    MovieClip(root).waktuTotalGame = 0;
+}
 
 txt_timer.background = false; txt_timer.border = false;
 txt_poinangka.background = false; txt_poinangka.border = false;
 txt_pointext.background = false; txt_pointext.border = false;
 
-// Variabel Global
-var skorTotalGame:int = 0;
+var levelCTD:int = 1;
 var gameSelesai:Boolean = false;
 var startX:Number;
 var startY:Number;
 var activeBlock:MovieClip;
 var activeIndex:int;
-var levelCTD:int = 1;
+
+// --- VARIABEL TIMER STOPWATCH ---
+var timerGame:Timer = new Timer(1000);
+var isTimerBerjalan:Boolean = false;
 
 // 1. Membuat Wadah Garis
 var lines:Array = [];
@@ -77,64 +89,79 @@ for (indexGaris = 1; indexGaris <= 4; indexGaris++) {
 }
 
 // 2. KAMUS JAWABAN UNTUK 5 LEVEL
-// Index 0 dikosongkan agar Index 1 = Frame 1, Index 2 = Frame 2, dst.
 var semuaKunci:Array = [
     null,
-    
-    // LEVEL 1 (Frame 1): Tipe Data
-    // int(Kanan 4), bool(Kanan 3), string(Kanan 1), double(Kanan 2)
     { "btnkiri1":"btnkanan4", "btnkiri2":"btnkanan3", "btnkiri3":"btnkanan1", "btnkiri4":"btnkanan2" },
-    
-    // LEVEL 2 (Frame 2): Sintaks Dasar C++
-    // ;(Kanan 4), { }(Kanan 1), Case-sensitive(Kanan 3), cout(Kanan 2)
     { "btnkiri1":"btnkanan4", "btnkiri2":"btnkanan1", "btnkiri3":"btnkanan3", "btnkiri4":"btnkanan2" },
-    
-    // LEVEL 3 (Frame 3): Statement Seleksi
-    // if(Kanan 1), if...else(Kanan 2), switch(Kanan 3), break(Kanan 4)
     { "btnkiri1":"btnkanan1", "btnkiri2":"btnkanan2", "btnkiri3":"btnkanan3", "btnkiri4":"btnkanan4" },
-    
-    // LEVEL 4 (Frame 4): Statement Perulangan
-    // for loop(Kanan 4), while(Kanan 3), do...while(Kanan 2), off-by-one(Kanan 1)
     { "btnkiri1":"btnkanan4", "btnkiri2":"btnkanan3", "btnkiri3":"btnkanan2", "btnkiri4":"btnkanan1" },
-    
-    // LEVEL 5 (Frame 5): Error & Konsep Tambahan
-    // Sintaksis(Kanan 2), Logika(Kanan 4), 0(Kanan 1), return 0;(Kanan 3)
     { "btnkiri1":"btnkanan2", "btnkiri2":"btnkanan4", "btnkiri3":"btnkanan1", "btnkiri4":"btnkanan3" }
 ];
-	
-// 3. FUNGSI SETUP LEVEL (Dijalankan setiap pindah frame)
+
+// --- FUNGSI TIMER MAJU ---
+function jalankanTimer():void {
+    if (!isTimerBerjalan) {
+        timerGame.addEventListener(TimerEvent.TIMER, hitungMaju);
+        timerGame.start();
+        isTimerBerjalan = true;
+    }
+    updateTeksTimer();
+}
+
+function hitungMaju(e:TimerEvent):void {
+    MovieClip(root).waktuTotalGame++;
+    updateTeksTimer();
+}
+
+function updateTeksTimer():void {
+    var menit:int = Math.floor(MovieClip(root).waktuTotalGame / 60);
+    var detik:int = MovieClip(root).waktuTotalGame % 60;
+    var teksMenit:String = (menit < 10) ? "0" + menit : String(menit);
+    var teksDetik:String = (detik < 10) ? "0" + detik : String(detik);
+    var teksWaktu:String = teksMenit + "." + teksDetik;
+    
+    if (MovieClip(root)["txt_timer"] != null) {
+        MovieClip(root)["txt_timer"].text = teksWaktu;
+        stage.invalidate(); // PERUBAHAN: Memaksa render agar tidak lag
+    }
+}
+
+// 3. FUNGSI SETUP LEVEL
 function setupLevel():void {
     gameSelesai = false;
     
-    // Tembakkan skor tersimpan ke instance text UI
-    txt_poinangka.text = String(skorTotalGame); 
-    
+    if (MovieClip(root)["txt_poinangka"] != null) {
+        MovieClip(root)["txt_poinangka"].text = String(MovieClip(root).skorTotalGame);
+    }
+
     for (var j:int = 1; j <= 4; j++) {
-        lines[j].graphics.clear(); 
-        
+        lines[j].graphics.clear();
+
         var btn:MovieClip = this["btnkiri" + j] as MovieClip;
         if (btn != null) {
             btn.buttonMode = true;
             btn.index = j;
-            btn.connectedTo = null; 
-            
+            btn.connectedTo = null;
+
             btn.removeEventListener(MouseEvent.MOUSE_DOWN, onDragStart);
             btn.addEventListener(MouseEvent.MOUSE_DOWN, onDragStart);
         }
     }
-    
+
     btn_lanjutctd.removeEventListener(MouseEvent.CLICK, onLanjutClick);
     btn_lanjutctd.addEventListener(MouseEvent.CLICK, onLanjutClick);
+
+    jalankanTimer();
 }
 
 // 4. LOGIKA DRAG & DROP
 function onDragStart(e:MouseEvent):void {
-    if (gameSelesai) return; 
+    if (gameSelesai) return;
     activeBlock = e.currentTarget as MovieClip;
     activeIndex = activeBlock.index;
     startX = activeBlock.x + activeBlock.width;
     startY = activeBlock.y + (activeBlock.height / 2);
-    
+
     stage.addEventListener(MouseEvent.MOUSE_MOVE, onDragging);
     stage.addEventListener(MouseEvent.MOUSE_UP, onDragDrop);
 }
@@ -142,7 +169,7 @@ function onDragStart(e:MouseEvent):void {
 function onDragging(e:MouseEvent):void {
     var currentLine:Shape = lines[activeIndex];
     currentLine.graphics.clear();
-    currentLine.graphics.lineStyle(5, 0x3399FF); // Garis ditarik (Biru Muda)
+    currentLine.graphics.lineStyle(5, 0x3399FF);
     currentLine.graphics.moveTo(startX, startY);
     currentLine.graphics.lineTo(mouseX, mouseY);
 }
@@ -150,24 +177,24 @@ function onDragging(e:MouseEvent):void {
 function onDragDrop(e:MouseEvent):void {
     stage.removeEventListener(MouseEvent.MOUSE_MOVE, onDragging);
     stage.removeEventListener(MouseEvent.MOUSE_UP, onDragDrop);
-    
+
     var currentLine:Shape = lines[activeIndex];
     var isConnected:Boolean = false;
-    
+
     for (var k:int = 1; k <= 4; k++) {
         var targetBtn:MovieClip = this["btnkanan" + k] as MovieClip;
         if (targetBtn.hitTestPoint(mouseX, mouseY, true)) {
-            var targetX:Number = targetBtn.x; 
+            var targetX:Number = targetBtn.x;
             var targetY:Number = targetBtn.y + (targetBtn.height / 2);
-            
+
             currentLine.graphics.clear();
-            currentLine.graphics.lineStyle(5, 0x297ACC); // Garis nempel (Biru Tua)
+            currentLine.graphics.lineStyle(5, 0x297ACC);
             currentLine.graphics.moveTo(startX, startY);
             currentLine.graphics.lineTo(targetX, targetY);
-            
+
             activeBlock.connectedTo = targetBtn.name;
             isConnected = true;
-            break; 
+            break;
         }
     }
     if (!isConnected) {
@@ -176,75 +203,98 @@ function onDragDrop(e:MouseEvent):void {
     }
 }
 
+// 5. PENILAIAN & PINDAH SCENE
 function onLanjutClick(e:MouseEvent):void {
     if (gameSelesai) return;
-    
+
     var skorLevelIni:int = 0;
-    var kunciSekarang:Object = semuaKunci[levelCTD]; // Gunakan levelCTD
-    
+    var kunciSekarang:Object = semuaKunci[levelCTD];
+
     for (var m:int = 1; m <= 4; m++) {
         var kiri:MovieClip = this["btnkiri" + m] as MovieClip;
         if (kiri.connectedTo != null) {
             if (kiri.connectedTo == kunciSekarang[kiri.name]) {
-                skorLevelIni += 25; 
+                skorLevelIni += 25;
             }
         }
     }
-    
-    skorTotalGame += skorLevelIni; 
-    txt_poinangka.text = String(skorTotalGame);
-    
-    // Logika Perpindahan yang Stabil
+
+    MovieClip(root).skorTotalGame += skorLevelIni;
+    if (MovieClip(root)["txt_poinangka"] != null) {
+        MovieClip(root)["txt_poinangka"].text = String(MovieClip(root).skorTotalGame);
+    }
+
+    // PERUBAHAN: Pause timer sebelum pindah frame
     if (levelCTD < 5) {
-        levelCTD++; // Tambah angka level
-        nextFrame(); // Pindah ke frame berikutnya dengan aman
+        levelCTD++;
+        timerGame.stop(); 
+        nextFrame();
+        isTimerBerjalan = false; 
     } else {
-        gotoAndStop(1, "DTB"); 
+        timerGame.stop();
+        timerGame.removeEventListener(TimerEvent.TIMER, hitungMaju);
+        isTimerBerjalan = false;
+        gotoAndStop(1, "DTB");
     }
 }
 
-// Panggil fungsi pertama kali
 setupLevel();]]></script>
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
                                    <Actionscript>
-                                        <script><![CDATA[setupLevel();
-
+                                        <script><![CDATA[stop();
 txt_timer.background = false; txt_timer.border = false;
 txt_poinangka.background = false; txt_poinangka.border = false;
-txt_pointext.background = false; txt_pointext.border = false;]]></script>
+txt_pointext.background = false; txt_pointext.border = false;
+
+isTimerBerjalan = false;
+timerGame.stop();
+timerGame.removeEventListener(TimerEvent.TIMER, hitungMaju);
+setupLevel(); // Timer di-restart bersih]]></script>
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
                                    <Actionscript>
-                                        <script><![CDATA[setupLevel();
-
+                                        <script><![CDATA[stop();
 txt_timer.background = false; txt_timer.border = false;
 txt_poinangka.background = false; txt_poinangka.border = false;
-txt_pointext.background = false; txt_pointext.border = false;]]></script>
+txt_pointext.background = false; txt_pointext.border = false;
+
+isTimerBerjalan = false;
+timerGame.stop();
+timerGame.removeEventListener(TimerEvent.TIMER, hitungMaju);
+setupLevel(); // Timer di-restart bersih]]></script>
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="3" keyMode="9728">
                                    <Actionscript>
-                                        <script><![CDATA[setupLevel();
-
+                                        <script><![CDATA[stop();
 txt_timer.background = false; txt_timer.border = false;
 txt_poinangka.background = false; txt_poinangka.border = false;
-txt_pointext.background = false; txt_pointext.border = false;]]></script>
+txt_pointext.background = false; txt_pointext.border = false;
+
+isTimerBerjalan = false;
+timerGame.stop();
+timerGame.removeEventListener(TimerEvent.TIMER, hitungMaju);
+setupLevel(); // Timer di-restart bersih]]></script>
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="4" keyMode="9728">
                                    <Actionscript>
-                                        <script><![CDATA[setupLevel();
-
+                                        <script><![CDATA[stop();
 txt_timer.background = false; txt_timer.border = false;
 txt_poinangka.background = false; txt_poinangka.border = false;
-txt_pointext.background = false; txt_pointext.border = false;]]></script>
+txt_pointext.background = false; txt_pointext.border = false;
+
+isTimerBerjalan = false;
+timerGame.stop();
+timerGame.removeEventListener(TimerEvent.TIMER, hitungMaju);
+setupLevel(); // Timer di-restart bersih]]></script>
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
@@ -272,22 +322,22 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   <Matrix tx="49" ty="185"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMDynamicText name="txt_timer" width="168.9" height="72.55" isSelectable="false" border="true">
+                                        <DOMDynamicText name="txt_timer" fontRenderingMode="device" width="168.9" height="72.55" isSelectable="false" border="true">
                                              <matrix>
                                                   <Matrix tx="137.25" ty="186.75"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
-                                                       <characters>00.45</characters>
+                                                       <characters>0.0</characters>
                                                        <textAttrs>
                                                             <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineSpacing="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMDynamicText>
-                                        <DOMDynamicText name="txt_pointext" width="168.9" height="72.55" isSelectable="false" border="true">
+                                        <DOMDynamicText name="txt_pointext" fontRenderingMode="device" width="168.9" height="72.55" isSelectable="false" border="true">
                                              <matrix>
-                                                  <Matrix tx="404" ty="186.75"/>
+                                                  <Matrix tx="402" ty="186.75"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
@@ -538,8 +588,7 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   </FillStyle>
                                              </fills>
                                              <edges>
-                                                  <Edge fillStyle0="1" edges="
-!14398 159[14390 356 14330 527!14330 527[14278 678 14185 811!14185 811[14149 862 14107 909!14107 909[13815 1243 13403 1243!13403 1243|974 1243!974 1243[563 1243 271 909!271 909[206 835 156 756!156 756[5 514 -17 212!-17 212[-18 206 -18
+                                                  <Edge fillStyle0="1" edges="!14398 159[14390 356 14330 527!14330 527[14278 678 14185 811!14185 811[14149 862 14107 909!14107 909[13815 1243 13403 1243!13403 1243|974 1243!974 1243[563 1243 271 909!271 909[206 835 156 756!156 756[5 514 -17 212!-17 212[-18 206 -18
  203!-18 203[-20 167 -21 133!-21 133|-21 25600!-21 25600|14398 25600!14398 25600|14398 159"/>
                                              </edges>
                                         </DOMShape>
@@ -646,33 +695,7 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   <Matrix tx="49" ty="185"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMDynamicText name="txt_timer" width="168.9" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="137.25" ty="186.75"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>00.45</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineSpacing="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMDynamicText name="txt_pointext" width="168.9" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="404" ty="186.75"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>POIN:</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd" selected="true">
+                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd">
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
                                              </matrix>
@@ -903,33 +926,7 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   <Matrix tx="49" ty="185"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMDynamicText name="txt_timer" width="168.9" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="137.25" ty="186.75"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>00.45</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineSpacing="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMDynamicText name="txt_pointext" width="168.9" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="404" ty="186.75"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>POIN:</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd" selected="true">
+                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd">
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
                                              </matrix>
@@ -1160,33 +1157,7 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   <Matrix tx="49" ty="185"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMDynamicText name="txt_timer" width="168.9" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="137.25" ty="186.75"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>00.45</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineSpacing="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMDynamicText name="txt_pointext" width="168.9" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="404" ty="186.75"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>POIN:</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd" selected="true">
+                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd">
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
                                              </matrix>
@@ -1417,32 +1388,6 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                                                   <Matrix tx="49" ty="185"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMDynamicText name="txt_timer" width="168.9" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="137.25" ty="186.75"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>00.45</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineSpacing="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMDynamicText name="txt_pointext" width="168.9" height="72.55" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="404" ty="186.75"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>POIN:</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
                                         <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd">
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
@@ -1561,7 +1506,7 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
                     </DOMLayer>
                </layers>
           </DOMTimeline>
-          <DOMTimeline name="DTB" layerDepthEnabled="true">
+          <DOMTimeline name="DTB" currentFrame="4" layerDepthEnabled="true">
                <layers>
                     <DOMLayer name="script" color="#9933CC" current="true" isSelected="true" autoNamed="false">
                          <frames>
@@ -1571,146 +1516,133 @@ txt_pointext.background = false; txt_pointext.border = false;]]></script>
 
 import flash.events.MouseEvent;
 import flash.display.MovieClip;
+import flash.utils.Timer;
+import flash.events.TimerEvent;
 
-if (Object(this).skorTotalGame == undefined) {
-    Object(this).skorTotalGame = 0; 
+if (MovieClip(root).skorTotalGame == undefined) {
+    MovieClip(root).skorTotalGame = 0;
 }
 
 txt_timer.background = false; txt_timer.border = false;
 txt_poinangka.background = false; txt_poinangka.border = false;
 txt_pointext.background = false; txt_pointext.border = false;
 
+// --- TIMER DISPLAY DTB ---
+var timerDisplayDTB:Timer = new Timer(1000);
+var isDisplayTimerJalan:Boolean = false;
 
+function updateTimerDTB():void {
+    var menit:int = Math.floor(MovieClip(root).waktuTotalGame / 60);
+    var detik:int = MovieClip(root).waktuTotalGame % 60;
+    var teksMenit:String = (menit < 10) ? "0" + menit : String(menit);
+    var teksDetik:String = (detik < 10) ? "0" + detik : String(detik);
+    txt_timer.text = teksMenit + "." + teksDetik;
+    stage.invalidate(); // PERUBAHAN: Memaksa render agar tidak ketahan
+}
+
+function onTickDisplayDTB(e:TimerEvent):void {
+    MovieClip(root).waktuTotalGame++; // Memastikan detik selalu maju
+    updateTimerDTB();
+}
+
+function mulaiDisplayTimerDTB():void {
+    if (!isDisplayTimerJalan) {
+        timerDisplayDTB.addEventListener(TimerEvent.TIMER, onTickDisplayDTB);
+        timerDisplayDTB.start();
+        isDisplayTimerJalan = true;
+    }
+    updateTimerDTB();
+}
 
 // 1. DATABASE 5 LEVEL DTB
 var dataLevelDTB:Array = [
     null,
-    
-    // LEVEL 1: Output Dasar 
-    {
-        soal: "#include &lt;iostream&gt;\nusing namespace std;\n\nint main() {\n  // Tampilkan teks ke layar\n  [ Zona 1 ] &lt;&lt; \"Halo, C++!\";\n  return 0;\n}",
-        kunci: "btn_jawaban2", // Posisi 'cout' ada di tombol 2
-        nilaiBlok: ["cin", "cout", "get", "print"] 
-    },
-    
-    // LEVEL 2: Seleksi Tunggal (if)
-    {
-        soal: "int umur = 20;\n\n// Cek syarat minimal umur\n[ Zona 1 ] (umur >= 18) {\n  cout &lt;&lt; \"Boleh masuk\";\n}",
-        kunci: "btn_jawaban1", // Posisi 'if' ada di tombol 1
-        nilaiBlok: ["if", "else", "for", "switch"]
-    },
-    
-    // LEVEL 3: Mencegah Fall-through pada Switch
-    {
-        soal: "char grade = 'A';\nswitch (grade) {\n  case 'A': \n    cout &lt;&lt; \"Sangat baik\"; \n    [ Zona 1 ]\n  case 'B': \n    cout &lt;&lt; \"Baik\";\n}",
-        kunci: "btn_jawaban4", // Posisi 'break;' ada di tombol 4
-        nilaiBlok: ["stop;", "exit;", "return;", "break;"]
-    },
-    
-    // LEVEL 4: Perulangan Deterministik (for loop)
-    {
-        soal: "// Menampilkan angka 0 sampai 4\n[ Zona 1 ] (int i = 0; i &lt; 5; i++) {\n  cout &lt;&lt; i &lt;&lt; \" \";\n}",
-        kunci: "btn_jawaban3", // Posisi 'for' ada di tombol 3
-        nilaiBlok: ["while", "do", "for", "loop"]
-    },
-    
-    // LEVEL 5: Post-test Loop (Minimal jalan 1 kali)
-    {
-        soal: "int x = 10;\ndo {\n  cout &lt;&lt; \"Nilai x: \" &lt;&lt; x;\n  x++;\n} [ Zona 1 ] (x &lt; 5);",
-        kunci: "btn_jawaban2", // Posisi 'while' ada di tombol 2
-        nilaiBlok: ["if", "while", "until", "for"]
-    }
+    { soal: "#include &lt;iostream&gt;\nusing namespace std;\n\nint main() {\n  // Tampilkan teks ke layar\n  [ Zona 1 ] &lt;&lt; \"Halo, C++!\";\n  return 0;\n}", kunci: "btn_jawaban2", nilaiBlok: ["cin", "cout", "get", "print"] },
+    { soal: "int umur = 20;\n\n// Cek syarat minimal umur\n[ Zona 1 ] (umur >= 18) {\n  cout &lt;&lt; \"Boleh masuk\";\n}", kunci: "btn_jawaban1", nilaiBlok: ["if", "else", "for", "switch"] },
+    { soal: "char grade = 'A';\nswitch (grade) {\n  case 'A': \n    cout &lt;&lt; \"Sangat baik\"; \n    [ Zona 1 ]\n  case 'B': \n    cout &lt;&lt; \"Baik\";\n}", kunci: "btn_jawaban4", nilaiBlok: ["stop;", "exit;", "return;", "break;"] },
+    { soal: "// Menampilkan angka 0 sampai 4\n[ Zona 1 ] (int i = 0; i &lt; 5; i++) {\n  cout &lt;&lt; i &lt;&lt; \" \";\n}", kunci: "btn_jawaban3", nilaiBlok: ["while", "do", "for", "loop"] },
+    { soal: "int x = 10;\ndo {\n  cout &lt;&lt; \"Nilai x: \" &lt;&lt; x;\n  x++;\n} [ Zona 1 ] (x &lt; 5);", kunci: "btn_jawaban2", nilaiBlok: ["if", "while", "until", "for"] }
 ];
 
-// Variabel Global untuk Interaksi
 var soalAsli:String;
 var jawabanBenarDTB:String;
 var jawabanPemain:MovieClip;
 var levelDTB:int = 1;
 
-// --- TAMBAHAN VARIABEL GLOBAL UNTUK MENGUNCI KOORDINAT ---
 var posisiAwalX:Array = [];
 var posisiAwalY:Array = [];
 var posisiTersimpan:Boolean = false;
 
 // 2. FUNGSI SETUP LEVEL
 function setupLevelDTB():void {
-    jawabanPemain = null; 
-    
-    txt_poinangka.background = false; 
+    jawabanPemain = null;
+
+    txt_poinangka.background = false;
     txt_poinangka.border = false;
-    // Ambil skor dari CTD dengan aman
-    txt_poinangka.text = String(Object(this).skorTotalGame);
-    
-    // Gunakan levelDTB untuk menarik data
-    var dataSekarang:Object = dataLevelDTB[levelDTB]; 
+    txt_poinangka.text = String(MovieClip(root).skorTotalGame);
+
+    var dataSekarang:Object = dataLevelDTB[levelDTB];
     soalAsli = dataSekarang.soal;
     jawabanBenarDTB = dataSekarang.kunci;
     txt_soal.htmlText = soalAsli;
-    
-    // Atur ulang balok-balok jawaban
+
     for (var j:int = 1; j <= 4; j++) {
         var btn:MovieClip = this["btn_jawaban" + j] as MovieClip;
         if (btn != null) {
             btn.buttonMode = true;
-            
-            // --- TANGAN BESI: KUNCI POSISI ---
-            // Rekam posisi HANYA SATU KALI saat game pertama kali dimulai
+
             if (!posisiTersimpan) {
                 posisiAwalX[j] = btn.x;
                 posisiAwalY[j] = btn.y;
             }
-            
-            // Paksa balok pulang ke koordinat global yang sudah dikunci
+
             btn.x = posisiAwalX[j];
             btn.y = posisiAwalY[j];
-            
-            // Beri tahu mekanik drag & drop letak rumahnya yang mutlak
             btn.startX = posisiAwalX[j];
             btn.startY = posisiAwalY[j];
-            // ---------------------------------
-            
-            // Beri nilai teks sesuai array di database
-            btn.nilaiTeks = dataSekarang.nilaiBlok[j - 1]; 
-            
-            // Cegah event listener menumpuk
+
+            btn.nilaiTeks = dataSekarang.nilaiBlok[j - 1];
+
+            if (btn["txt_label"] != undefined) {
+                btn["txt_label"].text = dataSekarang.nilaiBlok[j - 1];
+            }
+
             btn.removeEventListener(MouseEvent.MOUSE_DOWN, ambilBlok);
             btn.removeEventListener(MouseEvent.MOUSE_UP, lepasBlok);
             btn.addEventListener(MouseEvent.MOUSE_DOWN, ambilBlok);
             btn.addEventListener(MouseEvent.MOUSE_UP, lepasBlok);
         }
     }
-    
-    posisiTersimpan = true; // Kunci agar Frame 2, 3, 4, 5 tidak ikut-ikutan merekam posisi
-    
+
+    posisiTersimpan = true;
+
     btn_lanjutdtb.removeEventListener(MouseEvent.CLICK, cekSkorDTB);
     btn_lanjutdtb.addEventListener(MouseEvent.CLICK, cekSkorDTB);
+
+    mulaiDisplayTimerDTB();
 }
 
 // 3. MEKANIK DRAG
 function ambilBlok(e:MouseEvent):void {
     var blok:MovieClip = e.currentTarget as MovieClip;
-    setChildIndex(blok, numChildren - 1); 
+    setChildIndex(blok, numChildren - 1);
     blok.startDrag();
 }
 
-// 4. MEKANIK DROP & WARNA MERAH
+// 4. MEKANIK DROP
 function lepasBlok(e:MouseEvent):void {
     var blok:MovieClip = e.currentTarget as MovieClip;
     blok.stopDrag();
-    
+
     if (blok.hitTestObject(dropZone)) {
-        // Snap ke tengah dropZone
         blok.x = dropZone.x + (dropZone.width / 2) - (blok.width / 2);
         blok.y = dropZone.y + (dropZone.height / 2) - (blok.height / 2);
-        
-        jawabanPemain = blok; 
-        
-        // Ganti teks dengan string HTML Merah
+
+        jawabanPemain = blok;
+
         var teksMerah:String = "<font color='#FF0000'>" + blok.nilaiTeks + "</font>";
         txt_soal.htmlText = soalAsli.replace("[ Zona 1 ]", teksMerah);
-        
-        // Pulangkan balok lain
+
         for (var k:int = 1; k <= 4; k++) {
             var btnLain:MovieClip = this["btn_jawaban" + k] as MovieClip;
             if (btnLain != blok) {
@@ -1722,57 +1654,98 @@ function lepasBlok(e:MouseEvent):void {
         blok.x = blok.startX;
         blok.y = blok.startY;
         if (jawabanPemain == blok) {
-            jawabanPemain = null; 
-            txt_soal.htmlText = soalAsli; // Kembali polos
+            jawabanPemain = null;
+            txt_soal.htmlText = soalAsli;
         }
     }
 }
 
-// 5. VALIDASI SKOR & LOGIKA PINDAH FRAME
+// 5. VALIDASI SKOR & PINDAH FRAME
 function cekSkorDTB(e:MouseEvent):void {
-    
+
     if (jawabanPemain != null) {
         if (jawabanPemain.name == jawabanBenarDTB) {
-            Object(this).skorTotalGame += 25; 
-            txt_poinangka.text = String(Object(this).skorTotalGame);
+            MovieClip(root).skorTotalGame += 25;
+            txt_poinangka.text = String(MovieClip(root).skorTotalGame);
         }
     }
-    
-    // Logika Perpindahan yang Stabil
+
+    // PERUBAHAN: Pause timer sebelum pindah frame di DTB
     if (levelDTB < 5) {
-        levelDTB++; // Tambah angka level
-        nextFrame(); // Geser ke frame berikutnya
+        levelDTB++;
+        timerDisplayDTB.stop(); 
+        nextFrame();
+        isDisplayTimerJalan = false; 
     } else {
-        gotoAndStop(1, "Skor"); // Tamat
+        MovieClip(this["btn_jawaban1"]).visible = false;
+        MovieClip(this["btn_jawaban2"]).visible = false;
+        MovieClip(this["btn_jawaban3"]).visible = false;
+        MovieClip(this["btn_jawaban4"]).visible = false;
+
+        timerDisplayDTB.stop();
+        timerDisplayDTB.removeEventListener(TimerEvent.TIMER, onTickDisplayDTB);
+        isDisplayTimerJalan = false;
+        gotoAndStop(1, "Skor");
     }
 }
 
-// Panggil setup saat Frame 1 dimulai
 setupLevelDTB();]]></script>
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
                                    <Actionscript>
-                                        <script><![CDATA[setupLevelDTB();]]></script>
+                                        <script><![CDATA[stop();
+txt_timer.background = false; txt_timer.border = false;
+txt_poinangka.background = false; txt_poinangka.border = false;
+txt_pointext.background = false; txt_pointext.border = false;
+
+isDisplayTimerJalan = false;
+timerDisplayDTB.stop();
+timerDisplayDTB.removeEventListener(TimerEvent.TIMER, onTickDisplayDTB);
+setupLevelDTB(); // Timer di-restart bersih]]></script>
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
                                    <Actionscript>
-                                        <script><![CDATA[setupLevelDTB();]]></script>
+                                        <script><![CDATA[stop();
+txt_timer.background = false; txt_timer.border = false;
+txt_poinangka.background = false; txt_poinangka.border = false;
+txt_pointext.background = false; txt_pointext.border = false;
+
+isDisplayTimerJalan = false;
+timerDisplayDTB.stop();
+timerDisplayDTB.removeEventListener(TimerEvent.TIMER, onTickDisplayDTB);
+setupLevelDTB(); // Timer di-restart bersih]]></script>
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="3" keyMode="9728">
                                    <Actionscript>
-                                        <script><![CDATA[setupLevelDTB();]]></script>
+                                        <script><![CDATA[stop();
+txt_timer.background = false; txt_timer.border = false;
+txt_poinangka.background = false; txt_poinangka.border = false;
+txt_pointext.background = false; txt_pointext.border = false;
+
+isDisplayTimerJalan = false;
+timerDisplayDTB.stop();
+timerDisplayDTB.removeEventListener(TimerEvent.TIMER, onTickDisplayDTB);
+setupLevelDTB(); // Timer di-restart bersih]]></script>
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="4" keyMode="9728">
                                    <Actionscript>
-                                        <script><![CDATA[setupLevelDTB();]]></script>
+                                        <script><![CDATA[stop();
+txt_timer.background = false; txt_timer.border = false;
+txt_poinangka.background = false; txt_poinangka.border = false;
+txt_pointext.background = false; txt_pointext.border = false;
+
+isDisplayTimerJalan = false;
+timerDisplayDTB.stop();
+timerDisplayDTB.removeEventListener(TimerEvent.TIMER, onTickDisplayDTB);
+setupLevelDTB(); // Timer di-restart bersih]]></script>
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
@@ -1787,13 +1760,13 @@ setupLevelDTB();]]></script>
                                                   <Matrix tx="49" ty="185"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMDynamicText name="txt_timer" width="168.9" height="72.55" isSelectable="false" border="true">
+                                        <DOMDynamicText name="txt_timer" fontRenderingMode="device" width="168.9" height="72.55" isSelectable="false" border="true">
                                              <matrix>
                                                   <Matrix tx="137.25" ty="186.75"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
-                                                       <characters>00.45</characters>
+                                                       <characters>0.0</characters>
                                                        <textAttrs>
                                                             <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineSpacing="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
                                                        </textAttrs>
@@ -1841,8 +1814,7 @@ setupLevelDTB();]]></script>
                                                   </FillStyle>
                                              </fills>
                                              <edges>
-                                                  <Edge fillStyle0="1" edges="
-!14407 159[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9 203
+                                                  <Edge fillStyle0="1" edges="!14407 159[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9 203
 !-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
                                              </edges>
                                         </DOMShape>
@@ -2554,7 +2526,7 @@ setupLevelDTB();]]></script>
                                                   <Point x="143.5" y="51.3"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMDynamicText name="txt_soal" selected="true" fontRenderingMode="standard" width="433.85" height="144" isSelectable="false" border="true" lineType="multiline">
+                                        <DOMDynamicText name="txt_soal" fontRenderingMode="standard" width="433.85" height="144" isSelectable="false" border="true" lineType="multiline">
                                              <matrix>
                                                   <Matrix a="1.43963623046875" d="1.43963623046875" tx="44.9" ty="346.85"/>
                                              </matrix>
@@ -2578,18 +2550,40 @@ setupLevelDTB();]]></script>
           </DOMTimeline>
           <DOMTimeline name="Skor" layerDepthEnabled="true">
                <layers>
-                    <DOMLayer name="script" color="#9933CC" autoNamed="false">
+                    <DOMLayer name="script" color="#9933CC" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[// Kode Skor - FINAL
+stop();
+
+// 1. Total Skor
+var skorAkhir:int = 0;
+if (MovieClip(root).skorTotalGame != undefined) {
+    skorAkhir = int(MovieClip(root).skorTotalGame);
+}
+txt_poinAkhir.text = String(skorAkhir);
+
+// 2. Soal Terjawab
+var jumlahBenar:int = skorAkhir / 25;
+txt_soalBenar.text = String(jumlahBenar);
+
+// 3. Waktu Penyelesaian
+var totalDetik:int = 0;
+if (MovieClip(root).waktuTotalGame != undefined) {
+    totalDetik = int(MovieClip(root).waktuTotalGame);
+}
+txt_waktuAkhir.text = String(totalDetik);]]></script>
+                                   </Actionscript>
                                    <elements/>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+                    <DOMLayer name="Layer_3" color="#FF800A">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMDynamicText fontRenderingMode="standard" width="236.3" height="46" isSelectable="false">
+                                        <DOMDynamicText name="txt_soalBenar" fontRenderingMode="device" width="236.3" height="46" isSelectable="false">
                                              <matrix>
                                                   <Matrix tx="78.4" ty="722.75"/>
                                              </matrix>
@@ -2602,7 +2596,7 @@ setupLevelDTB();]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMDynamicText>
-                                        <DOMDynamicText fontRenderingMode="standard" left="-52.75" width="139.05" height="46" isSelectable="false">
+                                        <DOMDynamicText name="txt_waktuAkhir" fontRenderingMode="standard" left="-52.75" width="139.05" height="46" isSelectable="false">
                                              <matrix>
                                                   <Matrix tx="435" ty="722.75"/>
                                              </matrix>
@@ -2615,20 +2609,20 @@ setupLevelDTB();]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMDynamicText>
-                                        <DOMDynamicText fontRenderingMode="standard" left="-52.75" width="139.05" height="46" isSelectable="false">
+                                        <DOMStaticText fontRenderingMode="standard" left="-52.75" width="139.05" height="77.8" isSelectable="false">
                                              <matrix>
                                                   <Matrix tx="585" ty="722.75"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
-                                                       <characters>Menit&#xD;</characters>
+                                                       <characters>Detik&#xD;</characters>
                                                        <textAttrs>
                                                             <DOMTextAttrs alignment="center" aliasText="false" lineHeight="37.9" size="35" bitmapSize="700" face="TwCenMT-CondensedExtraBold" fillColor="#1765A5"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMDynamicText selected="true" fontRenderingMode="standard" width="344.95" height="169.7" isSelectable="false">
+                                        </DOMStaticText>
+                                        <DOMDynamicText name="txt_poinAkhir" fontRenderingMode="device" width="344.95" height="169.7" isSelectable="false">
                                              <matrix>
                                                   <Matrix tx="190.2" ty="414.45"/>
                                              </matrix>
@@ -2703,7 +2697,7 @@ setupLevelDTB();]]></script>
                                                   <Point y="0.15"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMDynamicText fontRenderingMode="standard" width="236.3" height="46" isSelectable="false">
+                                        <DOMStaticText fontRenderingMode="standard" width="236.3" height="37.9" isSelectable="false">
                                              <matrix>
                                                   <Matrix tx="78.4" ty="650.35"/>
                                              </matrix>
@@ -2715,8 +2709,8 @@ setupLevelDTB();]]></script>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMDynamicText fontRenderingMode="standard" left="-52.75" width="289.05" height="46" isSelectable="false">
+                                        </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="standard" left="-52.75" width="289.05" height="37.9" isSelectable="false">
                                              <matrix>
                                                   <Matrix tx="435" ty="650.35"/>
                                              </matrix>
@@ -2728,7 +2722,7 @@ setupLevelDTB();]]></script>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
-                                        </DOMDynamicText>
+                                        </DOMStaticText>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -2744,25 +2738,25 @@ setupLevelDTB();]]></script>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="67634" publishTime="1780802533" publishDebug="true"/>
+          <PublishItem publishSize="67759" publishTime="1780801914" publishDebug="true"/>
+          <PublishItem publishSize="67880" publishTime="1780801547" publishDebug="true"/>
+          <PublishItem publishSize="67737" publishTime="1780801177" publishDebug="true"/>
+          <PublishItem publishSize="67727" publishTime="1780801080" publishDebug="true"/>
+          <PublishItem publishSize="67697" publishTime="1780800555" publishDebug="true"/>
+          <PublishItem publishSize="67698" publishTime="1780800383" publishDebug="true"/>
+          <PublishItem publishSize="67695" publishTime="1780800241" publishDebug="true"/>
+          <PublishItem publishSize="67442" publishTime="1780799948" publishDebug="true"/>
+          <PublishItem publishSize="67485" publishTime="1780799775" publishDebug="true"/>
+          <PublishItem publishSize="67733" publishTime="1780799666"/>
+          <PublishItem publishSize="67734" publishTime="1780798514" publishDebug="true"/>
+          <PublishItem publishSize="67476" publishTime="1780797148" publishDebug="true"/>
+          <PublishItem publishSize="67334" publishTime="1780795444" publishDebug="true"/>
+          <PublishItem publishSize="67310" publishTime="1780795249" publishDebug="true"/>
+          <PublishItem publishSize="67311" publishTime="1780795221" publishDebug="true"/>
+          <PublishItem publishSize="67301" publishTime="1780769624" publishDebug="true"/>
+          <PublishItem publishSize="67301" publishTime="1780769349" publishDebug="true"/>
           <PublishItem publishSize="50322" publishTime="1780643981" publishDebug="true"/>
           <PublishItem publishSize="49966" publishTime="1780636844" publishDebug="true"/>
-          <PublishItem publishSize="49967" publishTime="1780636764" publishDebug="true"/>
-          <PublishItem publishSize="49988" publishTime="1780636741"/>
-          <PublishItem publishSize="49987" publishTime="1780636710" publishDebug="true"/>
-          <PublishItem publishSize="49983" publishTime="1780636610"/>
-          <PublishItem publishSize="49984" publishTime="1780636582" publishDebug="true"/>
-          <PublishItem publishSize="49984" publishTime="1780636572" publishDebug="true"/>
-          <PublishItem publishSize="50121" publishTime="1780636303"/>
-          <PublishItem publishSize="50122" publishTime="1780636210" publishDebug="true"/>
-          <PublishItem publishSize="50121" publishTime="1780636060" publishDebug="true"/>
-          <PublishItem publishSize="50121" publishTime="1780635989"/>
-          <PublishItem publishSize="50120" publishTime="1780635817" publishDebug="true"/>
-          <PublishItem publishSize="50047" publishTime="1780635302" publishDebug="true"/>
-          <PublishItem publishSize="50089" publishTime="1780635291"/>
-          <PublishItem publishSize="50088" publishTime="1780635259" publishDebug="true"/>
-          <PublishItem publishSize="50047" publishTime="1780635174" publishDebug="true"/>
-          <PublishItem publishSize="50048" publishTime="1780635164" publishDebug="true"/>
-          <PublishItem publishSize="50047" publishTime="1780635146" publishDebug="true"/>
-          <PublishItem publishSize="41512" publishTime="1780630388" publishDebug="true"/>
      </publishHistory>
 </DOMDocument>
