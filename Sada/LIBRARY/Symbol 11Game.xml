@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 11" itemID="6a21c856-00000037" lastModified="1780768981">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 11Game" itemID="6a22ba54-0000021d" lastModified="1780767905">
   <timeline>
-    <DOMTimeline name="Symbol 11" layerDepthEnabled="true">
+    <DOMTimeline name="Symbol 11Game" layerDepthEnabled="true">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true" heightLiteral="24">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="Bitmap 9">
+                <DOMBitmapInstance libraryItemName="Bitmap 9Game">
                   <matrix>
                     <Matrix a="0.882354736328125" d="0.718414306640625"/>
                   </matrix>
@@ -17,7 +17,7 @@
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>else</characters>
+                      <characters>cout</characters>
                       <textAttrs>
                         <DOMTextAttrs alignment="center" aliasText="false" lineHeight="27.1" size="25" bitmapSize="500" face="TwCenMT-CondensedExtraBold"/>
                       </textAttrs>

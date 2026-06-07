@@ -1,5 +1,6 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="720" height="1280" frameRate="30" currentTimeline="2" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 20.0 build 17400" majorVersion="20" buildNumber="17400" viewAngle3D="68.5464806480513" vanishingPoint3DX="360" vanishingPoint3DY="640" nextSceneIdentifier="5" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="4E9C317403EF2243926E1E7F910E2316">
      <fonts>
+<<<<<<< HEAD
           <DOMFontItem name="Font 1" itemID="6a216424-000000d0" font="TwCenMT-CondensedExtraBold" size="0" id="1" sourceLastImported="1780573220" embedRanges="9999|1|3|4"/>
      </fonts>
      <media>
@@ -39,11 +40,69 @@
           <Include href="Symbol 13.xml" loadImmediate="false" itemID="6a21c869-00000041" lastModified="1780769002"/>
           <Include href="Symbol 14.xml" loadImmediate="false" itemID="6a21c882-00000046" lastModified="1780598914"/>
           <Include href="Symbol 15.xml" loadImmediate="false" itemID="6a21c8a5-0000004b" lastModified="1780598949"/>
+=======
+          <DOMFontItem name="Font 1" itemID="6a216424-000000d0" font="TwCenMT-CondensedExtraBold" size="0" id="1" sourceLastImported="1780573220" embedRanges="2|3|4"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="Bitmap 10Game" itemID="6a22b970-00000205" sourceLastImported="1780660592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 10Game.png" bitmapDataHRef="M 10 1780490828.dat" frameRight="6800" frameBottom="2000" maxScaleUsed="0.88"/>
+          <DOMBitmapItem name="Bitmap 11Game" itemID="6a22bad7-00000222" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 11Game.png" sourceLastImported="1780766066" externalFileSize="9016" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 11Game.png" bitmapDataHRef="M 11 1780491000.dat" frameRight="15320" frameBottom="7180"/>
+          <DOMBitmapItem name="Bitmap 11Game copy" itemID="6a22b975-00000207" sourceLastImported="1780660597" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 11Game copy.png" bitmapDataHRef="M 11 1780561599.dat" frameRight="7440" frameBottom="4600" maxScaleUsed="0.74"/>
+          <DOMBitmapItem name="Bitmap 12Game" itemID="6a22bad7-00000223" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 12Game.png" sourceLastImported="1780766066" externalFileSize="6859" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 12Game.png" bitmapDataHRef="M 12 1780491228.dat" frameRight="8840" frameBottom="3160" maxScaleUsed="0.65"/>
+          <DOMBitmapItem name="Bitmap 13Game" itemID="6a22b978-00000209" sourceLastImported="1780660600" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 13Game.png" bitmapDataHRef="M 13 1780561666.dat" frameRight="4000" frameBottom="2540"/>
+          <DOMBitmapItem name="Bitmap 14Game" itemID="6a22bad7-00000224" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 14Game.png" sourceLastImported="1780766066" externalFileSize="6859" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 14Game.png" bitmapDataHRef="M 14 1780561831.dat" frameRight="8840" frameBottom="3160"/>
+          <DOMBitmapItem name="Bitmap 15Game" itemID="6a22b97b-0000020b" sourceLastImported="1780660603" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 15Game.png" bitmapDataHRef="M 15 1780566033.dat" frameRight="1400" frameBottom="1400"/>
+          <DOMBitmapItem name="Bitmap 17Game" itemID="6a22bad7-00000225" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 17Game.png" sourceLastImported="1780766066" externalFileSize="9205" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 17Game.png" bitmapDataHRef="M 17 1780570157.dat" frameRight="13420" frameBottom="9560"/>
+          <DOMBitmapItem name="Bitmap 18Game" itemID="6a22bad7-00000226" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 18Game.png" sourceLastImported="1780766066" externalFileSize="3750" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 18Game.png" bitmapDataHRef="M 18 1780570181.dat" frameRight="2780" frameBottom="1980" maxScaleUsed="2.0"/>
+          <DOMBitmapItem name="Bitmap 19Game" itemID="6a22bad7-00000227" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 19Game.png" sourceLastImported="1780766066" externalFileSize="8903" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 19Game.png" bitmapDataHRef="M 19 1780570216.dat" frameRight="9000" frameBottom="3160" maxScaleUsed="0.76"/>
+          <DOMBitmapItem name="Bitmap 19Game copy" itemID="6a22b987-0000020f" sourceLastImported="1780660615" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 19Game copy.png" bitmapDataHRef="M 19 1780598758.dat" frameRight="15320" frameBottom="7180" maxScaleUsed="0.81"/>
+          <DOMBitmapItem name="Bitmap 1Game" itemID="6a22bad7-00000228" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 1Game.png" sourceLastImported="1780766066" externalFileSize="3434" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 1Game.png" bitmapDataHRef="M 1 1780488758.dat" frameRight="8240" frameBottom="5480"/>
+          <DOMBitmapItem name="Bitmap 20Game" itemID="6a22bad7-00000229" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 20Game.png" sourceLastImported="1780766066" externalFileSize="6982" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 20Game.png" bitmapDataHRef="M 20 1780570224.dat" frameRight="8840" frameBottom="3160" maxScaleUsed="0.76"/>
+          <DOMBitmapItem name="Bitmap 3Game" itemID="6a22b961-000001ff" sourceLastImported="1780660577" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 3Game.png" bitmapDataHRef="M 3 1780489247.dat" frameRight="16480" frameBottom="3560" maxScaleUsed="0.87"/>
+          <DOMBitmapItem name="Bitmap 4Game" itemID="6a22b969-00000200" sourceLastImported="1780660585" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 4Game.png" bitmapDataHRef="M 4 1780489365.dat" frameRight="2040" frameBottom="1480"/>
+          <DOMBitmapItem name="Bitmap 6Game" itemID="6a22bad7-0000022a" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 6Game.png" sourceLastImported="1780766066" externalFileSize="5659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 6Game.png" bitmapDataHRef="M 6 1780489552.dat" frameRight="16480" frameBottom="5480"/>
+          <DOMBitmapItem name="Bitmap 71" itemID="6a2231f5-0000027b" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 71.png" sourceLastImported="1780625909" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 71.png" bitmapDataHRef="M 21 1780660969.dat" frameRight="15320" frameBottom="7180" maxScaleUsed="0.81"/>
+          <DOMBitmapItem name="Bitmap 7Game" itemID="6a22bad7-0000022b" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 7Game.png" sourceLastImported="1780766066" externalFileSize="5659" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 7Game.png" bitmapDataHRef="M 7 1780489617.dat" frameRight="16480" frameBottom="5480" maxScaleUsed="1.1"/>
+          <DOMBitmapItem name="Bitmap 8Game" itemID="6a22bad7-0000022c" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 8Game.png" sourceLastImported="1780766066" externalFileSize="7263" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 8Game.png" bitmapDataHRef="M 8 1780490137.dat" frameRight="15520" frameBottom="7440" maxScaleUsed="0.88"/>
+          <DOMBitmapItem name="Bitmap 9Game" itemID="6a22bad7-0000022d" sourceExternalFilepath="../Sada/LIBRARY/Bitmap 9Game.png" sourceLastImported="1780766066" externalFileSize="3327" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 9Game.png" bitmapDataHRef="M 9 1780490803.dat" frameRight="6800" frameBottom="2000" maxScaleUsed="0.88"/>
+     </media>
+     <symbols>
+          <Include href="Symbol 1Game.xml" loadImmediate="false" itemID="6a22b990-00000213" lastModified="1780660624"/>
+          <Include href="Symbol 2Game.xml" loadImmediate="false" itemID="6a22b991-00000214" lastModified="1780660625"/>
+          <Include href="Symbol 3Game.xml" loadImmediate="false" itemID="6a22b993-00000215" lastModified="1780660627"/>
+          <Include href="Symbol 4Game.xml" loadImmediate="false" itemID="6a22b994-00000216" lastModified="1780660628"/>
+          <Include href="Symbol 5Game.xml" loadImmediate="false" itemID="6a22b996-00000217" lastModified="1780660630"/>
+          <Include href="Symbol 6Game.xml" loadImmediate="false" itemID="6a22b997-00000218" lastModified="1780660631"/>
+          <Include href="Symbol 7Game.xml" loadImmediate="false" itemID="6a22b998-00000219" lastModified="1780660632"/>
+          <Include href="Symbol 8Game.xml" loadImmediate="false" itemID="6a22b99a-0000021a" lastModified="1780660634"/>
+          <Include href="Symbol 9Game.xml" itemIcon="0" loadImmediate="false" itemID="6a22b99c-0000021b" lastModified="1780660636"/>
+          <Include href="Symbol 10Game.xml" loadImmediate="false" itemID="6a22ba52-0000021c" lastModified="1780767898"/>
+          <Include href="Symbol 10Game copy.xml" loadImmediate="false" itemID="6a22db5b-00000264" lastModified="1780669316"/>
+          <Include href="Symbol 10Game copy 2.xml" loadImmediate="false" itemID="6a22dbae-00000278" lastModified="1780669446"/>
+          <Include href="Symbol 10Game copy 3.xml" loadImmediate="false" itemID="6a22dc22-0000028c" lastModified="1780669486"/>
+          <Include href="Symbol 10Game copy 4.xml" loadImmediate="false" itemID="6a22dc43-000002a0" lastModified="1780669523"/>
+          <Include href="Symbol 11Game.xml" loadImmediate="false" itemID="6a22ba54-0000021d" lastModified="1780767905"/>
+          <Include href="Symbol 11Game copy.xml" loadImmediate="false" itemID="6a22db5e-00000269" lastModified="1780669327"/>
+          <Include href="Symbol 11Game copy 2.xml" loadImmediate="false" itemID="6a22dbb1-0000027d" lastModified="1780669454"/>
+          <Include href="Symbol 11Game copy 3.xml" loadImmediate="false" itemID="6a22dc25-00000291" lastModified="1780669490"/>
+          <Include href="Symbol 11Game copy 4.xml" loadImmediate="false" itemID="6a22dc47-000002a5" lastModified="1780669528"/>
+          <Include href="Symbol 12Game.xml" loadImmediate="false" itemID="6a22ba56-0000021e" lastModified="1780767910"/>
+          <Include href="Symbol 12Game copy.xml" loadImmediate="false" itemID="6a22db62-0000026e" lastModified="1780669339"/>
+          <Include href="Symbol 12Game copy 2.xml" loadImmediate="false" itemID="6a22dbb3-00000282" lastModified="1780669459"/>
+          <Include href="Symbol 12Game copy 3.xml" loadImmediate="false" itemID="6a22dc27-00000296" lastModified="1780669495"/>
+          <Include href="Symbol 12Game copy 4.xml" loadImmediate="false" itemID="6a22dc4c-000002aa" lastModified="1780669532"/>
+          <Include href="Symbol 13Game.xml" loadImmediate="false" itemID="6a22ba57-0000021f" lastModified="1780767914"/>
+          <Include href="Symbol 13Game copy.xml" loadImmediate="false" itemID="6a22db66-00000273" lastModified="1780669346"/>
+          <Include href="Symbol 13Game copy 2.xml" loadImmediate="false" itemID="6a22dbb8-00000287" lastModified="1780669463"/>
+          <Include href="Symbol 13Game copy 3.xml" loadImmediate="false" itemID="6a22dc2b-0000029b" lastModified="1780669499"/>
+          <Include href="Symbol 13Game copy 4.xml" loadImmediate="false" itemID="6a22dc4f-000002af" lastModified="1780669675"/>
+          <Include href="Symbol 14Game.xml" loadImmediate="false" itemID="6a22ba59-00000220" lastModified="1780660985"/>
+          <Include href="Symbol 15Game.xml" loadImmediate="false" itemID="6a22ba5a-00000221" lastModified="1780660826"/>
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
      </symbols>
      <timelines>
           <DOMTimeline name="CTD" currentFrame="4" layerDepthEnabled="true">
                <layers>
-                    <DOMLayer name="Script" color="#9933CC" current="true" isSelected="true" autoNamed="false" highlighted="true">
+                    <DOMLayer name="Script" color="#9933CC" current="true" isSelected="true" autoNamed="false" highlighted="true" heightLiteral="24">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <Actionscript>
@@ -54,6 +113,7 @@ import flash.display.Shape;
 import flash.display.MovieClip;
 import flash.utils.Timer;
 import flash.events.TimerEvent;
+<<<<<<< HEAD
 
 // --- SETUP VARIABEL GLOBAL SKOR & WAKTU ---
 if (MovieClip(root).skorTotalGame == undefined) {
@@ -62,35 +122,44 @@ if (MovieClip(root).skorTotalGame == undefined) {
 if (MovieClip(root).waktuTotalGame == undefined) {
     MovieClip(root).waktuTotalGame = 0;
 }
+=======
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
 
-txt_timer.background = false; txt_timer.border = false;
-txt_poinangka.background = false; txt_poinangka.border = false;
-txt_pointext.background = false; txt_pointext.border = false;
+// --- VARIABEL GLOBAL ---
+if (Object(this).skorTotalGame == undefined) Object(this).skorTotalGame = 0; 
+if (Object(this).waktuTotalGame == undefined) Object(this).waktuTotalGame = 0; 
 
 var levelCTD:int = 1;
 var gameSelesai:Boolean = false;
 var startX:Number;
 var startY:Number;
-var activeBlock:MovieClip;
+var activeBlock:MovieClip; // Variabel yang tadi error
 var activeIndex:int;
+<<<<<<< HEAD
 
 // --- VARIABEL TIMER STOPWATCH ---
 var timerGame:Timer = new Timer(1000);
 var isTimerBerjalan:Boolean = false;
 
 // 1. Membuat Wadah Garis
+=======
+var timerGame:Timer = new Timer(1000); 
+var isTimerBerjalan:Boolean = false;
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
 var lines:Array = [];
-var indexGaris:int;
 
-for (indexGaris = 1; indexGaris <= 4; indexGaris++) {
-    var line:Shape = new Shape();
-    addChild(line);
-    lines[indexGaris] = line;
+for (var i:int = 1; i <= 4; i++) {
+    lines[i] = new Shape();
+    addChild(lines[i]);
 }
 
+<<<<<<< HEAD
 // 2. KAMUS JAWABAN UNTUK 5 LEVEL
 var semuaKunci:Array = [
     null,
+=======
+var semuaKunci:Array = [null, 
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
     { "btnkiri1":"btnkanan4", "btnkiri2":"btnkanan3", "btnkiri3":"btnkanan1", "btnkiri4":"btnkanan2" },
     { "btnkiri1":"btnkanan4", "btnkiri2":"btnkanan1", "btnkiri3":"btnkanan3", "btnkiri4":"btnkanan2" },
     { "btnkiri1":"btnkanan1", "btnkiri2":"btnkanan2", "btnkiri3":"btnkanan3", "btnkiri4":"btnkanan4" },
@@ -98,6 +167,7 @@ var semuaKunci:Array = [
     { "btnkiri1":"btnkanan2", "btnkiri2":"btnkanan4", "btnkiri3":"btnkanan1", "btnkiri4":"btnkanan3" }
 ];
 
+<<<<<<< HEAD
 // --- FUNGSI TIMER MAJU ---
 function jalankanTimer():void {
     if (!isTimerBerjalan) {
@@ -172,11 +242,48 @@ function onDragging(e:MouseEvent):void {
     currentLine.graphics.lineStyle(5, 0x3399FF);
     currentLine.graphics.moveTo(startX, startY);
     currentLine.graphics.lineTo(mouseX, mouseY);
+=======
+function jalankanTimer():void {
+    if (!isTimerBerjalan) {
+        timerGame.addEventListener(TimerEvent.TIMER, function(e:TimerEvent){
+            Object(this).waktuTotalGame++;
+            var m:int = Math.floor(Object(this).waktuTotalGame / 60);
+            var s:int = Object(this).waktuTotalGame % 60;
+            txt_timer.text = (m<10?"0"+m:m) + "." + (s<10?"0"+s:s);
+        });
+        timerGame.start();
+        isTimerBerjalan = true;
+    }
+}
+
+function setupLevel():void {
+    txt_poinangka.text = String(Object(this).skorTotalGame);
+    for (var j:int = 1; j <= 4; j++) {
+        lines[j].graphics.clear();
+        var btn:MovieClip = this["btnkiri" + j];
+        btn.index = j; btn.connectedTo = null;
+        btn.addEventListener(MouseEvent.MOUSE_DOWN, function(e:MouseEvent){
+            activeBlock = e.currentTarget as MovieClip;
+            stage.addEventListener(MouseEvent.MOUSE_MOVE, onDragging);
+            stage.addEventListener(MouseEvent.MOUSE_UP, onDragDrop);
+        });
+    }
+    btn_lanjutctd.addEventListener(MouseEvent.CLICK, onLanjutClick);
+    jalankanTimer();
+}
+
+function onDragging(e:MouseEvent):void {
+    lines[activeBlock.index].graphics.clear();
+    lines[activeBlock.index].graphics.lineStyle(5, 0x3399FF);
+    lines[activeBlock.index].graphics.moveTo(activeBlock.x + activeBlock.width, activeBlock.y + activeBlock.height/2);
+    lines[activeBlock.index].graphics.lineTo(mouseX, mouseY);
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
 }
 
 function onDragDrop(e:MouseEvent):void {
     stage.removeEventListener(MouseEvent.MOUSE_MOVE, onDragging);
     stage.removeEventListener(MouseEvent.MOUSE_UP, onDragDrop);
+<<<<<<< HEAD
 
     var currentLine:Shape = lines[activeIndex];
     var isConnected:Boolean = false;
@@ -195,16 +302,21 @@ function onDragDrop(e:MouseEvent):void {
             activeBlock.connectedTo = targetBtn.name;
             isConnected = true;
             break;
+=======
+    for (var k:int = 1; k <= 4; k++) {
+        var target:MovieClip = this["btnkanan" + k];
+        if (target.hitTestPoint(mouseX, mouseY, true)) {
+            activeBlock.connectedTo = target.name;
+            return;
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
         }
     }
-    if (!isConnected) {
-        currentLine.graphics.clear();
-        activeBlock.connectedTo = null;
-    }
+    lines[activeBlock.index].graphics.clear();
 }
 
 // 5. PENILAIAN & PINDAH SCENE
 function onLanjutClick(e:MouseEvent):void {
+<<<<<<< HEAD
     if (gameSelesai) return;
 
     var skorLevelIni:int = 0;
@@ -235,9 +347,19 @@ function onLanjutClick(e:MouseEvent):void {
         timerGame.removeEventListener(TimerEvent.TIMER, hitungMaju);
         isTimerBerjalan = false;
         gotoAndStop(1, "DTB");
+=======
+    var kunci:Object = semuaKunci[levelCTD];
+    for (var m:int = 1; m <= 4; m++) {
+        if (this["btnkiri"+m].connectedTo == kunci[this["btnkiri"+m].name]) Object(this).skorTotalGame += 25;
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
     }
+    if (levelCTD < 5) { levelCTD++; nextFrame(); } 
+    else { timerGame.stop(); gotoAndStop(1, "DTB"); }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
 setupLevel();]]></script>
                                    </Actionscript>
                                    <elements/>
@@ -300,7 +422,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="UI_Dynamic" color="#FF800A" autoNamed="false">
+                    <DOMLayer name="UI_Dynamic" color="#FF800A" autoNamed="false" heightLiteral="24">
                          <frames>
                               <DOMFrame index="0" duration="5" keyMode="9728">
                                    <elements>
@@ -317,7 +439,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 15">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 15Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="185"/>
                                              </matrix>
@@ -380,7 +502,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
  203!-18 203[-20 167 -21 133!-21 133|-21 25600!-21 25600|14398 25600!14398 25600|14398 159"/>
                                              </edges>
                                         </DOMShape>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7Game">
                                              <matrix>
                                                   <Matrix a="0.87420654296875" d="1.09489440917969"/>
                                              </matrix>
@@ -388,7 +510,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.5"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -396,12 +518,12 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.45"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="36"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 1" name="btnkiri1">
+                                        <DOMSymbolInstance libraryItemName="Symbol 1Game" name="btnkiri1">
                                              <matrix>
                                                   <Matrix tx="49" ty="318"/>
                                              </matrix>
@@ -409,7 +531,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137.5" y="84.75"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 2" name="btnkiri2">
+                                        <DOMSymbolInstance libraryItemName="Symbol 2Game" name="btnkiri2">
                                              <matrix>
                                                   <Matrix tx="49" ty="518"/>
                                              </matrix>
@@ -417,7 +539,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137.25" y="84.6"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 3" name="btnkiri3">
+                                        <DOMSymbolInstance libraryItemName="Symbol 3Game" name="btnkiri3">
                                              <matrix>
                                                   <Matrix tx="49" ty="718"/>
                                              </matrix>
@@ -425,7 +547,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137" y="84.55"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 4" name="btnkiri4">
+                                        <DOMSymbolInstance libraryItemName="Symbol 4Game" name="btnkiri4">
                                              <matrix>
                                                   <Matrix tx="49" ty="918"/>
                                              </matrix>
@@ -433,7 +555,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="136.75" y="84.25"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 5" name="btnkanan1">
+                                        <DOMSymbolInstance libraryItemName="Symbol 5Game" name="btnkanan1">
                                              <matrix>
                                                   <Matrix tx="479" ty="333"/>
                                              </matrix>
@@ -441,7 +563,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 6" name="btnkanan2">
+                                        <DOMSymbolInstance libraryItemName="Symbol 6Game" name="btnkanan2">
                                              <matrix>
                                                   <Matrix tx="479" ty="533"/>
                                              </matrix>
@@ -449,7 +571,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 7" name="btnkanan3">
+                                        <DOMSymbolInstance libraryItemName="Symbol 7Game" name="btnkanan3">
                                              <matrix>
                                                   <Matrix tx="479" ty="733"/>
                                              </matrix>
@@ -457,7 +579,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 8" name="btnkanan4">
+                                        <DOMSymbolInstance libraryItemName="Symbol 8Game" name="btnkanan4">
                                              <matrix>
                                                   <Matrix tx="479" ty="933"/>
                                              </matrix>
@@ -465,7 +587,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd">
+                                        <DOMSymbolInstance libraryItemName="Symbol 9Game" name="btn_lanjutctd">
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
                                              </matrix>
@@ -592,7 +714,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
  203!-18 203[-20 167 -21 133!-21 133|-21 25600!-21 25600|14398 25600!14398 25600|14398 159"/>
                                              </edges>
                                         </DOMShape>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7Game">
                                              <matrix>
                                                   <Matrix a="0.87420654296875" d="1.09489440917969"/>
                                              </matrix>
@@ -600,7 +722,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.5"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -608,7 +730,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.45"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="36"/>
                                              </matrix>
@@ -626,7 +748,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 1" name="btnkiri1" centerPoint3DX="186.5" centerPoint3DY="403">
+                                        <DOMSymbolInstance libraryItemName="Symbol 1Game" name="btnkiri1" centerPoint3DX="186.5" centerPoint3DY="403">
                                              <matrix>
                                                   <Matrix tx="49" ty="318"/>
                                              </matrix>
@@ -634,7 +756,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137.5" y="84.75"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 2" name="btnkiri2" centerPoint3DX="186.5" centerPoint3DY="603">
+                                        <DOMSymbolInstance libraryItemName="Symbol 2Game" name="btnkiri2" centerPoint3DX="186.5" centerPoint3DY="603">
                                              <matrix>
                                                   <Matrix tx="49" ty="518"/>
                                              </matrix>
@@ -642,7 +764,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137.25" y="84.6"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 3" name="btnkiri3" centerPoint3DX="186.5" centerPoint3DY="803">
+                                        <DOMSymbolInstance libraryItemName="Symbol 3Game" name="btnkiri3" centerPoint3DX="186.5" centerPoint3DY="803">
                                              <matrix>
                                                   <Matrix tx="49" ty="718"/>
                                              </matrix>
@@ -650,7 +772,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137" y="84.55"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 4" name="btnkiri4" centerPoint3DX="186.5" centerPoint3DY="1003">
+                                        <DOMSymbolInstance libraryItemName="Symbol 4Game" name="btnkiri4" centerPoint3DX="186.5" centerPoint3DY="1003">
                                              <matrix>
                                                   <Matrix tx="49" ty="918"/>
                                              </matrix>
@@ -658,7 +780,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="136.75" y="84.25"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 5" name="btnkanan1" centerPoint3DX="579" centerPoint3DY="396.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 5Game" name="btnkanan1" centerPoint3DX="579" centerPoint3DY="396.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="333"/>
                                              </matrix>
@@ -666,7 +788,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 6" name="btnkanan2" centerPoint3DX="579" centerPoint3DY="596.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 6Game" name="btnkanan2" centerPoint3DX="579" centerPoint3DY="596.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="533"/>
                                              </matrix>
@@ -674,7 +796,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 7" name="btnkanan3" centerPoint3DX="579" centerPoint3DY="796.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 7Game" name="btnkanan3" centerPoint3DX="579" centerPoint3DY="796.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="733"/>
                                              </matrix>
@@ -682,7 +804,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 8" name="btnkanan4" centerPoint3DX="579" centerPoint3DY="996.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 8Game" name="btnkanan4" centerPoint3DX="579" centerPoint3DY="996.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="933"/>
                                              </matrix>
@@ -690,12 +812,42 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 15">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 15Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="185"/>
                                              </matrix>
                                         </DOMBitmapInstance>
+<<<<<<< HEAD
                                         <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd">
+=======
+                                        <DOMDynamicText name="txt_timer" width="168.9" height="72.55" isSelectable="false" border="true">
+                                             <matrix>
+                                                  <Matrix tx="137.25" ty="186.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>00.45</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineSpacing="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText name="txt_pointext" width="168.9" height="72.55" isSelectable="false" border="true">
+                                             <matrix>
+                                                  <Matrix tx="404" ty="186.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>POIN:</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="Symbol 9Game" name="btn_lanjutctd">
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
                                              </matrix>
@@ -823,7 +975,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
  203!-18 203[-20 167 -21 133!-21 133|-21 25600!-21 25600|14398 25600!14398 25600|14398 159"/>
                                              </edges>
                                         </DOMShape>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7Game">
                                              <matrix>
                                                   <Matrix a="0.87420654296875" d="1.09489440917969"/>
                                              </matrix>
@@ -831,7 +983,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.5"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -839,7 +991,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.45"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="36"/>
                                              </matrix>
@@ -857,7 +1009,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 1" name="btnkiri1" centerPoint3DX="186.5" centerPoint3DY="403">
+                                        <DOMSymbolInstance libraryItemName="Symbol 1Game" name="btnkiri1" centerPoint3DX="186.5" centerPoint3DY="403">
                                              <matrix>
                                                   <Matrix tx="49" ty="318"/>
                                              </matrix>
@@ -865,7 +1017,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137.5" y="84.75"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 2" name="btnkiri2" centerPoint3DX="186.5" centerPoint3DY="603">
+                                        <DOMSymbolInstance libraryItemName="Symbol 2Game" name="btnkiri2" centerPoint3DX="186.5" centerPoint3DY="603">
                                              <matrix>
                                                   <Matrix tx="49" ty="518"/>
                                              </matrix>
@@ -873,7 +1025,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137.25" y="84.6"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 3" name="btnkiri3" centerPoint3DX="186.5" centerPoint3DY="803">
+                                        <DOMSymbolInstance libraryItemName="Symbol 3Game" name="btnkiri3" centerPoint3DX="186.5" centerPoint3DY="803">
                                              <matrix>
                                                   <Matrix tx="49" ty="718"/>
                                              </matrix>
@@ -881,7 +1033,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137" y="84.55"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 4" name="btnkiri4" centerPoint3DX="186.5" centerPoint3DY="1003">
+                                        <DOMSymbolInstance libraryItemName="Symbol 4Game" name="btnkiri4" centerPoint3DX="186.5" centerPoint3DY="1003">
                                              <matrix>
                                                   <Matrix tx="49" ty="918"/>
                                              </matrix>
@@ -889,7 +1041,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="136.75" y="84.25"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 5" name="btnkanan1" centerPoint3DX="579" centerPoint3DY="396.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 5Game" name="btnkanan1" centerPoint3DX="579" centerPoint3DY="396.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="333"/>
                                              </matrix>
@@ -897,7 +1049,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 6" name="btnkanan2" centerPoint3DX="579" centerPoint3DY="596.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 6Game" name="btnkanan2" centerPoint3DX="579" centerPoint3DY="596.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="533"/>
                                              </matrix>
@@ -905,7 +1057,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 7" name="btnkanan3" centerPoint3DX="579" centerPoint3DY="796.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 7Game" name="btnkanan3" centerPoint3DX="579" centerPoint3DY="796.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="733"/>
                                              </matrix>
@@ -913,7 +1065,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 8" name="btnkanan4" centerPoint3DX="579" centerPoint3DY="996.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 8Game" name="btnkanan4" centerPoint3DX="579" centerPoint3DY="996.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="933"/>
                                              </matrix>
@@ -921,12 +1073,42 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 15">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 15Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="185"/>
                                              </matrix>
                                         </DOMBitmapInstance>
+<<<<<<< HEAD
                                         <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd">
+=======
+                                        <DOMDynamicText name="txt_timer" width="168.9" height="72.55" isSelectable="false" border="true">
+                                             <matrix>
+                                                  <Matrix tx="137.25" ty="186.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>00.45</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineSpacing="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText name="txt_pointext" width="168.9" height="72.55" isSelectable="false" border="true">
+                                             <matrix>
+                                                  <Matrix tx="404" ty="186.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>POIN:</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="Symbol 9Game" name="btn_lanjutctd">
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
                                              </matrix>
@@ -1054,7 +1236,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
  203!-18 203[-20 167 -21 133!-21 133|-21 25600!-21 25600|14398 25600!14398 25600|14398 159"/>
                                              </edges>
                                         </DOMShape>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7Game">
                                              <matrix>
                                                   <Matrix a="0.87420654296875" d="1.09489440917969"/>
                                              </matrix>
@@ -1062,7 +1244,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.5"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -1070,7 +1252,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.45"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="36"/>
                                              </matrix>
@@ -1088,7 +1270,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 1" name="btnkiri1" centerPoint3DX="186.5" centerPoint3DY="403">
+                                        <DOMSymbolInstance libraryItemName="Symbol 1Game" name="btnkiri1" centerPoint3DX="186.5" centerPoint3DY="403">
                                              <matrix>
                                                   <Matrix tx="49" ty="318"/>
                                              </matrix>
@@ -1096,7 +1278,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137.5" y="84.75"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 2" name="btnkiri2" centerPoint3DX="186.5" centerPoint3DY="603">
+                                        <DOMSymbolInstance libraryItemName="Symbol 2Game" name="btnkiri2" centerPoint3DX="186.5" centerPoint3DY="603">
                                              <matrix>
                                                   <Matrix tx="49" ty="518"/>
                                              </matrix>
@@ -1104,7 +1286,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137.25" y="84.6"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 3" name="btnkiri3" centerPoint3DX="186.5" centerPoint3DY="803">
+                                        <DOMSymbolInstance libraryItemName="Symbol 3Game" name="btnkiri3" centerPoint3DX="186.5" centerPoint3DY="803">
                                              <matrix>
                                                   <Matrix tx="49" ty="718"/>
                                              </matrix>
@@ -1112,7 +1294,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137" y="84.55"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 4" name="btnkiri4" centerPoint3DX="186.5" centerPoint3DY="1003">
+                                        <DOMSymbolInstance libraryItemName="Symbol 4Game" name="btnkiri4" centerPoint3DX="186.5" centerPoint3DY="1003">
                                              <matrix>
                                                   <Matrix tx="49" ty="918"/>
                                              </matrix>
@@ -1120,7 +1302,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="136.75" y="84.25"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 5" name="btnkanan1" centerPoint3DX="579" centerPoint3DY="396.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 5Game" name="btnkanan1" centerPoint3DX="579" centerPoint3DY="396.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="333"/>
                                              </matrix>
@@ -1128,7 +1310,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 6" name="btnkanan2" centerPoint3DX="579" centerPoint3DY="596.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 6Game" name="btnkanan2" centerPoint3DX="579" centerPoint3DY="596.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="533"/>
                                              </matrix>
@@ -1136,7 +1318,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 7" name="btnkanan3" centerPoint3DX="579" centerPoint3DY="796.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 7Game" name="btnkanan3" centerPoint3DX="579" centerPoint3DY="796.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="733"/>
                                              </matrix>
@@ -1144,7 +1326,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 8" name="btnkanan4" centerPoint3DX="579" centerPoint3DY="996.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 8Game" name="btnkanan4" centerPoint3DX="579" centerPoint3DY="996.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="933"/>
                                              </matrix>
@@ -1152,12 +1334,42 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 15">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 15Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="185"/>
                                              </matrix>
                                         </DOMBitmapInstance>
+<<<<<<< HEAD
                                         <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd">
+=======
+                                        <DOMDynamicText name="txt_timer" width="168.9" height="72.55" isSelectable="false" border="true">
+                                             <matrix>
+                                                  <Matrix tx="137.25" ty="186.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>00.45</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineSpacing="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText name="txt_pointext" width="168.9" height="72.55" isSelectable="false" border="true">
+                                             <matrix>
+                                                  <Matrix tx="404" ty="186.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>POIN:</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="Symbol 9Game" name="btn_lanjutctd">
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
                                              </matrix>
@@ -1285,7 +1497,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
  203!-18 203[-20 167 -21 133!-21 133|-21 25600!-21 25600|14398 25600!14398 25600|14398 159"/>
                                              </edges>
                                         </DOMShape>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7Game">
                                              <matrix>
                                                   <Matrix a="0.87420654296875" d="1.09489440917969"/>
                                              </matrix>
@@ -1293,7 +1505,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.5"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875" tx="-1"/>
                                              </matrix>
@@ -1301,7 +1513,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.45"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="36"/>
                                              </matrix>
@@ -1319,7 +1531,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 1" name="btnkiri1" centerPoint3DX="186.5" centerPoint3DY="403">
+                                        <DOMSymbolInstance libraryItemName="Symbol 1Game" name="btnkiri1" centerPoint3DX="186.5" centerPoint3DY="403">
                                              <matrix>
                                                   <Matrix tx="49" ty="318"/>
                                              </matrix>
@@ -1327,7 +1539,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137.5" y="84.75"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 2" name="btnkiri2" centerPoint3DX="186.5" centerPoint3DY="603">
+                                        <DOMSymbolInstance libraryItemName="Symbol 2Game" name="btnkiri2" centerPoint3DX="186.5" centerPoint3DY="603">
                                              <matrix>
                                                   <Matrix tx="49" ty="518"/>
                                              </matrix>
@@ -1335,7 +1547,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137.25" y="84.6"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 3" name="btnkiri3" centerPoint3DX="186.5" centerPoint3DY="803">
+                                        <DOMSymbolInstance libraryItemName="Symbol 3Game" name="btnkiri3" centerPoint3DX="186.5" centerPoint3DY="803">
                                              <matrix>
                                                   <Matrix tx="49" ty="718"/>
                                              </matrix>
@@ -1343,7 +1555,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="137" y="84.55"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 4" name="btnkiri4" centerPoint3DX="186.5" centerPoint3DY="1003">
+                                        <DOMSymbolInstance libraryItemName="Symbol 4Game" name="btnkiri4" centerPoint3DX="186.5" centerPoint3DY="1003">
                                              <matrix>
                                                   <Matrix tx="49" ty="918"/>
                                              </matrix>
@@ -1351,7 +1563,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="136.75" y="84.25"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 5" name="btnkanan1" centerPoint3DX="579" centerPoint3DY="396.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 5Game" name="btnkanan1" centerPoint3DX="579" centerPoint3DY="396.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="333"/>
                                              </matrix>
@@ -1359,7 +1571,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 6" name="btnkanan2" centerPoint3DX="579" centerPoint3DY="596.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 6Game" name="btnkanan2" centerPoint3DX="579" centerPoint3DY="596.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="533"/>
                                              </matrix>
@@ -1367,7 +1579,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 7" name="btnkanan3" centerPoint3DX="579" centerPoint3DY="796.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 7Game" name="btnkanan3" centerPoint3DX="579" centerPoint3DY="796.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="733"/>
                                              </matrix>
@@ -1375,7 +1587,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 8" name="btnkanan4" centerPoint3DX="579" centerPoint3DY="996.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 8Game" name="btnkanan4" centerPoint3DX="579" centerPoint3DY="996.5">
                                              <matrix>
                                                   <Matrix tx="479" ty="933"/>
                                              </matrix>
@@ -1383,12 +1595,42 @@ setupLevel(); // Timer di-restart bersih]]></script>
                                                   <Point x="100" y="63.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 15">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 15Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="185"/>
                                              </matrix>
                                         </DOMBitmapInstance>
+<<<<<<< HEAD
                                         <DOMSymbolInstance libraryItemName="Symbol 9" name="btn_lanjutctd">
+=======
+                                        <DOMDynamicText name="txt_timer" width="168.9" height="72.55" isSelectable="false" border="true">
+                                             <matrix>
+                                                  <Matrix tx="137.25" ty="186.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>00.45</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineSpacing="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText name="txt_pointext" width="168.9" height="72.55" isSelectable="false" border="true">
+                                             <matrix>
+                                                  <Matrix tx="404" ty="186.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>POIN:</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0" lineHeight="72.55" size="67" bitmapSize="1340" face="TwCenMT-CondensedExtraBold" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="Symbol 9Game" name="btn_lanjutctd" selected="true">
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
                                              <matrix>
                                                   <Matrix tx="214" ty="1116"/>
                                              </matrix>
@@ -1508,7 +1750,7 @@ setupLevel(); // Timer di-restart bersih]]></script>
           </DOMTimeline>
           <DOMTimeline name="DTB" currentFrame="4" layerDepthEnabled="true">
                <layers>
-                    <DOMLayer name="script" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="script" color="#9933CC" current="true" isSelected="true" autoNamed="false" heightLiteral="24">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <Actionscript>
@@ -1519,6 +1761,7 @@ import flash.display.MovieClip;
 import flash.utils.Timer;
 import flash.events.TimerEvent;
 
+<<<<<<< HEAD
 if (MovieClip(root).skorTotalGame == undefined) {
     MovieClip(root).skorTotalGame = 0;
 }
@@ -1689,6 +1932,57 @@ function cekSkorDTB(e:MouseEvent):void {
     }
 }
 
+=======
+// --- VARIABEL ---
+if (Object(this).skorTotalGame == undefined) Object(this).skorTotalGame = 0; 
+if (Object(this).waktuTotalGame == undefined) Object(this).waktuTotalGame = 0; 
+var levelDTB:int = 1;
+var jawabanPemain:MovieClip; // Variabel yang tadi error
+var timerGameDTB:Timer = new Timer(1000);
+
+var dataLevelDTB:Array = [null,
+    {soal: "int main() { [ Zona 1 ] << \"Halo\"; }", kunci: "btn_jawaban2", nilai: ["cin","cout","get","print"]},
+    {soal: "int x = 10; [ Zona 1 ] (x > 5) { }", kunci: "btn_jawaban1", nilai: ["if","else","for","while"]},
+    {soal: "switch(x) { case 1: [ Zona 1 ] }", kunci: "btn_jawaban4", nilai: ["stop;","exit;","return;","break;"]},
+    {soal: "[ Zona 1 ] (int i=0; i<5; i++) {}", kunci: "btn_jawaban3", nilai: ["while","do","for","loop"]},
+    {soal: "do { } [ Zona 1 ] (x < 5);", kunci: "btn_jawaban2", nilai: ["if","while","until","for"]}
+];
+
+timerGameDTB.addEventListener(TimerEvent.TIMER, function(e:TimerEvent){
+    Object(this).waktuTotalGame++;
+    var m:int = Math.floor(Object(this).waktuTotalGame / 60);
+    var s:int = Object(this).waktuTotalGame % 60;
+    txt_timer.text = (m<10?"0"+m:m) + "." + (s<10?"0"+s:s);
+});
+timerGameDTB.start();
+
+function setupLevelDTB():void {
+    txt_poinangka.text = String(Object(this).skorTotalGame);
+    var d:Object = dataLevelDTB[levelDTB];
+    txt_soal.htmlText = d.soal;
+    for (var j:int = 1; j <= 4; j++) {
+        var b:MovieClip = this["btn_jawaban"+j];
+        b.nilaiTeks = d.nilai[j-1];
+        b.txt_label.text = b.nilaiTeks;
+        b.addEventListener(MouseEvent.MOUSE_DOWN, function(e:MouseEvent){ 
+            jawabanPemain = e.currentTarget as MovieClip; 
+            jawabanPemain.startDrag(); 
+        });
+        b.addEventListener(MouseEvent.MOUSE_UP, function(e:MouseEvent){
+            var b:MovieClip = e.currentTarget as MovieClip;
+            b.stopDrag();
+            if (b.hitTestObject(dropZone)) {
+                txt_soal.htmlText = d.soal.replace("[ Zona 1 ]", "<font color='#FF0000'>"+b.nilaiTeks+"</font>");
+            }
+        });
+    }
+    btn_lanjutdtb.addEventListener(MouseEvent.CLICK, function(e:MouseEvent){
+        if (jawabanPemain && jawabanPemain.name == d.kunci) Object(this).skorTotalGame += 25;
+        if (levelDTB < 5) { levelDTB++; nextFrame(); } 
+        else { timerGameDTB.stop(); gotoAndStop(1, "Skor"); }
+    });
+}
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
 setupLevelDTB();]]></script>
                                    </Actionscript>
                                    <elements/>
@@ -1751,11 +2045,11 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="UI_Dynamic" color="#FF800A" autoNamed="false">
+                    <DOMLayer name="UI_Dynamic" color="#FF800A" autoNamed="false" heightLiteral="24">
                          <frames>
                               <DOMFrame index="0" duration="5" keyMode="9728">
                                    <elements>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 15">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 15Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="185"/>
                                              </matrix>
@@ -1818,7 +2112,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
 !-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
                                              </edges>
                                         </DOMShape>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -1826,7 +2120,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="88" ty="36"/>
                                              </matrix>
@@ -1844,7 +2138,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7Game">
                                              <matrix>
                                                   <Matrix a="0.87420654296875" d="1.09489440917969"/>
                                              </matrix>
@@ -1852,7 +2146,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 8">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 8Game">
                                              <matrix>
                                                   <Matrix a="0.87628173828125" d="0.845596313476562" tx="24" ty="317"/>
                                              </matrix>
@@ -1860,7 +2154,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="0.25" y="0.2"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -1868,7 +2162,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.45"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="36"/>
                                              </matrix>
@@ -1886,7 +2180,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 10" name="btn_jawaban1">
+                                        <DOMSymbolInstance libraryItemName="Symbol 10Game" name="btn_jawaban1">
                                              <matrix>
                                                   <Matrix tx="47" ty="650"/>
                                              </matrix>
@@ -1894,7 +2188,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 11" name="btn_jawaban2">
+                                        <DOMSymbolInstance libraryItemName="Symbol 11Game" name="btn_jawaban2">
                                              <matrix>
                                                   <Matrix tx="372" ty="650"/>
                                              </matrix>
@@ -1902,7 +2196,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="btn_jawaban3">
+                                        <DOMSymbolInstance libraryItemName="Symbol 12Game" name="btn_jawaban3">
                                              <matrix>
                                                   <Matrix tx="47" ty="750"/>
                                              </matrix>
@@ -1910,7 +2204,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 13" name="btn_jawaban4">
+                                        <DOMSymbolInstance libraryItemName="Symbol 13Game" name="btn_jawaban4">
                                              <matrix>
                                                   <Matrix tx="372" ty="750"/>
                                              </matrix>
@@ -1918,7 +2212,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="dropZone">
+                                        <DOMSymbolInstance libraryItemName="Symbol 14Game" name="dropZone">
                                              <matrix>
                                                   <Matrix tx="49" ty="852"/>
                                              </matrix>
@@ -1926,7 +2220,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="310.75" y="116.15"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 15" name="btn_lanjutdtb">
+                                        <DOMSymbolInstance libraryItemName="Symbol 15Game" name="btn_lanjutdtb">
                                              <matrix>
                                                   <Matrix tx="216" ty="1115"/>
                                              </matrix>
@@ -1966,7 +2260,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
 !-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
                                              </edges>
                                         </DOMShape>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -1974,7 +2268,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="88" ty="36"/>
                                              </matrix>
@@ -1992,7 +2286,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7Game">
                                              <matrix>
                                                   <Matrix a="0.87420654296875" d="1.09489440917969"/>
                                              </matrix>
@@ -2000,7 +2294,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 8">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 8Game">
                                              <matrix>
                                                   <Matrix a="0.87628173828125" d="0.845596313476562" tx="24" ty="317"/>
                                              </matrix>
@@ -2008,7 +2302,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="0.25" y="0.2"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -2016,7 +2310,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.45"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="36"/>
                                              </matrix>
@@ -2034,7 +2328,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 10" name="btn_jawaban1" centerPoint3DX="197" centerPoint3DY="685.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 10Game copy" name="btn_jawaban1" centerPoint3DX="197" centerPoint3DY="685.9">
                                              <matrix>
                                                   <Matrix tx="47" ty="650"/>
                                              </matrix>
@@ -2042,7 +2336,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 11" name="btn_jawaban2" centerPoint3DX="522" centerPoint3DY="685.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 11Game copy" name="btn_jawaban2" centerPoint3DX="522" centerPoint3DY="685.9">
                                              <matrix>
                                                   <Matrix tx="372" ty="650"/>
                                              </matrix>
@@ -2050,7 +2344,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="btn_jawaban3" centerPoint3DX="197" centerPoint3DY="785.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 12Game copy" name="btn_jawaban3" centerPoint3DX="197" centerPoint3DY="785.9">
                                              <matrix>
                                                   <Matrix tx="47" ty="750"/>
                                              </matrix>
@@ -2058,15 +2352,15 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 13" name="btn_jawaban4" centerPoint3DX="522" centerPoint3DY="785.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 13Game copy" name="btn_jawaban4" selected="true" centerPoint3DX="520.85" centerPoint3DY="785.9">
                                              <matrix>
-                                                  <Matrix tx="372" ty="750"/>
+                                                  <Matrix tx="370.85" ty="750"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="dropZone" centerPoint3DX="360.65" centerPoint3DY="968.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 14Game" name="dropZone" centerPoint3DX="360.65" centerPoint3DY="968.5">
                                              <matrix>
                                                   <Matrix tx="49" ty="852"/>
                                              </matrix>
@@ -2074,7 +2368,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="310.75" y="116.15"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 15" name="btn_lanjutdtb" centerPoint3DX="359.5" centerPoint3DY="1166.3">
+                                        <DOMSymbolInstance libraryItemName="Symbol 15Game" name="btn_lanjutdtb" centerPoint3DX="359.5" centerPoint3DY="1166.3">
                                              <matrix>
                                                   <Matrix tx="216" ty="1115"/>
                                              </matrix>
@@ -2114,7 +2408,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
 !-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
                                              </edges>
                                         </DOMShape>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -2122,7 +2416,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="88" ty="36"/>
                                              </matrix>
@@ -2140,7 +2434,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7Game">
                                              <matrix>
                                                   <Matrix a="0.87420654296875" d="1.09489440917969"/>
                                              </matrix>
@@ -2148,7 +2442,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 8">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 8Game">
                                              <matrix>
                                                   <Matrix a="0.87628173828125" d="0.845596313476562" tx="24" ty="317"/>
                                              </matrix>
@@ -2156,7 +2450,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="0.25" y="0.2"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -2164,7 +2458,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.45"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="36"/>
                                              </matrix>
@@ -2182,7 +2476,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 10" name="btn_jawaban1" centerPoint3DX="197" centerPoint3DY="685.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 10Game copy 2" name="btn_jawaban1" centerPoint3DX="197" centerPoint3DY="685.9">
                                              <matrix>
                                                   <Matrix tx="47" ty="650"/>
                                              </matrix>
@@ -2190,7 +2484,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 11" name="btn_jawaban2" centerPoint3DX="522" centerPoint3DY="685.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 11Game copy 2" name="btn_jawaban2" centerPoint3DX="522" centerPoint3DY="685.9">
                                              <matrix>
                                                   <Matrix tx="372" ty="650"/>
                                              </matrix>
@@ -2198,7 +2492,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="btn_jawaban3" centerPoint3DX="197" centerPoint3DY="785.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 12Game copy 2" name="btn_jawaban3" centerPoint3DX="197" centerPoint3DY="785.9">
                                              <matrix>
                                                   <Matrix tx="47" ty="750"/>
                                              </matrix>
@@ -2206,7 +2500,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 13" name="btn_jawaban4" centerPoint3DX="522" centerPoint3DY="785.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 13Game copy 2" name="btn_jawaban4" centerPoint3DX="522" centerPoint3DY="785.9">
                                              <matrix>
                                                   <Matrix tx="372" ty="750"/>
                                              </matrix>
@@ -2214,7 +2508,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="dropZone" centerPoint3DX="360.65" centerPoint3DY="968.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 14Game" name="dropZone" centerPoint3DX="360.65" centerPoint3DY="968.5">
                                              <matrix>
                                                   <Matrix tx="49" ty="852"/>
                                              </matrix>
@@ -2222,7 +2516,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="310.75" y="116.15"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 15" name="btn_lanjutdtb" centerPoint3DX="359.5" centerPoint3DY="1166.3">
+                                        <DOMSymbolInstance libraryItemName="Symbol 15Game" name="btn_lanjutdtb" centerPoint3DX="359.5" centerPoint3DY="1166.3">
                                              <matrix>
                                                   <Matrix tx="216" ty="1115"/>
                                              </matrix>
@@ -2258,11 +2552,11 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                              </fills>
                                              <edges>
                                                   <Edge fillStyle0="1" edges="
-!14407 159[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9 203
-!-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
+!14407 159S1[14399 356 14339 527!14339 527[14287 678 14194 811!14194 811[14158 862 14116 909!14116 909[13824 1243 13412 1243!13412 1243|983 1243!983 1243[572 1243 280 909!280 909[215 835 165 756!165 756[14 514 -8 212!-8 212[-9 206 -9
+ 203!-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
                                              </edges>
                                         </DOMShape>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -2270,7 +2564,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="88" ty="36"/>
                                              </matrix>
@@ -2288,7 +2582,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7Game">
                                              <matrix>
                                                   <Matrix a="0.87420654296875" d="1.09489440917969"/>
                                              </matrix>
@@ -2296,7 +2590,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 8">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 8Game">
                                              <matrix>
                                                   <Matrix a="0.87628173828125" d="0.845596313476562" tx="24" ty="317"/>
                                              </matrix>
@@ -2304,7 +2598,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="0.25" y="0.2"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -2312,7 +2606,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.45"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="36"/>
                                              </matrix>
@@ -2330,7 +2624,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 10" name="btn_jawaban1" centerPoint3DX="197" centerPoint3DY="685.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 10Game copy 3" name="btn_jawaban1" centerPoint3DX="197" centerPoint3DY="685.9">
                                              <matrix>
                                                   <Matrix tx="47" ty="650"/>
                                              </matrix>
@@ -2338,7 +2632,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 11" name="btn_jawaban2" centerPoint3DX="522" centerPoint3DY="685.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 11Game copy 3" name="btn_jawaban2" centerPoint3DX="522" centerPoint3DY="685.9">
                                              <matrix>
                                                   <Matrix tx="372" ty="650"/>
                                              </matrix>
@@ -2346,7 +2640,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="btn_jawaban3" centerPoint3DX="197" centerPoint3DY="785.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 12Game copy 3" name="btn_jawaban3" centerPoint3DX="197" centerPoint3DY="785.9">
                                              <matrix>
                                                   <Matrix tx="47" ty="750"/>
                                              </matrix>
@@ -2354,7 +2648,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 13" name="btn_jawaban4" centerPoint3DX="522" centerPoint3DY="785.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 13Game copy 3" name="btn_jawaban4" centerPoint3DX="522" centerPoint3DY="785.9">
                                              <matrix>
                                                   <Matrix tx="372" ty="750"/>
                                              </matrix>
@@ -2362,7 +2656,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="dropZone" centerPoint3DX="360.65" centerPoint3DY="968.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 14Game" name="dropZone" centerPoint3DX="360.65" centerPoint3DY="968.5">
                                              <matrix>
                                                   <Matrix tx="49" ty="852"/>
                                              </matrix>
@@ -2370,7 +2664,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="310.75" y="116.15"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 15" name="btn_lanjutdtb" centerPoint3DX="359.5" centerPoint3DY="1166.3">
+                                        <DOMSymbolInstance libraryItemName="Symbol 15Game" name="btn_lanjutdtb" centerPoint3DX="359.5" centerPoint3DY="1166.3">
                                              <matrix>
                                                   <Matrix tx="216" ty="1115"/>
                                              </matrix>
@@ -2410,7 +2704,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
 !-9 203[-11 167 -12 133!-12 133|-12 25600!-12 25600|14407 25600!14407 25600|14407 159"/>
                                              </edges>
                                         </DOMShape>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -2418,7 +2712,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="88" ty="36"/>
                                              </matrix>
@@ -2436,7 +2730,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7Game">
                                              <matrix>
                                                   <Matrix a="0.87420654296875" d="1.09489440917969"/>
                                              </matrix>
@@ -2444,7 +2738,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 8">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 8Game">
                                              <matrix>
                                                   <Matrix a="0.87628173828125" d="0.845596313476562" tx="24" ty="317"/>
                                              </matrix>
@@ -2452,7 +2746,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="0.25" y="0.2"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875"/>
                                              </matrix>
@@ -2460,7 +2754,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="-0.45"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="49" ty="36"/>
                                              </matrix>
@@ -2478,7 +2772,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMSymbolInstance libraryItemName="Symbol 10" name="btn_jawaban1" centerPoint3DX="197" centerPoint3DY="685.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 10Game copy 4" name="btn_jawaban1" centerPoint3DX="197" centerPoint3DY="685.9">
                                              <matrix>
                                                   <Matrix tx="47" ty="650"/>
                                              </matrix>
@@ -2486,7 +2780,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 11" name="btn_jawaban2" centerPoint3DX="522" centerPoint3DY="685.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 11Game copy 4" name="btn_jawaban2" centerPoint3DX="522" centerPoint3DY="685.9">
                                              <matrix>
                                                   <Matrix tx="372" ty="650"/>
                                              </matrix>
@@ -2494,7 +2788,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="btn_jawaban3" centerPoint3DX="197" centerPoint3DY="785.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 12Game copy 4" name="btn_jawaban3" centerPoint3DX="197" centerPoint3DY="785.9">
                                              <matrix>
                                                   <Matrix tx="47" ty="750"/>
                                              </matrix>
@@ -2502,7 +2796,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 13" name="btn_jawaban4" centerPoint3DX="522" centerPoint3DY="785.9">
+                                        <DOMSymbolInstance libraryItemName="Symbol 13Game copy 4" name="btn_jawaban4" centerPoint3DX="522" centerPoint3DY="785.9">
                                              <matrix>
                                                   <Matrix tx="372" ty="750"/>
                                              </matrix>
@@ -2510,7 +2804,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="150" y="35.9"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="dropZone" centerPoint3DX="360.65" centerPoint3DY="968.5">
+                                        <DOMSymbolInstance libraryItemName="Symbol 14Game" name="dropZone" centerPoint3DX="360.65" centerPoint3DY="968.5">
                                              <matrix>
                                                   <Matrix tx="49" ty="852"/>
                                              </matrix>
@@ -2518,7 +2812,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
                                                   <Point x="310.75" y="116.15"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Symbol 15" name="btn_lanjutdtb" centerPoint3DX="359.5" centerPoint3DY="1166.3">
+                                        <DOMSymbolInstance libraryItemName="Symbol 15Game" name="btn_lanjutdtb" centerPoint3DX="359.5" centerPoint3DY="1166.3">
                                              <matrix>
                                                   <Matrix tx="216" ty="1115"/>
                                              </matrix>
@@ -2550,6 +2844,7 @@ setupLevelDTB(); // Timer di-restart bersih]]></script>
           </DOMTimeline>
           <DOMTimeline name="Skor" layerDepthEnabled="true">
                <layers>
+<<<<<<< HEAD
                     <DOMLayer name="script" color="#9933CC" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
@@ -2574,16 +2869,52 @@ if (MovieClip(root).waktuTotalGame != undefined) {
     totalDetik = int(MovieClip(root).waktuTotalGame);
 }
 txt_waktuAkhir.text = String(totalDetik);]]></script>
+=======
+                    <DOMLayer name="script" color="#9933CC" autoNamed="false" heightLiteral="24">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+
+// 1. Tampilkan Total Skor dari Ingatan Gaib
+if (Object(this).skorTotalGame != undefined) {
+    txt_poinAkhir.text = String(Object(this).skorTotalGame);
+} else {
+    txt_poinAkhir.text = "0"; // Jaga-jaga kalau dites langsung dari scene ini
+}
+
+// 2. Format dan Tampilkan Total Waktu Akhir
+if (Object(this).waktuTotalGame != undefined) {
+    var menitAkhir:int = Math.floor(Object(this).waktuTotalGame / 60);
+    var detikAkhir:int = Object(this).waktuTotalGame % 60;
+
+    var teksMenit:String = (menitAkhir < 10) ? "0" + menitAkhir : String(menitAkhir);
+    var teksDetik:String = (detikAkhir < 10) ? "0" + detikAkhir : String(detikAkhir);
+
+    // Menggabungkan dengan titik dua seperti desain UI "02:15"
+    txt_waktuAkhir.text = teksMenit + ":" + teksDetik;
+} else {
+    txt_waktuAkhir.text = "00:00";
+}]]></script>
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
+<<<<<<< HEAD
                     <DOMLayer name="Layer_3" color="#FF800A">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
                                         <DOMDynamicText name="txt_soalBenar" fontRenderingMode="device" width="236.3" height="46" isSelectable="false">
+=======
+                    <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true" heightLiteral="24">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="txt_soalBenar" fontRenderingMode="standard" width="236.3" height="46" isSelectable="false">
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
                                              <matrix>
                                                   <Matrix tx="78.4" ty="722.75"/>
                                              </matrix>
@@ -2596,7 +2927,11 @@ txt_waktuAkhir.text = String(totalDetik);]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMDynamicText>
+<<<<<<< HEAD
                                         <DOMDynamicText name="txt_waktuAkhir" fontRenderingMode="standard" left="-52.75" width="139.05" height="46" isSelectable="false">
+=======
+                                        <DOMDynamicText name="txt_waktuAkhir" selected="true" fontRenderingMode="standard" left="-52.75" width="139.05" height="46" isSelectable="false">
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
                                              <matrix>
                                                   <Matrix tx="435" ty="722.75"/>
                                              </matrix>
@@ -2622,7 +2957,11 @@ txt_waktuAkhir.text = String(totalDetik);]]></script>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
+<<<<<<< HEAD
                                         <DOMDynamicText name="txt_poinAkhir" fontRenderingMode="device" width="344.95" height="169.7" isSelectable="false">
+=======
+                                        <DOMDynamicText name="txt_poinAkhir" fontRenderingMode="standard" width="344.95" height="169.7" isSelectable="false">
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
                                              <matrix>
                                                   <Matrix tx="190.2" ty="414.45"/>
                                              </matrix>
@@ -2655,7 +2994,7 @@ txt_waktuAkhir.text = String(totalDetik);]]></script>
  203[1 167 0 133!0 133|0 25600!0 25600|14419 25600!14419 25600|14419 159"/>
                                              </edges>
                                         </DOMShape>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3Game">
                                              <matrix>
                                                   <Matrix a="0.874237060546875" d="0.874237060546875" tx="1"/>
                                              </matrix>
@@ -2663,17 +3002,17 @@ txt_waktuAkhir.text = String(totalDetik);]]></script>
                                                   <Point x="-0.4"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 4">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 4Game">
                                              <matrix>
                                                   <Matrix tx="50" ty="36"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 17">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 17Game">
                                              <matrix>
                                                   <Matrix tx="25" ty="401"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 18">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 18Game">
                                              <matrix>
                                                   <Matrix a="2.04849243164062" d="2.04849243164062" tx="218" ty="186"/>
                                              </matrix>
@@ -2681,7 +3020,7 @@ txt_waktuAkhir.text = String(totalDetik);]]></script>
                                                   <Point y="-0.1"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 19">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 19Game">
                                              <matrix>
                                                   <Matrix a="0.758132934570312" d="0.758132934570312" tx="185" ty="932"/>
                                              </matrix>
@@ -2689,7 +3028,7 @@ txt_waktuAkhir.text = String(totalDetik);]]></script>
                                                   <Point x="-0.2" y="0.05"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="Bitmap 20">
+                                        <DOMBitmapInstance libraryItemName="Bitmap 20Game">
                                              <matrix>
                                                   <Matrix a="0.758132934570312" d="0.758132934570312" tx="185" ty="1064"/>
                                              </matrix>
@@ -2732,12 +3071,14 @@ txt_waktuAkhir.text = String(totalDetik);]]></script>
      </timelines>
      <scripts/>
      <persistentData>
-          <PD n="DebugMovieChecked" v="ADLDesktop"/>
           <PD n="ane.tmp.unzipped.folder" v="C:\Users\Felix\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
+          <PD n="DebugMovieChecked" v="ADLDesktop"/>
+          <PD n="TestMovieChecked" v="ADLDesktop"/>
           <PD n="com.air.sdk.path"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+<<<<<<< HEAD
           <PublishItem publishSize="67634" publishTime="1780802533" publishDebug="true"/>
           <PublishItem publishSize="67759" publishTime="1780801914" publishDebug="true"/>
           <PublishItem publishSize="67880" publishTime="1780801547" publishDebug="true"/>
@@ -2758,5 +3099,27 @@ txt_waktuAkhir.text = String(totalDetik);]]></script>
           <PublishItem publishSize="67301" publishTime="1780769349" publishDebug="true"/>
           <PublishItem publishSize="50322" publishTime="1780643981" publishDebug="true"/>
           <PublishItem publishSize="49966" publishTime="1780636844" publishDebug="true"/>
+=======
+          <PublishItem publishSize="56265" publishTime="1780768666"/>
+          <PublishItem publishSize="56265" publishTime="1780768441" publishDebug="true"/>
+          <PublishItem publishSize="56264" publishTime="1780768416" publishDebug="true"/>
+          <PublishItem publishSize="57493" publishTime="1780767276" publishDebug="true"/>
+          <PublishItem publishSize="57476" publishTime="1780766399" publishDebug="true"/>
+          <PublishItem publishSize="69108" publishTime="1780670915"/>
+          <PublishItem publishSize="70481" publishTime="1780670902"/>
+          <PublishItem publishSize="69100" publishTime="1780670852"/>
+          <PublishItem publishSize="69095" publishTime="1780670836"/>
+          <PublishItem publishSize="69100" publishTime="1780670774"/>
+          <PublishItem publishSize="69100" publishTime="1780670717"/>
+          <PublishItem publishSize="53237" publishTime="1780670395"/>
+          <PublishItem publishSize="52738" publishTime="1780670024"/>
+          <PublishItem publishSize="48323" publishTime="1780670015"/>
+          <PublishItem publishSize="48324" publishTime="1780670001"/>
+          <PublishItem publishSize="52038" publishTime="1780665009"/>
+          <PublishItem publishSize="52039" publishTime="1780664862"/>
+          <PublishItem publishSize="52697" publishTime="1780664649"/>
+          <PublishItem publishSize="52697" publishTime="1780664591"/>
+          <PublishItem publishSize="52697" publishTime="1780664557"/>
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826
      </publishHistory>
 </DOMDocument>
