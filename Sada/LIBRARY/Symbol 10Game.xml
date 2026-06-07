@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 10Game" itemID="6a22ba52-0000021c" lastModified="1780767898">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 10Game" itemID="6a22ba52-0000021c" lastModified="1780668834">
   <timeline>
     <DOMTimeline name="Symbol 10Game" layerDepthEnabled="true">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true" heightLiteral="24">
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -11,7 +11,7 @@
                     <Matrix a="0.882354736328125" d="0.718414306640625"/>
                   </matrix>
                 </DOMBitmapInstance>
-                <DOMDynamicText name="txt_label" fontRenderingMode="standard" width="102.25" height="27.1" isSelectable="false" lineType="multiline">
+                <DOMStaticText fontRenderingMode="standard" width="102.25" height="27.1" isSelectable="false">
                   <matrix>
                     <Matrix tx="98.9" ty="22.35"/>
                   </matrix>
@@ -19,11 +19,11 @@
                     <DOMTextRun>
                       <characters>cin</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="27.1" size="25" bitmapSize="500" face="TwCenMT-CondensedExtraBold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="27.1" size="25" face="TwCenMT-CondensedExtraBold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMDynamicText>
+                </DOMStaticText>
               </elements>
             </DOMFrame>
           </frames>

@@ -5,7 +5,7 @@
     <flash>1</flash>
     <projectorWin>0</projectorWin>
     <projectorMac>0</projectorMac>
-    <html>1</html>
+    <html>0</html>
     <gif>0</gif>
     <jpeg>0</jpeg>
     <png>0</png>
@@ -36,7 +36,7 @@
   </PublishFormatProperties>
   <PublishHtmlProperties enabled="true">
     <VersionDetectionIfAvailable>0</VersionDetectionIfAvailable>
-    <VersionInfo>32,0,0,0;30,0,0,0;26,0,0,0;25,0,0,0;23,0,0,0;21,0,0,0;20,0,0,0;19,0,0,0;18,0,0,0;17,0,0,0;16,0,0,0;14,0,0,0;13,0,0,0;12,0,0,0;11,9,0,0;11,8,0,0;11,7,0,0;11,6,0,0;11,5,0,0;11,4,0,0;11,3,0,0;11,2,0,0;11,1,0,0;10,3,0,0;10,2,153,0;10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
+    <VersionInfo>0,0,0,0;32,0,0,0;30,0,0,0;26,0,0,0;25,0,0,0;23,0,0,0;21,0,0,0;20,0,0,0;19,0,0,0;18,0,0,0;17,0,0,0;16,0,0,0;14,0,0,0;13,0,0,0;12,0,0,0;11,9,0,0;11,8,0,0;11,7,0,0;11,6,0,0;11,5,0,0;11,4,0,0;11,3,0,0;11,2,0,0;11,1,0,0;10,3,0,0;10,2,153,0;10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
     <UsingDefaultContentFilename>1</UsingDefaultContentFilename>
     <UsingDefaultAlternateFilename>1</UsingDefaultAlternateFilename>
     <ContentFilename>CodeLearn-Kelompok8_content.html</ContentFilename>
@@ -131,7 +131,7 @@
     <Animated>0</Animated>
     <MatchMovieDim>1</MatchMovieDim>
     <Loop>1</Loop>
-    <LoopCount></LoopCount>
+    <LoopCount>0</LoopCount>
     <Smooth>1</Smooth>
     <MaxColors>255</MaxColors>
   </PublishGifProperties>
@@ -159,7 +159,7 @@
     <Property name="copy">true</Property>
     <Property name="default">true</Property>
     <Property name="embed">false</Property>
-    <Property name="filename">Untitled-1.svg</Property>
+    <Property name="filename">CodeLearn-Kelompok8.svg</Property>
     <Property name="imagesPath">images</Property>
     <Property name="includeHiddenLayers">true</Property>
     <Property name="optimizeForCH">false</Property>
@@ -167,11 +167,11 @@
   </PublishProperties>
   <PublishProperties id="BBC1F806-66F2-4339-9306-FA48C7549E59" name="Mac Projector" otf="true" enabled="true">
     <Property name="default">true</Property>
-    <Property name="filename">Untitled-1.app</Property>
+    <Property name="filename">CodeLearn-Kelompok8.app</Property>
   </PublishProperties>
   <PublishProperties id="BBC2F906-78F3-4239-9305-FA48C8549E59" name="Win Projector" otf="true" enabled="true">
     <Property name="default">true</Property>
-    <Property name="filename">Untitled-1.exe</Property>
+    <Property name="filename">CodeLearn-Kelompok8.exe</Property>
   </PublishProperties>
 </flash_profile>
 </flash_profiles>

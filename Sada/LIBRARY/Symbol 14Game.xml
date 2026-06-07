@@ -2,14 +2,14 @@
   <timeline>
     <DOMTimeline name="Symbol 14Game" layerDepthEnabled="true">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true" heightLiteral="24">
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[stop();]]></script>
               </Actionscript>
               <elements>
-                <DOMBitmapInstance libraryItemName="Bitmap 19Game copy">
+                <DOMBitmapInstance selected="true" libraryItemName="Bitmap 19Game copy">
                   <matrix>
                     <Matrix a="0.813766479492188" d="0.64898681640625"/>
                   </matrix>
