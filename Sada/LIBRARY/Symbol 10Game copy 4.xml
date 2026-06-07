@@ -1,4 +1,8 @@
+<<<<<<< HEAD:Sada/LIBRARY/Symbol 10.xml
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 10" itemID="6a21c84e-00000031" lastModified="1780768986">
+=======
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 10Game copy 4" itemID="6a22dc43-000002a0" lastModified="1780669523">
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826:Sada/LIBRARY/Symbol 10Game copy 4.xml
   <timeline>
     <DOMTimeline name="Symbol 10Game copy 4" layerDepthEnabled="true">
       <layers>
@@ -11,7 +15,11 @@
                     <Matrix a="0.882354736328125" d="0.718414306640625"/>
                   </matrix>
                 </DOMBitmapInstance>
+<<<<<<< HEAD:Sada/LIBRARY/Symbol 10.xml
+                <DOMDynamicText name="txt_label" selected="true" fontRenderingMode="standard" width="102.25" height="27.1" isSelectable="false" lineType="multiline">
+=======
                 <DOMStaticText fontRenderingMode="standard" width="102.25" height="27.1" isSelectable="false">
+>>>>>>> dc48862b0bfce700207a846abfcbd389769fb826:Sada/LIBRARY/Symbol 10Game copy 4.xml
                   <matrix>
                     <Matrix tx="98.9" ty="22.35"/>
                   </matrix>
@@ -19,11 +27,11 @@
                     <DOMTextRun>
                       <characters>if</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="27.1" size="25" face="TwCenMT-CondensedExtraBold"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="27.1" size="25" bitmapSize="500" face="TwCenMT-CondensedExtraBold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
-                </DOMStaticText>
+                </DOMDynamicText>
               </elements>
             </DOMFrame>
           </frames>
