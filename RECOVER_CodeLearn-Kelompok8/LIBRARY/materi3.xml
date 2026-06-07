@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="materi3" itemID="6a0150e5-000002d0" symbolType="button" lastModified="1778503318">
+  <timeline>
+    <DOMTimeline name="materi3" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Bitmap 8">
+                  <matrix>
+                    <Matrix a="0.914215087890625" d="0.907150268554688"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Bitmap 8">
+                  <matrix>
+                    <Matrix a="0.914215087890625" d="0.907150268554688"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Bitmap 16">
+                  <matrix>
+                    <Matrix a="0.914199829101562" d="0.907150268554688"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Bitmap 8">
+                  <matrix>
+                    <Matrix a="0.914215087890625" d="0.907150268554688"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Bitmap 16">
+                  <matrix>
+                    <Matrix a="0.914199829101562" d="0.907150268554688"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

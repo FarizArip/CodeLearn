@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 4Game" itemID="6a22b994-00000216" lastModified="1780660628">
+  <timeline>
+    <DOMTimeline name="Symbol 4Game" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Bitmap 11Game copy">
+                  <matrix>
+                    <Matrix a="0.739242553710938" d="0.73931884765625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.05" y="-2.1"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

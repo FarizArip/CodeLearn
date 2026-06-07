@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 2" itemID="6a013fd1-00000026" symbolType="button" lastModified="1778466769">
+  <timeline>
+    <DOMTimeline name="Symbol 2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true" heightLiteral="32">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix ty="-922.55"/>
+                  </matrix>
+                  <members>
+                    <DOMShape>
+                      <matrix>
+                        <Matrix ty="-922.55"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#D9D9D9"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!0 18451|12163 18451!12163 18451[12297 18451 12297 18551!12297 18551|12297 20540!12297 20540[12297 20928 11797 20940!11797 20940|0 20940!0 20940|0 18451"/>
+                        <Edge cubics="!12163 18451(;12253,18451 12297,18484 12297,18551q12163 18451Q12297 18451q12297 18551);"/>
+                        <Edge cubics="!12297 20540(;12297,20799 12130,20932 11797,20940q12297 20540Q12297 20928q11797 20940);"/>
+                        <Edge cubics="!0 18451(;0,18451 12163,18451 12163,18451q0 18451 12163 18451);"/>
+                        <Edge cubics="!11797 20940(;11797,20940 0,20940 0,20940q11797 20940 0 20940);"/>
+                        <Edge cubics="!12297 18551(;12297,18551 12297,20540 12297,20540q12297 18551 12297 20540);"/>
+                        <Edge cubics="!0 20940(;0,20940 0,18451 0,18451q0 20940 0 18451);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText selected="true" width="453.55" height="97.65" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="72.75" ty="13.6"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Tentang</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.733333333333333" leftMargin="0.1" lineHeight="97.65" size="80" face="Calibri-Bold" fillColor="#004176"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
